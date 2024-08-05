@@ -1,0 +1,1001 @@
+Id,Cas,Name,Downloaded,Found_by,No_of_downloads, Done_by
+7761,1129-42-6,"Urea, N-(hexahydro-6-methyl-2-oxo-4-pyrimidinyl)-",FALSE, ,0, 
+7762,1129-47-1,"Propanoic acid, 2-methyl-, cyclohexyl ester",FALSE, ,0, 
+7764,1327-79-3,C.I. Vat Blue 43,FALSE, ,0, 
+7766,1327-88-4,C.I. Solubilised Sulphur Red 6,FALSE, ,0, 
+7768,1328-04-07,C.I. Pigment Violet 5:1,FALSE, ,0, 
+7770,1328-18-3,C.I. Vat Blue 19,FALSE, ,0, 
+7772,1328-24-1,C.I. Acid Black 48,FALSE, ,0, 
+7773,1328-25-2,C.I. Vat Black 9,FALSE, ,0, 
+7774,1328-53-6,C.I. Pigment Green 7,TRUE, CAS,3, Scout
+7775,1328-60-5,C.I. Natural Red 4:1,FALSE, ,0, 
+7777,1329-99-3,"Cyclohexane, 1-methyl-4-(1-methylethyl)-, tetradehydro deriv.",FALSE, ,0, 
+7778,1330-16-1,"Bicyclo[3.1.1]heptane, 2,6,6-trimethyl-, didehydro deriv.",FALSE, ,0, 
+7779,1330-20-7,"Benzene, dimethyl-",TRUE, CAS,3, Scout
+7781,1330-38-7,"Cuprate(2-), [29H,31H-phthalocyanine-C,C-disulfonato(4-)-.kappa.N29,.kappa.N30,.kappa.N31,.kappa.N32]-, sodium (1:2)",TRUE, CAS,3, Scout
+7782,1330-39-8,"Cuprate(3-), [29H,31H-phthalocyanine-C,C,C-trisulfonato(5-)-.kappa.N29,.kappa.N30,.kappa.N31,.kappa.N32]-, sodium (1:3)",FALSE, ,0, 
+7784,1330-43-4,Boron sodium oxide (B4Na2O7),TRUE, CAS,3, Scout
+7785,1330-61-6,"2-Propenoic acid, isodecyl ester",TRUE, CAS,3, Scout
+7787,1330-70-7,"Octadecanoic acid, hydroxy-",FALSE, ,0, 
+7789,1330-78-5,"Phosphoric acid, tris(methylphenyl) ester",TRUE, CAS,3, Scout
+7790,1330-80-9,"9-Octadecenoic acid (9Z)-, monoester with 1,2-propanediol",TRUE, CAS,1, Scout
+7792,1330-86-5,"Hexanedioic acid, 1,6-diisooctyl ester",FALSE, ,0, 
+7794,1331-12-0,"1,2-Propanediol, monoacetate",FALSE, ,0, 
+7795,1331-17-5,"Propanol, 1(or 2)-(2-propen-1-yloxy)-",FALSE, ,0, 
+7796,1331-22-2,"Cyclohexanone, methyl-",FALSE, ,0, 
+7797,1331-28-8,"Benzene, chloroethenyl-",FALSE, ,0, 
+7799,1331-61-9,"Benzenesulfonic acid, dodecyl-, ammonium salt (1:1)",FALSE, ,0, 
+7802,1331-83-5,"Benzenemethanol, ar-methoxy-, 1-acetate",FALSE, ,0, 
+7803,1825-30-5,"Naphthalene, 1,5-dichloro-",FALSE, ,0, 
+7805,1825-58-7,"Benzene, (ethoxydimethylsilyl)-",FALSE, ,0, 
+7806,1825-61-2,"Silane, methoxytrimethyl-",TRUE, CAS,3, Scout
+7807,1825-62-3,"Silane, ethoxytrimethyl-",TRUE, CAS,3, Scout
+7808,1825-63-4,"Silane, trimethylpropoxy-",TRUE, CAS,1, Scout
+7809,1825-68-9,"Silane, chloromethoxydimethyl-",FALSE, ,0, 
+7810,1826-28-4,"Methanone, phenyl-2-pyridinyl-, oxime",FALSE, ,0, 
+7811,1826-56-8,"Acetamide, N-ethyl-N-(4-nitrophenyl)-",FALSE, ,0, 
+7812,1826-67-1,"Magnesium, bromoethenyl-",TRUE, CAS,3, Scout
+7813,1829-00-1,"7-Benzothiazolesulfonic acid, 2,2'-(1-triazene-1,3-diyldi-4,1-phenylene)bis[6-methyl-, sodium salt (1:2)",TRUE, CAS,3, Scout
+7814,1829-40-9,"Disiloxane, 1,1,1,3,3,3-hexaphenyl-",FALSE, ,0, 
+7815,1830-54-2,"Pentanedioic acid, 3-oxo-, 1,5-dimethyl ester",TRUE, CAS,3, Scout
+7817,1830-78-0,"2-Propenoic acid, 2-methyl-, 1,1'-(2-hydroxy-1,3-propanediyl) ester",TRUE, CAS,2, Scout
+7819,1832-07-01,Phosphonitrile chloride,FALSE, ,0, 
+7821,1833-31-4,"Benzene, [(chlorodimethylsilyl)methyl]-",FALSE, ,0, 
+7822,1833-51-8,"Benzene, [(chloromethyl)dimethylsilyl]-",TRUE, CAS,1, Scout
+7823,1833-53-0,"Silane, trimethyl[(1-methylethenyl)oxy]-",FALSE, ,0, 
+7825,1834-30-6,"Acetic acid, iron(3+) salt (3:1)",TRUE, CAS,1, Scout
+7826,1836-22-2,"Benzoic acid, 2-[2-(2-hydroxy-3,6-disulfo-1-naphthalenyl)diazenyl]-, sodium salt (1:3)",FALSE, ,0, 
+7827,1836-75-5,"Benzene, 2,4-dichloro-1-(4-nitrophenoxy)-",TRUE, CAS,2, Scout
+7830,1838-08-0,"1-Octadecanamine, hydrochloride (1:1)",TRUE, CAS,2, Scout
+7832,1838-59-1,"Formic acid, 2-propen-1-yl ester",TRUE, CAS,2, Scout
+7833,1838-88-6,"2-Penten-1-ol, 2-methyl-, 1-acetate",FALSE, ,0, 
+7834,1839-11-8,"9,11-Octadecadienoic acid",FALSE, ,0, 
+7836,1843-03-04,"Phenol, 4,4',4''-(1-methyl-1-propanyl-3-ylidene)tris[2-(1,1-dimethylethyl)-5-methyl-",FALSE, ,0, 
+7837,1843-05-06,"Methanone, [2-hydroxy-4-(octyloxy)phenyl]phenyl-",FALSE, ,0, 
+7840,1847-55-8,"9-Octadecen-1-ol, 1-(hydrogen sulfate), sodium salt (1:1), (9Z)-",FALSE, ,0, 
+7841,1847-58-1,"Acetic acid, 2-sulfo-, dodecyl ester, sodium salt (1:1)",TRUE, CAS,3, Scout
+7843,1852-04-06,Undecanedioic acid,FALSE, ,0, 
+7844,1852-14-8,"Urea, N,N''-1,2-ethanediylbis-",FALSE, ,0, 
+7845,2382-96-9,2(3H)-Benzoxazolethione,TRUE, CAS,1, Scout
+7846,2385-77-5,"6-Octenal, 3,7-dimethyl-, (3R)-",FALSE, ,0, 
+7848,2386-52-9,"Methanesulfonic acid, silver(1+) salt (1:1)",TRUE, CAS,3, Scout
+7849,2386-53-0,"1-Dodecanesulfonic acid, sodium salt (1:1)",TRUE, CAS,3, Scout
+7850,2386-54-1,"1-Butanesulfonic acid, sodium salt (1:1)",TRUE, CAS,2, Scout
+7851,2386-56-3,"Methanesulfonic acid, potassium salt (1:1)",TRUE, CAS,2, Scout
+7852,2386-57-4,"Methanesulfonic acid, sodium salt (1:1)",TRUE, CAS,3, Scout
+7853,2386-60-9,1-Butanesulfonyl chloride,TRUE, CAS,1, Scout
+7854,2386-64-3,"Magnesium, chloroethyl-",TRUE, CAS,3, Scout
+7855,2386-87-0,"7-Oxabicyclo[4.1.0]heptane-3-carboxylic acid, 7-oxabicyclo[4.1.0]hept-3-ylmethyl ester",TRUE, CAS,3, Scout
+7856,2386-90-5,"6-Oxabicyclo[3.1.0]hexane, 2,2'-oxybis-",FALSE, ,0, 
+7857,03-03-2387 00:00,"1-Naphthalenecarboxaldehyde, 2-hydroxy-, 2-[(2-hydroxy-1-naphthalenyl)methylene]hydrazone",FALSE, ,0, 
+7858,2387-23-7,"Urea, N,N'-dicyclohexyl-",TRUE, CAS,3, Scout
+7860,07-12-2388 00:00,Dodecaneperoxoic acid,FALSE, ,0, 
+7861,2389-45-9,"L-Lysine, N2-[(1,1-dimethylethoxy)carbonyl]-N6-[(phenylmethoxy)carbonyl]-",TRUE, CAS,1, Scout
+7863,2390-54-7,"Benzothiazolium, 2-[4-(dimethylamino)phenyl]-3,6-dimethyl-, chloride (1:1)",TRUE, CAS,3, Scout
+7864,2390-56-9,"Phenazinium, 2-amino-8-(dimethylamino)-10-phenyl-, chloride (1:1)",FALSE, ,0, 
+7865,2390-59-2,"Ethanaminium, N-[4-[bis[4-(diethylamino)phenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-ethyl-, chloride (1:1)",TRUE, CAS,3, Scout
+7866,2390-60-5,"Ethanaminium, N-[4-[[4-(diethylamino)phenyl][4-(ethylamino)-1-naphthalenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-ethyl-, chloride (1:1)",TRUE, CAS,3, Scout
+7867,2390-63-8,"Xanthylium, 3,6-bis(diethylamino)-9-[2-(ethoxycarbonyl)phenyl]-, chloride (1:1)",TRUE, CAS,3, Scout
+7868,2391-30-2,"1H-Benz[de]isoquinoline-5-sulfonic acid, 6-amino-2,3-dihydro-2-(4-methylphenyl)-1,3-dioxo-, sodium salt (1:1)",TRUE, CAS,3, Scout
+7870,2391-80-2,"Carbamodithioic acid, N,N-dibutyl-, compd. with N-butyl-1-butanamine (1:1)",FALSE, ,0, 
+7871,2392-39-4,"Pregna-1,4-diene-3,20-dione, 9-fluoro-11,17-dihydroxy-16-methyl-21-(phosphonooxy)-, sodium salt (1:2), (11.beta.,16.alpha.)-",TRUE, CAS,3, Scout
+7873,2393-23-9,"Benzenemethanamine, 4-methoxy-",TRUE, CAS,2, Scout
+7875,2396-63-6,"1,6-Heptadiyne",TRUE, CAS,1, Scout
+7876,2396-65-8,"1,8-Nonadiyne",FALSE, ,0, 
+7877,2396-77-2,"2-Hexenoic acid, methyl ester",FALSE, ,0, 
+7878,2396-78-3,"3-Hexenoic acid, methyl ester",TRUE, CAS,1, Scout
+7879,2396-83-0,"3-Hexenoic acid, ethyl ester",TRUE, CAS,3, Scout
+7880,2396-84-1,"2,4-Hexadienoic acid, ethyl ester, (2E,4E)-",TRUE, CAS,1, Scout
+7881,2396-85-2,"2-Octenoic acid, methyl ester",FALSE, ,0, 
+7882,2397-00-4,"Benzoxazole, 2,2'-(1,2-ethenediyldi-4,1-phenylene)bis[5-methyl-",TRUE, CAS,3, Scout
+7883,2398-37-0,"Benzene, 1-bromo-3-methoxy-",TRUE, CAS,3, Scout
+7884,2398-81-4,"3-Pyridinecarboxylic acid, 1-oxide",TRUE, CAS,1, Scout
+7885,2398-96-1,"Carbamothioic acid, N-methyl-N-(3-methylphenyl)-, O-2-naphthalenyl ester",TRUE, CAS,3, Scout
+7886,2399-48-6,"2-Propenoic acid, (tetrahydro-2-furanyl)methyl ester",TRUE, CAS,3, Scout
+7887,2399-73-7,"Ethanamine, N,N-diethyl-, sulfate (2:1)",FALSE, ,0, 
+7889,3397-62-4,"1,3,5-Triazine-2,4-diamine, 6-chloro-",TRUE, CAS,1, Scout
+7891,3399-22-2,"1,4-Cyclohexanedicarboxylic acid, 1,4-dimethyl ester, trans-",TRUE, CAS,2, Scout
+7894,3401-73-8,"L-Aspartic acid, N-(3-carboxy-1-oxo-2-sulfopropyl)-N-octadecyl-, sodium salt (1:4)",FALSE, ,0, 
+7895,3401-74-9,"1-Dodecanaminium, N-dodecyl-N,N-dimethyl-, chloride (1:1)",TRUE, CAS,1, Scout
+7896,3401-80-7,"Benzoic acid, 3,6-dichloro-2-hydroxy-",TRUE, CAS,1, Scout
+7901,3405-45-6,"1-Butanamine, N-butyl-N-methyl-",FALSE, ,0, 
+7902,3406-84-6,"[1,1'-Biphenyl]-4,4'-disulfonyl dichloride",FALSE, ,0, 
+7903,3407-42-9,"Cyclohexanol, 3-(5,5,6-trimethylbicyclo[2.2.1]hept-2-yl)-",TRUE, CAS,3, Scout
+7905,3411-95-8,"Phenol, 2-(2-benzothiazolyl)-",FALSE, ,0, 
+7906,3414-89-9,"9,12-Octadecadienoic acid (9Z,12Z)-, potassium salt (1:1)",TRUE, CAS,2, Scout
+7907,3416-24-8,"D-Glucose, 2-amino-2-deoxy-",FALSE, ,0, 
+7908,3417-91-2,"L-Tyrosine, methyl ester, hydrochloride (1:1)",TRUE, CAS,3, Scout
+7911,3425-46-5,"Selenocyanic acid, potassium salt (1:1)",TRUE, CAS,3, Scout
+7912,3425-61-4,"Hydroperoxide, 1,1-dimethylpropyl",TRUE, CAS,2, Scout
+7916,3426-43-5,"Benzenesulfonic acid, 2,2'-(1,2-ethenediyl)bis[5-[[4-methoxy-6-(phenylamino)-1,3,5-triazin-2-yl]amino]-, sodium salt (1:2)",TRUE, CAS,1, Scout
+7922,3437-84-1,"Peroxide, bis(2-methyl-1-oxopropyl)",FALSE, ,0, 
+7924,3437-95-4,"Thiophene, 2-iodo-",TRUE, CAS,2, Scout
+7928,3441-14-3,"2-Naphthalenesulfonic acid, 3-[2-[4-(acetylamino)phenyl]diazenyl]-4-hydroxy-7-[[[[5-hydroxy-6-(2-phenyldiazenyl)-7-sulfo-2-naphthalenyl]amino]carbonyl]amino]-, sodium salt (1:2)",TRUE, CAS,2, Scout
+7929,3442-21-5,"Benzoic acid, 5-[2-[4-[2-(7-amino-1-hydroxy-3-sulfo-2-naphthalenyl)diazenyl]-1-naphthalenyl]diazenyl]-2-hydroxy-, sodium salt (1:2)",FALSE, ,0, 
+7931,4178-93-2,"Pentanamide, 2-amino-4-methyl-N-(4-nitrophenyl)-, (2S)-",TRUE, CAS,1, Scout
+7932,4179-19-5,"Benzene, 1,3-dimethoxy-5-methyl-",TRUE, CAS,1, Scout
+7933,05-12-4180 00:00,"Acetic acid, copper salt (1:?)",FALSE, ,0, 
+7934,4180-23-8,"Benzene, 1-methoxy-4-(1E)-1-propen-1-yl-",TRUE, CAS,3, Scout
+7936,4181-95-7,Tetracontane,TRUE, CAS,3, Scout
+7937,4182-44-9,"1,2-Ethanediamine, N1-(2-aminoethyl)-N1-dodecyl-",FALSE, ,0, 
+7938,4182-80-3,"1,4-Benzenediamine, N1,N1,N4,N4-tetrakis[4-(dibutylamino)phenyl]-",FALSE, ,0, 
+7941,4186-71-4,"Piperidinium, 1-ethyl-1-methyl-, iodide (1:1)",FALSE, ,0, 
+7943,4190-05-0,"[1,1'-Biphenyl]-2,3',4-triol",FALSE, ,0, 
+7945,4193-55-9,"Benzenesulfonic acid, 2,2'-(1,2-ethenediyl)bis[5-[[4-[bis(2-hydroxyethyl)amino]-6-(phenylamino)-1,3,5-triazin-2-yl]amino]-, sodium salt (1:2)",TRUE, CAS,3, Scout
+7946,4194-00-7,"Phenol, 2-methoxy-4-(1-propen-1-yl)-, 1-benzoate",FALSE, ,0, 
+7949,4196-86-5,"1,3-Propanediol, 2,2-bis[(benzoyloxy)methyl]-, 1,3-dibenzoate",TRUE, CAS,3, Scout
+7951,4196-89-8,"1,3-Propanediol, 2,2-dimethyl-, 1,3-dibenzoate",TRUE, CAS,3, Scout
+7952,4196-99-0,"Benzenesulfonic acid, 2-[2-(2-hydroxy-1-naphthalenyl)diazenyl]-5-[2-(4-sulfophenyl)diazenyl]-, sodium salt (1:2)",TRUE, CAS,3, Scout
+7953,05-09-4197 00:00,"2,7-Naphthalenedisulfonic acid, 3-[2-[4-(acetylamino)phenyl]diazenyl]-4,5-dihydroxy-, sodium salt (1:2)",FALSE, ,0, 
+7954,4197-25-5,"1H-Perimidine, 2,3-dihydro-2,2-dimethyl-6-[2-[4-(2-phenyldiazenyl)-1-naphthalenyl]diazenyl]-",TRUE, CAS,3, Scout
+7956,4199-88-6,"1,10-Phenanthroline, 5-nitro-",TRUE, CAS,1, Scout
+7957,4199-89-7,"1,10-Phenanthroline, 5-chloro-",FALSE, ,0, 
+7958,4200-55-9,"Phosphoric acid, tris(decyl) ester",FALSE, ,0, 
+7966,4203-77-4,"[3,3'-Bianthra[1,9-cd]pyrazole]-6,6'(1H,1'H)-dione, 1,1'-diethyl-",TRUE, CAS,1, Scout
+7967,4203-89-8,"2-Propenoic acid, 2-methyl-, 2-(1-oxa-4-azaspiro[4.5]dec-4-yl)ethyl ester",FALSE, ,0, 
+7968,4206-75-1,"Benzene, (chlorosilyl)-",FALSE, ,0, 
+7971,4207-56-1,"Benzenaminium, N,N,N-trimethyl-, (tribromide) (1:1)",TRUE, CAS,2, Scout
+7972,4208-49-5,"2-Furancarboxylic acid, 2-propen-1-yl ester",TRUE, CAS,1, Scout
+7973,5103-42-4,"[2,2'-Bi-1H-indene]-1,1',3,3'(2H,2'H)-tetrone, 2,2'-dihydroxy-",TRUE, CAS,1, Scout
+7974,5107-67-5,"1,1,3,3-Cyclohexanetetrapropanoic acid, 2-oxo-",FALSE, ,0, 
+7975,5108-69-0,"Propane, 1,1'-[ethylidenebis(oxy)]bis[2,2-dinitro-",FALSE, ,0, 
+7976,5108-96-3,"1-Pyrrolidinecarbodithioic acid, ammonium salt (1:1)",TRUE, CAS,3, Scout
+7980,5116-94-9,"1-Tridecanol, 1-(dihydrogen phosphate)",FALSE, ,0, 
+7981,5116-95-0,"1-Tridecanol, 1,1'-(hydrogen phosphate)",FALSE, ,0, 
+7983,04-12-5117 00:00,"2-Propen-1-one, 1-(4-morpholinyl)-",FALSE, ,0, 
+7986,5118-80-9,"1,3,5-Triazine-2,4-diamine, 6,6'-(1,3-phenylene)bis-",FALSE, ,0, 
+7987,5123-63-7,"Benzenesulfonic acid, 3-(diethylamino)-, sodium salt (1:1)",FALSE, ,0, 
+7988,5124-25-4,"Benzenesulfonamide, 3-nitro-N-phenyl-4-(phenylamino)-",TRUE, CAS,3, Scout
+7989,5124-30-1,"Cyclohexane, 1,1'-methylenebis[4-isocyanato-",TRUE, CAS,3, Scout
+7992,5128-28-9,"2,1,3-Benzoxadiazole, 4,6-dinitro-, 1-oxide",FALSE, ,0, 
+7994,5129-00-0,"Benzeneacetic acid, 4-hydroxy-.alpha.-(4-hydroxyphenyl)-, methyl ester",TRUE, CAS,2, Scout
+7996,5131-60-2,"1,3-Benzenediamine, 4-chloro-",TRUE, CAS,2, Scout
+7997,5131-66-8,"2-Propanol, 1-butoxy-",TRUE, CAS,3, Scout
+7999,5136-76-5,"Octadecanoic acid, iron salt (1:?)",FALSE, ,0, 
+8000,5137-52-0,"Benzeneacetic acid, pentyl ester",TRUE, CAS,2, Scout
+8001,5137-55-3,"1-Octanaminium, N-methyl-N,N-dioctyl-, chloride (1:1)",TRUE, CAS,1, Scout
+8002,5137-56-4,"1-Decanaminium, N,N-didecyl-N-methyl-, chloride (1:1)",FALSE, ,0, 
+8003,5137-70-2,"Phosphonic acid, P-dodecyl-",TRUE, CAS,2, Scout
+8004,5138-18-1,"Butanedioic acid, 2-sulfo-",TRUE, CAS,1, Scout
+8005,5138-86-3,"2-Propenoic acid, 2-methyl-, 2-ethylbutyl ester",FALSE, ,0, 
+8007,5139-88-8,"Phosphinic acid, P-phenyl-, compd. with 1,6-hexanediamine (2:1)",FALSE, ,0, 
+8008,5141-20-8,"Benzenemethanaminium, N-ethyl-N-[4-[[4-[ethyl[(3-sulfophenyl)methyl]amino]phenyl](4-sulfophenyl)methylene]-2,5-cyclohexadien-1-ylidene]-3-sulfo-, inner salt, sodium salt (1:2)",TRUE, CAS,2, Scout
+8009,5146-66-7,"2,6-Octadienenitrile, 3,7-dimethyl-",TRUE, CAS,2, Scout
+8010,5149-85-9,"Benzenediazonium, 4-(diethylamino)-, (T-4)-tetrachlorozincate(2-) (2:1)",FALSE, ,0, 
+8013,5153-24-2,"Zirconium, bis(acetato-.kappa.O)oxo-",TRUE, CAS,1, Scout
+8014,5153-25-3,"Benzoic acid, 4-hydroxy-, 2-ethylhexyl ester",TRUE, CAS,1, Scout
+8015,5153-63-9,"Acetic acid, compd. with pyridine (1:1)",TRUE, CAS,1, Scout
+8017,7209-38-3,"1,4-Piperazinedipropanamine",TRUE, CAS,2, Scout
+8018,7211-53-2,"Docosanoic acid, potassium salt (1:1)",FALSE, ,0, 
+8020,7212-44-4,"1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-",TRUE, CAS,3, Scout
+8023,7216-95-7,"Glycine, N,N-bis[2-[bis(carboxymethyl)amino]ethyl]-, potassium salt (1:5)",FALSE, ,0, 
+8024,7217-59-6,"Benzenethiol, 2-methoxy-",TRUE, CAS,2, Scout
+8029,7218-82-8,"Phenol, 2,2'-[(3,3'-dimethyl[1,1'-biphenyl]-4,4'-diyl)bis(2,1-diazenediyl)]bis[4-(1,1,3,3-tetramethylbutyl)-",FALSE, ,0, 
+8031,7223-38-3,"2-Propyn-1-amine, N,N-dimethyl-",TRUE, CAS,3, Scout
+8032,7226-23-5,"2(1H)-Pyrimidinone, tetrahydro-1,3-dimethyl-",TRUE, CAS,1, Scout
+8033,7234-49-3,"Hexanoic acid, 6-amino-, sodium salt (1:1)",FALSE, ,0, 
+8034,7235-40-7,".beta.,.beta.-Carotene",TRUE, CAS,3, Scout
+8035,7237-83-4,"1,2,4-Benzenetricarboxylic acid, 1,2,4-tris(2-oxiranylmethyl) ester",TRUE, CAS,2, Scout
+8036,7239-24-9,"1-Propanamine, N,N,2-trimethyl-",FALSE, ,0, 
+8039,7248-45-5,"Benzoic acid, 2-hydroxy-5-[2-[4-[[[[2-methoxy-4-[2-(3-sulfophenyl)diazenyl]phenyl]amino]carbonyl]amino]phenyl]diazenyl]-, sodium salt (1:2)",FALSE, ,0, 
+8042,7251-90-3,"2-Propenoic acid, 2-butoxyethyl ester",FALSE, ,0, 
+8043,7252-83-7,"Ethane, 2-bromo-1,1-dimethoxy-",TRUE, CAS,3, Scout
+8047,7268-92-0,"Copper, [propanedioato(2-)-.kappa.O1,.kappa.O3]-",TRUE, CAS,1, Scout
+8052,01-04-7281 00:00,"Benzenemethanaminium, N-dodecyl-N,N-dimethyl-, bromide (1:1)",FALSE, ,0, 
+8059,1129-62-0,"2-Butanone, 2-phenylhydrazone",FALSE, ,0, 
+8060,1131-01-07,"Acetamide, 2-chloro-N-(2,6-dimethylphenyl)-",FALSE, ,0, 
+8061,1131-16-4,"1H-Pyrazole, 3,5-dimethyl-1-phenyl-",FALSE, ,0, 
+8062,1131-18-6,"1H-Pyrazol-5-amine, 3-methyl-1-phenyl-",TRUE, CAS,3, Scout
+8064,1131-60-8,"Phenol, 4-cyclohexyl-",TRUE, CAS,2, Scout
+8067,1132-21-4,"Benzoic acid, 3,5-dimethoxy-",TRUE, CAS,1, Scout
+8069,1132-61-2,4-Morpholinepropanesulfonic acid,TRUE, CAS,2, Scout
+8070,1134-04-09,"Pyridine, 2,3,4,5-tetrachloro-6-(trichloromethyl)-",FALSE, ,0, 
+8071,1134-35-6,"2,2'-Bipyridine, 4,4'-dimethyl-",TRUE, CAS,3, Scout
+8072,1134-36-7,"[1,1'-Biphenyl]-4-ol, 3-amino-",FALSE, ,0, 
+8073,1135-24-6,"2-Propenoic acid, 3-(4-hydroxy-3-methoxyphenyl)-",TRUE, CAS,3, Scout
+8074,1135-40-6,"1-Propanesulfonic acid, 3-(cyclohexylamino)-",TRUE, CAS,3, Scout
+8076,1135-66-6,"2H-2,4a-Methanonaphthalene, 1,3,4,5,6,7-hexahydro-1,1,5,5-tetramethyl-, (2S,4aR)-",TRUE, CAS,2, Scout
+8077,1136-45-4,"4-Isoxazolecarboxylic acid, 5-methyl-3-phenyl-",TRUE, CAS,2, Scout
+8078,1137-41-3,"Methanone, (4-aminophenyl)phenyl-",TRUE, CAS,2, Scout
+8079,1137-42-4,"Methanone, (4-hydroxyphenyl)phenyl-",TRUE, CAS,2, Scout
+8081,1138-52-9,"Phenol, 3,5-bis(1,1-dimethylethyl)-",FALSE, ,0, 
+8083,1139-30-6,"5-Oxatricyclo[8.2.0.04,6]dodecane, 4,12,12-trimethyl-9-methylene-, (1R,4R,6R,10S)-",TRUE, CAS,3, Scout
+8084,1141-38-4,"2,6-Naphthalenedicarboxylic acid",TRUE, CAS,3, Scout
+8085,1141-59-9,"1,3-Benzenediol, 4-[2-(2-pyridinyl)diazenyl]-",TRUE, CAS,2, Scout
+8086,1141-88-4,"Benzenamine, 2,2'-dithiobis-",TRUE, CAS,1, Scout
+8088,1142-39-8,"Benzoic acid, 4-(hexyloxy)-",FALSE, ,0, 
+8089,1143-72-2,"Methanone, phenyl(2,3,4-trihydroxyphenyl)-",TRUE, CAS,3, Scout
+8091,1144-74-7,"Methanone, (4-nitrophenyl)phenyl-",TRUE, CAS,1, Scout
+8094,1148-79-4,"2,2':6',2''-Terpyridine",TRUE, CAS,2, Scout
+8095,1149-16-2,"Phenol, 2,2'-(1,2-ethanediylidenedinitrilo)bis-",TRUE, CAS,2, Scout
+8097,1152-57-4,"Propanedioic acid, 1,3-dicyclohexyl ester",FALSE, ,0, 
+8099,1153-05-05,"Arsine oxide, triphenyl-",FALSE, ,0, 
+8101,1154-59-2,"Benzamide, 3,5-dichloro-N-(3,4-dichlorophenyl)-2-hydroxy-",TRUE, CAS,2, Scout
+8106,1156-51-0,"Cyanic acid, C,C'-[(1-methylethylidene)di-4,1-phenylene] ester",TRUE, CAS,2, Scout
+8107,1159-53-1,"Benzenamine, 4-methyl-N,N-bis(4-methylphenyl)-",FALSE, ,0, 
+8110,1163-19-5,"Benzene, 1,1'-oxybis[2,3,4,5,6-pentabromo-",TRUE, CAS,3, Scout
+8111,1166-52-5,"Benzoic acid, 3,4,5-trihydroxy-, dodecyl ester",TRUE, CAS,2, Scout
+8112,1170-02-01,"Benzeneacetic acid, .alpha.,.alpha.'-(1,2-ethanediyldiimino)bis[2-hydroxy-",FALSE, ,0, 
+8113,1171-47-7,"Benzoic acid, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-",TRUE, CAS,1, Scout
+8114,1172-02-07,"Propanedinitrile, 2-(2,4,7-trinitro-9H-fluoren-9-ylidene)-",FALSE, ,0, 
+8116,1172-76-5,"Disilane, 1,2-dimethyl-1,1,2,2-tetraphenyl-",FALSE, ,0, 
+8117,1174-72-7,"Silicic acid (H4SiO4), tetraphenyl ester",FALSE, ,0, 
+8119,1176-74-5,"Benzoic acid, 2-[(3,5-dibromo-4-hydroxyphenyl)(3,5-dibromo-4-oxo-2,5-cyclohexadien-1-ylidene)methyl]-, ethyl ester",TRUE, CAS,1, Scout
+8120,1177-87-3,"Pregna-1,4-diene-3,20-dione, 21-(acetyloxy)-9-fluoro-11,17-dihydroxy-16-methyl-, (11.beta.,16.alpha.)-",TRUE, CAS,3, Scout
+8121,1178-79-6,"Stannane, chlorotris(2-methyl-2-phenylpropyl)-",FALSE, ,0, 
+8124,1182-66-7,"Cholest-5-en-3-ol (3.beta.)-, 3-nonanoate",TRUE, CAS,1, Scout
+8125,1183-04-06,"Cholest-5-en-3-ol (3.beta.)-, 3-decanoate",FALSE, ,0, 
+8126,1184-10-7,"2.lambda.5,4.lambda.5,6.lambda.5-1,3,5,2,4,6-Triazatriphosphorine, 2,2,4,4,6,6-hexaphenoxy-",TRUE, CAS,3, Scout
+8128,1184-58-3,"Aluminum, chlorodimethyl-",TRUE, CAS,1, Scout
+8130,1184-64-1,"Carbonic acid, copper(2+) salt (1:1)",TRUE, CAS,3, Scout
+8131,1184-65-2,"Germane, trichloro-",TRUE, CAS,1, Scout
+8132,1184-78-7,"Methanamine, N,N-dimethyl-, N-oxide",TRUE, CAS,1, Scout
+8134,1185-53-1,"1,3-Propanediol, 2-amino-2-(hydroxymethyl)-, hydrochloride (1:1)",TRUE, CAS,3, Scout
+8135,1185-55-3,"Silane, trimethoxymethyl-",TRUE, CAS,3, Scout
+8136,1185-57-5,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium iron(3+) salt (1:?:?)",TRUE, CAS,3, Scout
+8137,1185-59-7,"Ethanaminium, N,N,N-triethyl-, acetate (1:1)",TRUE, CAS,1, Scout
+8138,1185-81-5,"Stannane, dibutylbis(dodecylthio)-",TRUE, CAS,3, Scout
+8140,1186-50-1,"Neodymium, [.mu.-[ethanedioato(2-)-.kappa.O1,.kappa.O2':.kappa.O1',.kappa.O2]]bis[ethanedioato(2-)-.kappa.O1,.kappa.O2]di-",FALSE, ,0, 
+8141,1187-03-07,"Urea, N,N,N',N'-tetraethyl-",FALSE, ,0, 
+8142,1187-33-3,"Propanamide, N,N-dibutyl-",FALSE, ,0, 
+8143,1187-42-4,"2-Butenedinitrile, 2,3-diamino-, (2Z)-",TRUE, CAS,3, Scout
+8144,1187-58-2,"Propanamide, N-methyl-",FALSE, ,0, 
+8145,1187-59-3,"2-Propenamide, N-methyl-",FALSE, ,0, 
+8146,1187-93-5,"Ethene, 1,1,2-trifluoro-2-(trifluoromethoxy)-",TRUE, CAS,1, Scout
+8147,1188-02-09,"Heptanoic acid, 2-methyl-",FALSE, ,0, 
+8148,1188-09-06,"2-Propenoic acid, 2-methyl-, 1,1'-(1,3-propanediyl) ester",FALSE, ,0, 
+8149,1188-21-2,"L-Leucine, N-acetyl-",TRUE, CAS,3, Scout
+8151,1188-37-0,"L-Glutamic acid, N-acetyl-",TRUE, CAS,3, Scout
+8153,1189-08-08,"2-Propenoic acid, 2-methyl-, 1,1'-(1-methyl-1,3-propanediyl) ester",FALSE, ,0, 
+8154,1189-09-09,"2,6-Octadienoic acid, 3,7-dimethyl-, methyl ester, (2E)-",FALSE, ,0, 
+8155,1189-71-5,Sulfuryl chloride isocyanate,TRUE, CAS,3, Scout
+8156,1189-93-1,"Trisiloxane, 1,1,3,3,5,5-hexamethyl-",TRUE, CAS,2, Scout
+8157,1190-16-5,"Butanenitrile, 4-(dichloromethylsilyl)-",FALSE, ,0, 
+8158,1190-22-3,"Butane, 1,3-dichloro-",TRUE, CAS,1, Scout
+8159,1190-63-2,"Octadecanoic acid, hexadecyl ester",TRUE, CAS,3, Scout
+8162,1191-08-08,"1,4-Butanedithiol",FALSE, ,0, 
+8163,1191-15-7,"Aluminum, hydrobis(2-methylpropyl)-",TRUE, CAS,3, Scout
+8164,1191-16-8,"2-Buten-1-ol, 3-methyl-, 1-acetate",TRUE, CAS,2, Scout
+8165,1191-41-9,"9,12,15-Octadecatrienoic acid, ethyl ester, (9Z,12Z,15Z)-",TRUE, CAS,2, Scout
+8166,1191-47-5,"Magnesium, dibutyl-",TRUE, CAS,2, Scout
+8167,1191-50-0,"1-Tetradecanol, 1-(hydrogen sulfate), sodium salt (1:1)",TRUE, CAS,3, Scout
+8168,1191-79-3,"Octadecanoic acid, barium cadmium salt (4:1:1)",FALSE, ,0, 
+8169,1191-80-6,"9-Octadecenoic acid (9Z)-, mercury(2+) salt (2:1)",FALSE, ,0, 
+8170,1191-95-3,Cyclobutanone,TRUE, CAS,3, Scout
+8172,1191-99-7,"Furan, 2,3-dihydro-",TRUE, CAS,3, Scout
+8175,1192-37-6,"Cyclohexane, methylene-",TRUE, CAS,2, Scout
+8176,1192-62-7,"Ethanone, 1-(2-furanyl)-",TRUE, CAS,2, Scout
+8178,1193-10-8,"Thiophene, 2,5-dihydro-3-methyl-, 1,1-dioxide",FALSE, ,0, 
+8179,1193-18-6,"2-Cyclohexen-1-one, 3-methyl-",FALSE, ,0, 
+8182,1193-65-3,"1-Azabicyclo[2.2.2]octan-3-one, hydrochloride (1:1)",TRUE, CAS,3, Scout
+8183,1193-66-4,"1,4-Diazabicyclo[2.2.2]octane, 2-methyl-",FALSE, ,0, 
+8184,1193-81-3,"Cyclohexanemethanol, .alpha.-methyl-",FALSE, ,0, 
+8185,1194-02-01,"Benzonitrile, 4-fluoro-",FALSE, ,0, 
+8188,1195-32-0,"Benzene, 1-methyl-4-(1-methylethenyl)-",TRUE, CAS,2, Scout
+8189,1195-79-5,"Bicyclo[2.2.1]heptan-2-one, 1,3,3-trimethyl-",TRUE, CAS,2, Scout
+8191,1195-92-2,"7-Oxabicyclo[4.1.0]heptane, 1-methyl-4-(1-methylethenyl)-",TRUE, CAS,3, Scout
+8192,1196-01-06,"Bicyclo[3.1.1]hept-3-en-2-one, 4,6,6-trimethyl-, (1S,5S)-",FALSE, ,0, 
+8194,1196-57-2,2(1H)-Quinoxalinone,TRUE, CAS,1, Scout
+8196,1197-01-09,"Benzenemethanol, .alpha.,.alpha.,4-trimethyl-",FALSE, ,0, 
+8200,1197-55-3,"Benzeneacetic acid, 4-amino-",TRUE, CAS,3, Scout
+8203,1198-55-6,"1,2-Benzenediol, 3,4,5,6-tetrachloro-",FALSE, ,0, 
+8206,1198-77-2,"1H-Purine-2,6,8(3H)-trione, 7,9-dihydro-, sodium salt (1:1)",TRUE, CAS,2, Scout
+8208,1199-03-07,"2,3-Quinoxalinedithione, 1,4-dihydro-",FALSE, ,0, 
+8210,1199-36-6,"Benzene, 1-chloro-4-(methylthio)-2-nitro-",FALSE, ,0, 
+8212,1200-03-09,"Benzene, (4-bromobutoxy)-",FALSE, ,0, 
+8214,1200-67-5,"Bicyclo[2.2.1]heptan-2-ol, 1,7,7-trimethyl-, 2-formate, (1R,2R,4R)-rel-",FALSE, ,0, 
+8216,1201-30-5,"Pyridine, 3,4,5-trichloro-2-(trichloromethyl)-",FALSE, ,0, 
+8217,1201-31-6,"Benzoic acid, 2,3,4,5-tetrafluoro-",TRUE, CAS,3, Scout
+8219,1202-34-2,"2-Pyridinamine, N-2-pyridinyl-",TRUE, CAS,3, Scout
+8223,1204-06-04,"2-Propenoic acid, 3-(1H-indol-3-yl)-",FALSE, ,0, 
+8224,1204-28-0,"5-Isobenzofurancarbonyl chloride, 1,3-dihydro-1,3-dioxo-",TRUE, CAS,2, Scout
+8226,1205-17-0,"1,3-Benzodioxole-5-propanal, .alpha.-methyl-",TRUE, CAS,3, Scout
+8227,1205-42-1,"2-Cyclohexen-1-ol, 2-methyl-5-(1-methylethenyl)-, 1-acetate, (1R,5R)-rel-",FALSE, ,0, 
+8228,1205-64-7,"Benzenamine, 3-methyl-N-phenyl-",FALSE, ,0, 
+8229,1205-91-0,"1,4-Benzenediol, 1,4-diacetate",TRUE, CAS,3, Scout
+8230,1206-49-1,"1H-Pyrrole-2,5-dione, 1-(2,6-dimethylphenyl)-",FALSE, ,0, 
+8231,1207-12-1,"Dibenzothiophene, 4,6-dimethyl-",TRUE, CAS,1, Scout
+8232,1207-69-8,"Acridine, 9-chloro-",TRUE, CAS,2, Scout
+8235,1208-52-2,"Benzenamine, 2-[(4-aminophenyl)methyl]-",TRUE, CAS,1, Scout
+8236,1208-67-9,"Benzenesulfonic acid, 4-[(2-methyl-2-propen-1-yl)oxy]-, sodium salt (1:1)",FALSE, ,0, 
+8237,1209-61-6,"5-Oxatricyclo[8.2.0.04,6]dodecane, 4,9,12,12-tetramethyl-",TRUE, CAS,2, Scout
+8239,1210-12-4,9-Anthracenecarbonitrile,FALSE, ,0, 
+8240,1210-35-1,"5H-Dibenzo[a,d]cyclohepten-5-one, 10,11-dihydro-",TRUE, CAS,2, Scout
+8244,1211-29-6,"Cyclopentaneacetic acid, 3-oxo-2-(2Z)-2-penten-1-yl-, methyl ester, (1R,2R)-",FALSE, ,0, 
+8246,1214-39-7,"9H-Purin-6-amine, N-(phenylmethyl)-",TRUE, CAS,3, Scout
+8247,1214-47-7,"2-Propen-1-one, 1-(2-hydroxyphenyl)-3-phenyl-",TRUE, CAS,2, Scout
+8248,1215-57-2,"Benzenamine, N,N'-methanetetraylbis[2-methyl-",FALSE, ,0, 
+8249,1217-08-09,"1H-Indene-5-ethanol, 2,3-dihydro-.beta.,1,1,2,3,3-hexamethyl-",FALSE, ,0, 
+8250,1217-45-4,"9,10-Anthracenedicarbonitrile",TRUE, CAS,1, Scout
+8252,1218-35-5,"1H-Imidazole, 2-[[4-(1,1-dimethylethyl)-2,6-dimethylphenyl]methyl]-4,5-dihydro-, hydrochloride (1:1)",TRUE, CAS,3, Scout
+8253,1220-94-6,"9,10-Anthracenedione, 1-amino-4-(methylamino)-",FALSE, ,0, 
+8254,1222-05-05,"Cyclopenta[g]-2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethyl-",FALSE, ,0, 
+8258,1226-42-2,"1,2-Ethanedione, 1,2-bis(4-methoxyphenyl)-",TRUE, CAS,3, Scout
+8260,1226-46-6,"Methanethione, bis[4-(dimethylamino)phenyl]-",TRUE, CAS,2, Scout
+8261,1228-53-1,"Benzene, 1,1'-sulfonylbis[3-nitro-",TRUE, CAS,1, Scout
+8262,1229-55-6,"2-Naphthalenol, 1-[2-(2-methoxyphenyl)diazenyl]-",TRUE, CAS,1, Scout
+8263,1234-35-1,"L-Arginine, N2-[(phenylmethoxy)carbonyl]-",TRUE, CAS,1, Scout
+8266,1241-94-7,"Phosphoric acid, 2-ethylhexyl diphenyl ester",TRUE, CAS,3, Scout
+8267,1245-13-2,"[2,2'-Biquinoline]-4,4'-dicarboxylic acid",FALSE, ,0, 
+8268,1248-18-6,"1-Naphthalenesulfonic acid, 2-[2-(2-hydroxy-1-naphthalenyl)diazenyl]-, sodium salt (1:1)",FALSE, ,0, 
+8269,1248-66-4,"Phenol, 2,2'-[6-(phenylamino)-1,3,5-triazine-2,4-diyl]bis-",FALSE, ,0, 
+8273,1254-78-0,"Phosphorous acid, didecyl phenyl ester",FALSE, ,0, 
+8275,1260-17-9,"2-Anthracenecarboxylic acid, 7-.beta.-D-glucopyranosyl-9,10-dihydro-3,5,6,8-tetrahydroxy-1-methyl-9,10-dioxo-",TRUE, CAS,2, Scout
+8280,1271-19-8,"Titanium, dichlorobis(.eta.5-2,4-cyclopentadien-1-yl)-",TRUE, CAS,3, Scout
+8281,1271-24-5,Chromocene,TRUE, CAS,1, Scout
+8282,1271-28-9,Nickelocene,TRUE, CAS,3, Scout
+8283,1271-55-2,"Ferrocene, acetyl-",TRUE, CAS,3, Scout
+8284,1271-86-9,"Ferrocene, [(dimethylamino)methyl]-",TRUE, CAS,3, Scout
+8285,1272-44-2,"Ferrocene, benzoyl-",FALSE, ,0, 
+8286,1273-89-8,"Ferrocene, ethyl-",TRUE, CAS,2, Scout
+8288,1277-43-6,Cobaltocene,TRUE, CAS,3, Scout
+8289,1284-72-6,Magnesocene,TRUE, CAS,3, Scout
+8291,1291-32-3,"Zirconium, dichlorobis(.eta.5-2,4-cyclopentadien-1-yl)-",TRUE, CAS,3, Scout
+8292,1299-86-1,Aluminum carbide (Al4C3),TRUE, CAS,3, Scout
+8294,1300-35-2,"Benzenesulfonic acid, hydroxy-, aluminum salt (3:1)",FALSE, ,0, 
+8296,1300-51-2,"Benzenesulfonic acid, hydroxy-, sodium salt (1:1)",FALSE, ,0, 
+8297,1300-71-6,"Phenol, dimethyl-",TRUE, CAS,3, Scout
+8298,1300-72-7,"Benzenesulfonic acid, dimethyl-, sodium salt (1:1)",TRUE, CAS,3, Scout
+8299,1300-73-8,"Benzenamine, ar,ar-dimethyl-",TRUE, CAS,1, Scout
+8300,1300-92-1,"Benzenesulfonic acid, (phenylamino)-, barium salt (2:1)",TRUE, CAS,1, Scout
+8301,1301-70-8,"1,2,3-Propanetriol, mono(dihydrogen phosphate), iron(3+) salt (3:2)",FALSE, ,0, 
+8302,1301-96-8,Silver oxide (AgO),TRUE, CAS,3, Scout
+8303,1302-09-06,Silver selenide (Ag2Se),FALSE, ,0, 
+8304,1302-37-0,Spodumene (AlLi(SiO3)2),TRUE, CAS,3, Scout
+8305,1302-42-7,"Aluminate (AlO21-), sodium (1:1)",TRUE, CAS,3, Scout
+8306,1302-52-9,Beryl (Al2Be3(SiO3)6),FALSE, ,0, 
+8308,1302-65-4,Eucryptite (AlLi(SiO4)),FALSE, ,0, 
+8309,1302-67-6,Spinel (Mg(AlO2)2),TRUE, CAS,1, Scout
+8310,1302-78-9,Bentonite,TRUE, CAS,3, Scout
+8311,1302-81-4,Aluminum sulfide (Al2S3),TRUE, CAS,3, Scout
+8312,1302-82-5,Aluminum selenide (Al2Se3),TRUE, CAS,2, Scout
+8314,1302-88-1,Cordierite (Mg2[Al4O3(SiO3)5]),TRUE, CAS,3, Scout
+8315,1302-93-8,Mullite (Al6O5(SiO4)2),TRUE, CAS,3, Scout
+8316,1303-00-0,Gallium arsenide (GaAs),TRUE, CAS,3, Scout
+8317,1303-11-3,Indium arsenide (InAs),FALSE, ,0, 
+8319,1303-28-2,Arsenic oxide (As2O5),TRUE, CAS,3, Scout
+8320,1303-33-9,Arsenic sulfide (As2S3),TRUE, CAS,3, Scout
+8321,1303-36-2,Arsenic selenide (As2Se3),TRUE, CAS,3, Scout
+8322,1303-52-2,Gold hydroxide (Au(OH)3),FALSE, ,0, 
+8323,1303-57-7,Gold oxide (Au2O),FALSE, ,0, 
+8324,1303-58-8,Gold oxide (Au2O3),TRUE, CAS,2, Scout
+8325,1303-60-2,Gold sulfide (Au2S),FALSE, ,0, 
+8326,1303-61-3,Gold sulfide (Au2S3),FALSE, ,0, 
+8327,1303-86-2,Boron oxide (B2O3),TRUE, CAS,2, Scout
+8328,1303-96-4,Borax (B4Na2O7.10H2O),TRUE, CAS,3, Scout
+8329,1304-28-5,Barium oxide (BaO),TRUE, CAS,3, Scout
+8330,1304-29-6,Barium peroxide (Ba(O2)),TRUE, CAS,3, Scout
+8331,1304-39-8,Barium selenide (BaSe),FALSE, ,0, 
+8332,1304-40-1,Barium silicide (BaSi2),FALSE, ,0, 
+8334,1304-56-9,Beryllium oxide (BeO),TRUE, CAS,3, Scout
+8335,1304-76-3,Bismuth oxide (Bi2O3),TRUE, CAS,3, Scout
+8336,1304-82-1,Bismuth telluride (Bi2Te3),TRUE, CAS,3, Scout
+8337,1304-85-4,Bismuth hydroxide nitrate oxide (Bi5(OH)9(NO3)4O),TRUE, CAS,3, Scout
+8338,1305-62-0,Calcium hydroxide (Ca(OH)2),TRUE, CAS,3, Scout
+8339,1305-78-8,Calcium oxide (CaO),TRUE, CAS,3, Scout
+8340,1305-79-9,Calcium peroxide (Ca(O2)),TRUE, CAS,3, Scout
+8341,1305-84-6,Calcium selenide (CaSe),FALSE, ,0, 
+8342,1305-99-3,Calcium phosphide (Ca3P2),TRUE, CAS,1, Scout
+8343,1306-06-05,Hydroxylapatite (Ca5(OH)(PO4)3),FALSE, ,0, 
+8344,1306-19-0,Cadmium oxide (CdO),TRUE, CAS,3, Scout
+8345,1306-23-6,Cadmium sulfide (CdS),TRUE, CAS,3, Scout
+8346,1306-24-7,Cadmium selenide (CdSe),TRUE, CAS,3, Scout
+8347,1306-25-8,Cadmium telluride (CdTe),TRUE, CAS,3, Scout
+8348,1306-38-3,Cerium oxide (CeO2),TRUE, CAS,3, Scout
+8349,1307-96-6,Cobalt oxide (CoO),TRUE, CAS,3, Scout
+8350,1307-99-9,Cobalt selenide (CoSe),TRUE, CAS,1, Scout
+8351,1308-04-09,Cobalt oxide (Co2O3),FALSE, ,0, 
+8352,1308-06-01,Cobalt oxide (Co3O4),FALSE, ,0, 
+8354,1308-14-1,Chromium hydroxide (Cr(OH)3),TRUE, CAS,2, Scout
+8355,1308-38-9,Chromium oxide (Cr2O3),TRUE, CAS,3, Scout
+8356,1308-80-1,Copper nitride (Cu3N),FALSE, ,0, 
+8358,1308-87-8,Dysprosium oxide (Dy2O3),TRUE, CAS,3, Scout
+8359,1308-96-9,Europium oxide (Eu2O3),TRUE, CAS,3, Scout
+8360,1309-33-7,Iron hydroxide (Fe(OH)3),TRUE, CAS,2, Scout
+8361,1309-36-0,Pyrite (FeS2),TRUE, CAS,3, Scout
+8362,1309-37-1,Iron oxide (Fe2O3),TRUE, CAS,3, Scout
+8363,1309-38-2,Magnetite (Fe3O4),TRUE, CAS,3, Scout
+8364,1309-42-8,Magnesium hydroxide (Mg(OH)2),TRUE, CAS,3, Scout
+8365,1309-48-4,Magnesium oxide (MgO),TRUE, CAS,3, Scout
+8366,1309-60-0,Lead oxide (PbO2),TRUE, CAS,3, Scout
+8367,1309-64-4,Antimony oxide (Sb2O3),TRUE, CAS,3, Scout
+8368,1310-14-1,Goethite (Fe(OH)O),TRUE, CAS,1, Scout
+8369,1310-32-3,Iron selenide (FeSe),TRUE, CAS,2, Scout
+8370,1310-39-0,Pseudobrookite (Fe2TiO5),TRUE, CAS,1, Scout
+8371,1310-43-6,Iron phosphide (Fe2P),FALSE, ,0, 
+8372,1310-45-8,Iron hydroxide sulfate (Fe4(OH)2(SO4)5),TRUE, CAS,3, Scout
+8373,1310-53-8,Germanium oxide (GeO2),TRUE, CAS,3, Scout
+8374,1310-58-3,Potassium hydroxide (K(OH)),TRUE, CAS,2, Scout
+8375,1310-61-8,Potassium sulfide (K(SH)),TRUE, CAS,1, Scout
+8376,1310-65-2,Lithium hydroxide (Li(OH)),TRUE, CAS,3, Scout
+8377,1310-73-2,Sodium hydroxide (Na(OH)),TRUE, CAS,3, Scout
+8378,1310-82-3,Rubidium hydroxide (Rb(OH)),TRUE, CAS,2, Scout
+8379,1310-97-0,Pyrochroite (Mn(OH)2),FALSE, ,0, 
+8381,1312-41-0,"Antimony, compd. with indium (1:1)",FALSE, ,0, 
+8382,1312-43-2,Indium oxide (In2O3),TRUE, CAS,3, Scout
+8383,1312-45-4,Indium telluride (In2Te3),TRUE, CAS,1, Scout
+8384,1312-46-5,Iridium oxide (Ir2O3),FALSE, ,0, 
+8385,1312-73-8,Potassium sulfide (K2S),TRUE, CAS,3, Scout
+8387,1312-76-1,"Silicic acid, potassium salt",TRUE, CAS,3, Scout
+8388,1312-81-8,Lanthanum oxide (La2O3),TRUE, CAS,3, Scout
+8390,1313-04-08,Magnesium selenide (MgSe),FALSE, ,0, 
+8391,1313-13-9,Manganese oxide (MnO2),TRUE, CAS,3, Scout
+8392,1313-22-0,Manganese selenide (MnSe),TRUE, CAS,3, Scout
+8393,1313-27-5,Molybdenum oxide (MoO3),TRUE, CAS,3, Scout
+8395,1313-49-1,Zinc nitride (Zn3N2),TRUE, CAS,1, Scout
+8396,1313-59-3,Sodium oxide (Na2O),TRUE, CAS,3, Scout
+8397,1313-60-6,Sodium peroxide (Na2(O2)),TRUE, CAS,3, Scout
+8398,1313-82-2,Sodium sulfide (Na2S),TRUE, CAS,3, Scout
+8399,1313-85-5,Sodium selenide (Na2Se),TRUE, CAS,2, Scout
+8400,1313-96-8,Niobium oxide (Nb2O5),TRUE, CAS,3, Scout
+8401,1313-97-9,Neodymium oxide (Nd2O3),TRUE, CAS,3, Scout
+8402,1313-99-1,Nickel oxide (NiO),TRUE, CAS,3, Scout
+8403,1314-06-03,Nickel oxide (Ni2O3),FALSE, ,0, 
+8404,1314-08-05,Palladium oxide (PdO),FALSE, ,0, 
+8405,1314-11-0,Strontium oxide (SrO),TRUE, CAS,3, Scout
+8406,1314-12-1,Thallium oxide (Tl2O),FALSE, ,0, 
+8407,1314-13-2,Zinc oxide (ZnO),TRUE, CAS,3, Scout
+8408,1314-15-4,Platinum oxide (PtO2),TRUE, CAS,3, Scout
+8409,1314-18-7,Strontium peroxide (Sr(O2)),TRUE, CAS,3, Scout
+8410,1314-20-1,Thorium oxide (ThO2),TRUE, CAS,2, Scout
+8411,1314-22-3,Zinc peroxide (Zn(O2)),TRUE, CAS,2, Scout
+8412,1314-23-4,Zirconium oxide (ZrO2),TRUE, CAS,3, Scout
+8413,1314-27-8,Lead oxide (Pb2O3),TRUE, CAS,1, Scout
+8414,1314-28-9,Rhenium oxide (ReO3),TRUE, CAS,1, Scout
+8415,1314-32-5,Thallium oxide (Tl2O3),TRUE, CAS,3, Scout
+8416,1314-34-7,Vanadium oxide (V2O3),TRUE, CAS,3, Scout
+8417,1314-35-8,Tungsten oxide (WO3),TRUE, CAS,3, Scout
+8418,1314-36-9,Yttrium oxide (Y2O3),TRUE, CAS,3, Scout
+8419,1314-37-0,Ytterbium oxide (Yb2O3),TRUE, CAS,3, Scout
+8420,1314-41-6,Lead oxide (Pb3O4),TRUE, CAS,3, Scout
+8421,1314-56-3,Phosphorus oxide (P2O5),TRUE, CAS,3, Scout
+8422,1314-60-9,Antimony oxide (Sb2O5),TRUE, CAS,3, Scout
+8423,1314-61-0,Tantalum oxide (Ta2O5),TRUE, CAS,3, Scout
+8424,1314-62-1,Vanadium oxide (V2O5),TRUE, CAS,3, Scout
+8425,1314-64-3,"Uranium, dioxo[sulfato(2-)-.kappa.O]-",FALSE, ,0, 
+8426,1314-68-7,Rhenium oxide (Re2O7),TRUE, CAS,2, Scout
+8427,1314-80-3,Phosphorus sulfide (P2S5),TRUE, CAS,1, Scout
+8428,1314-84-7,Zinc phosphide (Zn3P2),TRUE, CAS,3, Scout
+8429,1314-87-0,Lead sulfide (PbS),TRUE, CAS,3, Scout
+8430,1314-91-6,Lead telluride (PbTe),TRUE, CAS,2, Scout
+8431,1314-95-0,Tin sulfide (SnS),TRUE, CAS,2, Scout
+8432,1314-96-1,Strontium sulfide (SrS),TRUE, CAS,1, Scout
+8434,1314-98-3,Zinc sulfide (ZnS),TRUE, CAS,3, Scout
+8435,1315-01-01,Tin sulfide (SnS2),FALSE, ,0, 
+8436,1315-03-03,Vanadium sulfide (V2S3),FALSE, ,0, 
+8437,1315-04-04,Antimony sulfide (Sb2S5),FALSE, ,0, 
+8438,1315-05-05,Antimony selenide (Sb2Se3),FALSE, ,0, 
+8439,1315-06-06,Tin selenide (SnSe),FALSE, ,0, 
+8440,1315-07-07,Strontium selenide (SrSe),FALSE, ,0, 
+8441,1315-09-09,Zinc selenide (ZnSe),FALSE, ,0, 
+8442,1315-11-3,Zinc telluride (ZnTe),TRUE, CAS,3, Scout
+8443,1317-25-5,"Aluminum, chloro[N-(2,5-dioxo-4-imidazolidinyl)ureato]tetrahydroxydi-",TRUE, CAS,2, Scout
+8444,1317-33-5,Molybdenum sulfide (MoS2),TRUE, CAS,3, Scout
+8445,1317-34-6,Manganese oxide (Mn2O3),TRUE, CAS,3, Scout
+8446,1317-35-7,Manganese oxide (Mn3O4),TRUE, CAS,3, Scout
+8447,1317-36-8,Lead oxide (PbO),TRUE, CAS,3, Scout
+8448,1317-37-9,Iron sulfide (FeS),TRUE, CAS,3, Scout
+8449,1317-38-0,Copper oxide (CuO),TRUE, CAS,3, Scout
+8450,1317-39-1,Copper oxide (Cu2O),TRUE, CAS,3, Scout
+8451,1317-40-4,Copper sulfide (CuS),TRUE, CAS,2, Scout
+8452,1317-41-5,Copper selenide (CuSe),TRUE, CAS,2, Scout
+8453,1317-42-6,Cobalt sulfide (CoS),TRUE, CAS,3, Scout
+8454,1317-60-8,Hematite (Fe2O3),TRUE, CAS,3, Scout
+8455,1317-61-9,Iron oxide (Fe3O4),TRUE, CAS,3, Scout
+8456,1317-63-1,Limonite,TRUE, CAS,3, Scout
+8457,1317-65-3,Limestone,TRUE, CAS,3, Scout
+8458,1317-70-0,Anatase (TiO2),TRUE, CAS,3, Scout
+8459,1317-80-2,Rutile (TiO2),TRUE, CAS,3, Scout
+8460,1317-82-4,Sapphire (Al2O3),FALSE, ,0, 
+8461,1318-23-6,Boehmite (Al(OH)O),TRUE, CAS,3, Scout
+8462,1318-74-7,Kaolinite (Al2(OH)4(Si2O5)),TRUE, CAS,3, Scout
+8463,1319-41-1,Saponite ((Mg0.5-1Fe0-0.5)3(Si3.67Al0.33)(Na0-0.33Ca0-0.17)(OH)2O10.4H2O),TRUE, CAS,3, Scout
+8464,1319-46-6,Lead carbonate hydroxide (Pb3(CO3)2(OH)2),TRUE, CAS,3, Scout
+8466,1319-77-3,"Phenol, methyl-",TRUE, CAS,1, Scout
+8467,1319-88-6,"Benzaldehyde, cyclic acetal with 1,2,3-propanetriol",TRUE, CAS,1, Scout
+8468,1320-06-05,"2-Naphthalenol, 1-[2-[4-[2-(dimethylphenyl)diazenyl]dimethylphenyl]diazenyl]-",FALSE, ,0, 
+8469,1320-07-06,"Benzenesulfonic acid, 4-[2-[3-[2-(dimethylphenyl)diazenyl]-2,4-dihydroxyphenyl]diazenyl]-, sodium salt (1:1)",FALSE, ,0, 
+8471,1320-37-2,"Ethane, dichlorotetrafluoro-",FALSE, ,0, 
+8472,1320-51-0,"Urea, N-(hydroxyethyl)-",TRUE, CAS,1, Scout
+8473,1320-66-7,"Butanol, chloro-",FALSE, ,0, 
+8477,1321-64-8,"Naphthalene, pentachloro-",False, ,0, 
+8478,1321-65-9,"Naphthalene, trichloro-",True, CAS,1, Scout
+8479,1321-69-3,"Naphthalenesulfonic acid, sodium salt (1:1)",True, CAS,1, Scout
+8480,1321-74-0,"Benzene, diethenyl-",True, CAS,1, Scout
+8483,1321-94-4,"Naphthalene, methyl-",True, CAS,1, Scout
+8485,1322-17-4,"1,3-Nonanediol, monoacetate",True, CAS,1, Scout
+8487,1322-34-5,"Carbonic acid, decyn-1-yl methyl ester",False, ,0, 
+8488,1322-58-3,"Undecen-2-one, 6,10-dimethyl-",False, ,0, 
+8490,1322-93-6,"Naphthalenesulfonic acid, bis(1-methylethyl)-, sodium salt (1:1)",True, CAS,3, Scout
+8491,1322-94-7,"1,2-Benzenedicarboxylic acid, 1-(dimethylcyclohexyl) ester",False, ,0, 
+8492,1322-98-1,"Benzenesulfonic acid, decyl-, sodium salt (1:1)",True, CAS,1, Scout
+8493,1323-00-8,"Santalol, acetate",False, ,0, 
+8494,###############################################################################################################################################################################################################################################################,"Propanoic acid, 2-hydroxy-, tetradecyl ester",False, ,0, 
+8495,1323-19-9,"Naphthalenesulfonic acid, tris(1-methylethyl)-, sodium salt (1:1)",False, ,0, 
+8496,1323-38-2,"9-Octadecenoic acid, 12-hydroxy-, (9Z,12R)-, monoester with 1,2,3-propanetriol",False, ,0, 
+8497,1323-39-3,"Octadecanoic acid, monoester with 1,2-propanediol",True, CAS,1, Scout
+8498,1323-42-8,"Octadecanoic acid, hydroxy-, monoester with 1,2,3-propanetriol",False, ,0, 
+8499,1323-65-5,"Phenol, dinonyl-",True, CAS,1, Scout
+8501,1323-83-7,"Octadecanoic acid, diester with 1,2,3-propanetriol",True, CAS,3, Scout
+8503,###############################################################################################################################################################################################################################################################,"1H-Indene-1,3(2H)-dione, 2-benzo[f]quinolin-3-yl-, disulfo deriv.",False, ,0, 
+8505,1324-11-4,"Dibenzo[b,def]chrysene-7,14-dione, dibromo-",False, ,0, 
+8507,1324-17-0,"Benzo[rst]phenanthro[10,1,2-cde]pentaphene-9,18-dione, bromo-",False, ,0, 
+8508,1324-21-6,C.I. Mordant Black 13,False, ,0, 
+8511,1324-27-2,"5,9,14,18-Anthrazinetetrone, chloro-6,15-dihydro-",False, ,0, 
+8513,1324-29-4,"Anthrazinesulfonic acid, 5,6,9,14,15,18-hexahydro-5,9,14,18-tetraoxo-, sodium salt (1:1)",False, ,0, 
+8516,1324-35-2,"8,16-Pyranthrenedione, dibromo-",True, CAS,1, Scout
+8517,1324-50-1,"Methanaminium, N-[4-[[4-(dimethylamino)phenyl][2-ethoxy-4-[(4-methylsulfophenyl)amino]-5-sulfophenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-methyl-, inner salt, sodium salt (1:1)",False, ,0, 
+8518,1324-54-5,C.I. Vat Blue 18,True, CAS,1, Scout
+8519,1324-55-6,"Benzo[rst]phenanthro[10,1,2-cde]pentaphene-9,18-dione, dichloro-",False, ,0, 
+8521,1324-58-9,"Diindolo[3,2-b:3',2'-m]triphenodioxazinetrisulfonic acid, 8,18-dichloro-5,15-diethyl-5,15-dihydro-, sodium salt (1:3)",False, ,0, 
+8523,1324-76-1,"Benzenesulfonic acid, [[4-[[4-(phenylamino)phenyl][4-(phenylimino)-2,5-cyclohexadien-1-ylidene]methyl]phenyl]amino]-",True, CAS,1, Scout
+8526,1325-16-2,"Benzoic acid, 2-[2-(2-hydroxy-3,6-disulfo-1-naphthalenyl)diazenyl]-, barium salt (1:2)",False, ,0, 
+8527,1325-35-5,C.I. Direct Orange 15,False, ,0, 
+8528,1325-37-7,C.I. Direct Yellow 11,True, CAS,2, Scout
+8529,1325-38-8,C.I. Direct Yellow 6,False, ,0, 
+8532,1325-54-8,C.I. Direct Orange 39,True, CAS,1, Scout
+8535,1325-65-1,C.I. Direct Red 111,False, ,0, 
+8536,1325-74-2,"Methanaminium, N-[4-[(2-chlorophenyl)[4-(dimethylamino)phenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-methyl-, molybdatetungstatephosphate",False, ,0, 
+8537,1325-75-3,"Ethanaminium, N-[4-[[4-(diethylamino)phenyl]phenylmethylene]-2,5-cyclohexadien-1-ylidene]-N-ethyl-, molybdatetungstatephosphate",False, ,0, 
+8539,1325-80-0,"Benzenamine, 4-[(4-aminophenyl)(4-imino-2,5-cyclohexadien-1-ylidene)methyl]-2-methyl-, compd. with molybdenum tungsten hydroxide oxide phosphate (1:?)",False, ,0, 
+8540,1325-82-2,"C.I. Basic Violet 1, molybdatetungstatephosphate",True, CAS,2, Scout
+8541,1325-86-6,"1-Naphthalenemethanol, .alpha.,.alpha.-bis[4-(diethylamino)phenyl]-4-(ethylamino)-",True, CAS,2, Scout
+8542,1325-87-7,"Ethanaminium, N-[4-[[4-(diethylamino)phenyl][4-(ethylamino)-1-naphthalenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-ethyl-, molybdatetungstatephosphate",False, ,0, 
+8543,1325-88-8,"Ethanaminium, N-[4-[bis[4-(diethylamino)phenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-ethyl-, molybdatetungstatephosphate",True, CAS,1, Scout
+8545,1325-94-6,"Methanaminium, N-[4-[[4-(dimethylamino)phenyl][4-(phenylamino)-1-naphthalenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-methyl-, molybdatetungstatephosphate",False, ,0, 
+8546,1326-03-0,"Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, molybdatetungstatephosphate",False, ,0, 
+8547,###############################################################################################################################################################################################################################################################,"Xanthylium, 3,6-bis(diethylamino)-9-[2-(ethoxycarbonyl)phenyl]-, molybdatetungstatephosphate",False, ,0, 
+8550,1326-12-1,C.I. Direct Yellow 7,True, CAS,3, Scout
+8552,1326-39-2,C.I. Sulphur Green 9,False, ,0, 
+8553,1326-49-4,C.I. Sulphur Orange 1,True, CAS,1, Scout
+8554,1326-52-9,C.I. Solubilised Sulphur Brown 10,False, ,0, 
+8556,1326-82-5,C.I. Sulphur Black 1,True, CAS,1, Scout
+8557,1326-83-6,C.I. Solubilised Sulphur Black 1,False, ,0, 
+8558,1326-85-8,C.I. Sulphur Black 2,False, ,0, 
+8559,1326-86-9,C.I. Solubilised Sulphur Black 2,False, ,0, 
+8560,1326-96-1,C.I. Sulphur Red 10,False, ,0, 
+8567,1327-14-6,C.I. Sulphur Black 11,False, ,0, 
+8572,1327-33-9,Antimony oxide,False, ,0, 
+8573,1327-36-2,Aluminatesilicate,True, CAS,3, Scout
+8574,1327-39-5,"Silicic acid, aluminum calcium salt",False, ,0, 
+8575,1327-41-9,"Aluminum chloride, basic",True, CAS,3, Scout
+8576,1327-43-1,"Silicic acid, aluminum magnesium salt",True, CAS,3, Scout
+8577,1327-44-2,"Silicic acid, aluminum potassium salt",False, ,0, 
+8578,1327-53-3,Arsenic oxide (As2O3),False, ,0, 
+8579,1327-57-7,C.I. Sulphur Blue 7,False, ,0, 
+8586,###############################################################################################################################################################################################################################################################,"Boric acid, zinc salt",False, ,0, 
+8587,###############################################################################################################################################################################################################################################################,Wolframite ((Fe0.2-0.8Mn0.2-0.8)WO4),False, ,0, 
+8588,###############################################################################################################################################################################################################################################################,Pumice,False, ,0, 
+8589,1332-14-5,"Sulfuric acid, copper(2+) salt, basic",False, ,0, 
+8590,1332-21-4,Asbestos,True, CAS,3, Scout
+8591,1332-29-2,Tin oxide,True, CAS,2, Scout
+8592,1332-37-2,Iron oxide,True, CAS,3, Scout
+8593,1332-58-7,Kaolin,False, ,0, 
+8594,1332-65-6,Copper chloride hydroxide (Cu2Cl(OH)3),True, CAS,2, Scout
+8595,1332-73-6,Aluminum hydroxide sulfate (Al(OH)(SO4)),False, ,0, 
+8596,1332-77-0,Boron potassium oxide (B4K2O7),True, CAS,3, Scout
+8597,1332-81-6,Antimony oxide (Sb2O4),True, CAS,2, Scout
+8599,1332-88-3,C.I. Solubilised Sulphur Blue 7,False, ,0, 
+8600,###############################################################################################################################################################################################################################################################,"Benzenesulfonamide, ar-methyl-",False, ,0, 
+8601,1333-13-7,"Phenol, (1,1-dimethylethyl)-3-methyl-",False, ,0, 
+8602,1333-21-7,"Phenol, dinonyl-, 1,1',1''-phosphite",False, ,0, 
+8603,1333-22-8,Copper hydroxide sulfate (Cu4(OH)6(SO4)),True, CAS,1, Scout
+8604,1333-38-6,"2(?H)-Furanone, 5-methyl-",False, ,0, 
+8605,1333-39-7,"Benzenesulfonic acid, hydroxy-",True, CAS,2, Scout
+8606,1333-41-1,"Pyridine, methyl-",False, ,0, 
+8609,1333-49-9,"1-Octanol, dimethyl-",False, ,0, 
+8610,1333-52-4,"Ethanone, 1-(naphthalenyl)-",False, ,0, 
+8611,1333-53-5,"Quinoline, (1-methylethyl)-",False, ,0, 
+8612,1333-58-0,"Quinoline, (2-methylpropyl)-",False, ,0, 
+8613,1333-68-2,"D-Glucitol, mono-(9Z)-9-octadecenoate",False, ,0, 
+8615,1333-73-9,"Boric acid, sodium salt",False, ,0, 
+8616,1333-74-0,Hydrogen,True, CAS,3, Scout
+8618,1333-82-0,Chromium oxide (CrO3),False, ,0, 
+8619,1333-83-1,Sodium fluoride (Na(HF2)),True, CAS,3, Scout
+8620,1333-86-4,Carbon black,True, CAS,3, Scout
+8621,1333-88-6,Aluminum cobalt oxide (Al2CoO4),True, CAS,1, Scout
+8622,1334-74-3,"1,2,3-Propanetriol, mono(dihydrogen phosphate), sodium salt (1:2)",False, ,0, 
+8624,1334-78-7,"Benzaldehyde, methyl-",False, ,0, 
+8625,1334-82-3,"Furancarboxylic acid, pentyl ester",False, ,0, 
+8626,###############################################################################################################################################################################################################################################################,"Benzene, bromoethenyl-",False, ,0, 
+8627,###############################################################################################################################################################################################################################################################,"Heptenol, methyl-",False, ,0, 
+8629,1335-12-2,"1-Propanol, phenyl-",False, ,0, 
+8632,1335-25-7,Lead oxide,False, ,0, 
+8633,1335-26-8,Magnesium peroxide,True, CAS,1, Scout
+8634,1335-30-4,"Silicic acid, aluminum salt",True, CAS,2, Scout
+8635,1335-31-5,Mercury cyanide oxide (Hg2(CN)2O),False, ,0, 
+8636,1335-32-6,"Lead, bis(acetato-.kappa.O)tetrahydroxytri-",True, CAS,3, Scout
+8638,1335-42-8,"Ethanone, 1-(dimethylphenyl)-",False, ,0, 
+8639,1335-44-0,"Benzeneacetaldehyde, ar-(1-methylethyl)-",False, ,0, 
+8640,1335-46-2,"Ionone, methyl-",True, CAS,2, Scout
+8643,1335-66-6,Isocyclocitral,True, CAS,1, Scout
+8644,1335-87-1,"Naphthalene, hexachloro-",True, CAS,1, Scout
+8645,1335-88-2,"Naphthalene, tetrachloro-",True, CAS,1, Scout
+8646,1335-94-0,Irone,False, ,0, 
+8647,1336-21-6,Ammonium hydroxide ((NH4)(OH)),True, CAS,2, Scout
+8648,1336-36-3,"1,1'-Biphenyl, chloro derivs.",True, CAS,3, Scout
+8649,1336-93-2,"Naphthenic acids, manganese salts",True, CAS,1, Scout
+8651,1337-33-3,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, octadecyl ester",False, ,0, 
+8652,1337-83-3,Undecenal,True, CAS,3, Scout
+8654,###############################################################################################################################################################################################################################################################,"Naphthenic acids, copper salts",False, ,0, 
+8655,1338-10-9,"Octadecanoic acid, ester with 1,2,3-propanetriol 2-hydroxypropanoate",False, ,0, 
+8656,1338-14-3,"Naphthenic acids, iron salts",True, CAS,2, Scout
+8657,1338-23-4,"2-Butanone, peroxide",True, CAS,3, Scout
+8658,1338-24-5,Naphthenic acids,True, CAS,2, Scout
+8659,1338-39-2,"Sorbitan, monododecanoate",False, ,0, 
+8660,1338-41-6,"Sorbitan, monooctadecanoate",False, ,0, 
+8661,1338-43-8,"Sorbitan, mono-(9Z)-9-octadecenoate",False, ,0, 
+8662,1338-51-8,"Benzenesulfonamide, ar-methyl-, reaction products with formaldehyde",True, CAS,3, Scout
+8663,1339-82-8,C.I. Pigment Black 8,False, ,0, 
+8664,1339-92-0,"Carbonic acid, aluminum salt, basic",True, CAS,1, Scout
+8665,1341-49-7,Ammonium fluoride ((NH4)(HF2)),False, ,0, 
+8666,1343-78-8,Cochineal (dye),True, CAS,1, Scout
+8667,1343-88-0,"Silicic acid, magnesium salt",True, CAS,1, Scout
+8668,1343-93-7,"Tungstate(3-), tetracosa-.mu.-oxododecaoxo[.mu.12-[phosphato(3-)-.kappa.O:.kappa.O:.kappa.O:.kappa.O':.kappa.O':.kappa.O':.kappa.O'':.kappa.O'':.kappa.O'':.kappa.O''':.kappa.O''':.kappa.O''']]dodeca-, hydrogen (1:3)",True, CAS,2, Scout
+8669,1343-98-2,Silicic acid,True, CAS,1, Scout
+8670,1344-00-9,"Silicic acid, aluminum sodium salt",True, CAS,2, Scout
+8671,1344-01-0,"Silicic acid, aluminum calcium sodium salt",True, CAS,3, Scout
+8672,###############################################################################################################################################################################################################################################################,Sodium sulfide (Na2(Sx)),False, ,0, 
+8673,###############################################################################################################################################################################################################################################################,"Silicic acid, sodium salt",False, ,0, 
+8674,1344-13-4,Tin chloride,False, ,0, 
+8675,1344-28-1,Aluminum oxide (Al2O3),True, CAS,2, Scout
+8677,1344-37-2,C.I. Pigment Yellow 34,True, CAS,2, Scout
+8678,1344-38-3,C.I. Pigment Orange 21,False, ,0, 
+8679,1344-43-0,Manganese oxide (MnO),True, CAS,3, Scout
+8680,1344-48-5,Mercury sulfide (HgS),True, CAS,2, Scout
+8681,1344-54-3,Titanium oxide (Ti2O3),False, ,0, 
+8682,1344-57-6,Uranium oxide (UO2),True, CAS,2, Scout
+8683,1344-58-7,Uranium oxide (UO3),False, ,0, 
+8684,1344-59-8,Uranium oxide (U3O8),True, CAS,3, Scout
+8685,1344-67-8,Copper chloride,True, CAS,1, Scout
+8686,1344-73-6,"Sulfuric acid, copper salt, basic",True, CAS,3, Scout
+8687,1344-81-6,Calcium sulfide (Ca(Sx)),True, CAS,2, Scout
+8688,1344-95-2,"Silicic acid, calcium salt",True, CAS,3, Scout
+8689,###############################################################################################################################################################################################################################################################,Antimony sulfide (Sb2S3),False, ,0, 
+8690,###############################################################################################################################################################################################################################################################,C.I. Pigment White 5,False, ,0, 
+8691,###############################################################################################################################################################################################################################################################,Bismuth sulfide (Bi2S3),False, ,0, 
+8692,###############################################################################################################################################################################################################################################################,Cadmium mercury sulfide,False, ,0, 
+8693,1345-13-7,Cerium oxide (Ce2O3),True, CAS,1, Scout
+8694,1345-16-0,C.I. Pigment Blue 28,True, CAS,3, Scout
+8696,1345-24-0,C.I. Pigment Red 109,False, ,0, 
+8697,1345-25-1,Iron oxide (FeO),True, CAS,2, Scout
+8698,1345-27-3,C.I. Pigment Brown 7,True, CAS,1, Scout
+8699,1365-19-1,Linalool oxide,True, CAS,2, Scout
+8700,###############################################################################################################################################################################################################################################################,Conalbumin,False, ,0, 
+8702,1393-63-1,C.I. Natural Orange 4,True, CAS,1, Scout
+8703,1398-61-4,Chitin,True, CAS,1, Scout
+8704,1400-62-0,Orcein,True, CAS,2, Scout
+8705,1401-55-4,Tannins,False, ,0, 
+8706,1405-10-3,"Neomycin, sulfate (salt)",False, ,0, 
+8707,1405-86-3,".alpha.-D-Glucopyranosiduronic acid, (3.beta.,20.beta.)-20-carboxy-11-oxo-30-norolean-12-en-3-yl 2-O-.beta.-D-glucopyranuronosyl-",False, ,0, 
+8708,1405-87-4,Bacitracin,True, CAS,2, Scout
+8709,1405-89-6,Bacitracin zinc,True, CAS,2, Scout
+8710,1405-92-1,"1H-3a,7-Methanoazulene-6-methanol, 2,3,4,7,8,8a-hexahydro-3,8,8-trimethyl-, 6-acetate, (3R,3aS,7R,8aS)-",True, CAS,2, Scout
+8712,1406-18-4,Vitamin E,True, CAS,2, Scout
+8713,1406-57-1,Stearoptenes,False, ,0, 
+8716,1415-93-6,Humic acids,True, CAS,1, Scout
+8717,1421-49-4,"Benzoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-",True, CAS,1, Scout
+8718,1421-63-2,"1-Butanone, 1-(2,4,5-trihydroxyphenyl)-",True, CAS,1, Scout
+8719,1421-89-2,"Acetic acid, 2-(dimethylamino)ethyl ester",True, CAS,2, Scout
+8720,1423-46-7,"3-Cyclohexene-1-carboxaldehyde, 2,4,6-trimethyl-",False, ,0, 
+8725,1429-50-1,"Phosphonic acid, P,P',P'',P'''-[1,2-ethanediylbis[nitrilobis(methylene)]]tetrakis-",True, CAS,2, Scout
+8726,1431-37-4,"Propanedioic acid, 1,3-dihexyl ester",False, ,0, 
+8728,1435-71-8,"Phenol, 4-methyl-2-[2-(2-nitrophenyl)diazenyl]-",False, ,0, 
+8729,1438-16-0,"4-Thiazolidinone, 3-amino-2-thioxo-",True, CAS,1, Scout
+8730,1438-79-5,"Disiloxane, 1-ethenyl-1,1,3,3,3-pentamethyl-",True, CAS,1, Scout
+8731,1438-82-0,"Disiloxane, 1,1,1,3,3-pentamethyl-",True, CAS,1, Scout
+8732,1438-91-1,"Furan, 2-[(methylthio)methyl]-",True, CAS,2, Scout
+8733,1438-94-4,"1H-Pyrrole, 1-(2-furanylmethyl)-",True, CAS,3, Scout
+8734,1439-41-4,"Propanenitrile, 3,3',3''-phosphinylidynetris-",False, ,0, 
+8737,1445-45-0,"Ethane, 1,1,1-trimethoxy-",True, CAS,2, Scout
+8738,1445-75-6,"Phosphonic acid, P-methyl-, bis(1-methylethyl) ester",True, CAS,2, Scout
+8739,1445-79-0,"Gallium, trimethyl-",True, CAS,1, Scout
+8740,1446-61-3,"1-Phenanthrenemethanamine, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-, (1R,4aS,10aR)-",True, CAS,2, Scout
+8741,1448-98-2,"Acetamide, N-(aminocarbonyl)-2-cyano-",False, ,0, 
+8742,1450-14-2,"Disilane, 1,1,1,2,2,2-hexamethyl-",False, ,0, 
+8744,1450-23-3,"Disilane, 1,1,1,2,2,2-hexaphenyl-",False, ,0, 
+8745,1450-63-1,"Benzene, 1,1',1'',1'''-(1,3-butadiene-1,4-diylidene)tetrakis-",True, CAS,2, Scout
+8747,1450-85-7,2(1H)-Pyrimidinethione,False, ,0, 
+8750,1453-82-3,4-Pyridinecarboxamide,True, CAS,2, Scout
+8751,1454-85-9,1-Heptadecanol,False, ,0, 
+8752,1455-21-6,1-Nonanethiol,True, CAS,1, Scout
+8753,1455-42-1,"2,4,8,10-Tetraoxaspiro[5.5]undecane-3,9-diethanol, .beta.3,.beta.3,.beta.9,.beta.9-tetramethyl-",True, CAS,2, Scout
+8754,1455-77-2,"1H-1,2,4-Triazole-3,5-diamine",True, CAS,1, Scout
+8756,1457-46-1,"4-Thiazolidinone, 3-phenyl-2-thioxo-",False, ,0, 
+8758,1459-10-5,"Benzene, tetradecyl-",True, CAS,1, Scout
+8759,1459-93-4,"1,3-Benzenedicarboxylic acid, 1,3-dimethyl ester",True, CAS,1, Scout
+8760,1460-18-0,Pentadecanedioic acid,True, CAS,1, Scout
+8761,1461-15-0,"Glycine, N,N'-[(3',6'-dihydroxy-3-oxospiro[isobenzofuran-1(3H),9'-[9H]xanthene]-2',7'-diyl)bis(methylene)]bis[N-(carboxymethyl)-",False, ,0, 
+8763,1461-22-9,"Stannane, tributylchloro-",False, ,0, 
+8764,1461-25-2,"Stannane, tetrabutyl-",True, CAS,1, Scout
+8767,1462-54-0,".beta.-Alanine, N-dodecyl-",False, ,0, 
+8768,1462-55-1,"Ethanol, 2-(dodecylthio)-",False, ,0, 
+8771,1464-53-5,"2,2'-Bioxirane",True, CAS,1, Scout
+8772,1464-69-3,"2-Propenoic acid, 2-methyl-, 2-(ethenyloxy)ethyl ester",False, ,0, 
+8773,1465-25-4,"1,2-Ethanediamine, N1-1-naphthalenyl-, hydrochloride (1:2)",False, ,0, 
+8775,1466-76-8,"Benzoic acid, 2,6-dimethoxy-",False, ,0, 
+8778,1467-79-4,"Cyanamide, N,N-dimethyl-",True, CAS,1, Scout
+8779,1468-39-9,"Butanoic acid, 3-methyl-, 1,1'-anhydride",True, CAS,1, Scout
+8781,1468-95-7,9-Anthracenemethanol,True, CAS,1, Scout
+8784,1470-61-7,"Silver, (diethylcarbamodithioato-.kappa.S,.kappa.S')-",False, ,0, 
+8787,1471-17-6,"1-Propanol, 3-(2-propen-1-yloxy)-2,2-bis[(2-propen-1-yloxy)methyl]-",True, CAS,2, Scout
+8789,1472-87-3,"Tridecanedioic acid, 1,13-dimethyl ester",False, ,0, 
+8790,1472-93-1,"Octadecanedioic acid, 1,18-dimethyl ester",False, ,0, 
+8792,1476-11-5,"2-Butene, 1,4-dichloro-, (2Z)-",True, CAS,1, Scout
+8793,1476-23-9,"1-Propene, 3-isocyanato-",True, CAS,1, Scout
+8794,1476-39-7,"1,5-Pentanediamine, hydrochloride (1:2)",True, CAS,1, Scout
+8796,1477-42-5,"2-Benzothiazolamine, 4-methyl-",False, ,0, 
+8797,1477-55-0,"1,3-Benzenedimethanamine",True, CAS,2, Scout
+8798,1478-61-1,"Phenol, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-",True, CAS,1, Scout
+8799,1481-41-0,"Silane, chlorodimethyl(3,3,3-trifluoropropyl)-",True, CAS,1, Scout
+8800,1483-72-3,"Iodonium, diphenyl-, chloride (1:1)",True, CAS,2, Scout
+8803,1484-13-5,"9H-Carbazole, 9-ethenyl-",True, CAS,1, Scout
+8806,1484-84-0,2-Piperidineethanol,True, CAS,2, Scout
+8809,1488-42-2,"Iodonium, (2-carboxyphenyl)phenyl-, inner salt",False, ,0, 
+8812,1489-69-6,Cyclopropanecarboxaldehyde,True, CAS,1, Scout
+8813,###############################################################################################################################################################################################################################################################,"Cyclohexanol, 5-methyl-2-(1-methylethyl)-",True, CAS,1, Scout
+8816,1492-24-6,"Butanoic acid, 2-amino-, (2S)-",True, CAS,2, Scout
+8818,1493-13-6,"Methanesulfonic acid, 1,1,1-trifluoro-",False, ,0, 
+8819,1493-27-2,"Benzene, 1-fluoro-2-nitro-",True, CAS,1, Scout
+8823,1497-49-0,"Benzenamine, N-[5-(phenylamino)-2,4-pentadien-1-ylidene]-, hydrochloride (1:1)",True, CAS,1, Scout
+8825,1498-51-7,"Phosphorodichloridic acid, ethyl ester",True, CAS,1, Scout
+8828,1499-10-1,"Anthracene, 9,10-diphenyl-",True, CAS,1, Scout
+8831,1501-27-5,"Pentanedioic acid, 1-methyl ester",True, CAS,1, Scout
+8832,1502-03-0,Cyclododecanamine,False, ,0, 
+8834,1502-22-3,"Cyclohexanone, 2-(1-cyclohexen-1-yl)-",True, CAS,1, Scout
+8835,1503-48-6,"Quino[2,3-b]acridine-6,7,13,14(5H,12H)-tetrone",False, ,0, 
+8836,1504-55-8,"2-Propen-1-ol, 2-methyl-3-phenyl-",False, ,0, 
+8837,1504-63-8,"2-Propen-1-ol, 3-(4-nitrophenyl)-",False, ,0, 
+8838,1504-74-1,"2-Propenal, 3-(2-methoxyphenyl)-",False, ,0, 
+8839,###############################################################################################################################################################################################################################################################,"Ethanone, 1-(5,6,7,8-tetrahydro-3,5,5,6,8,8-hexamethyl-2-naphthalenyl)-",False, ,0, 
+8840,1511-62-2,"Methane, bromodifluoro-",False, ,0, 
+8842,1514-82-5,"1-Propene, 2-bromo-3,3,3-trifluoro-",True, CAS,1, Scout
+8843,1514-87-0,"Acetic acid, 2-chloro-2,2-difluoro-, methyl ester",False, ,0, 
+8844,1515-14-6,"2-Propanol, 1,1,1,3,3,3-hexafluoro-2-methyl-",True, CAS,1, Scout
+8845,1515-72-6,"1H-Isoindole-1,3(2H)-dione, 2-butyl-",True, CAS,2, Scout
+8846,1515-81-7,"Benzene, 1-methoxy-4-(methoxymethyl)-",False, ,0, 
+8847,1516-17-2,"2,4-Hexadien-1-ol, 1-acetate",True, CAS,1, Scout
+8852,1516-80-9,"Benzene, 1,1',1''-(ethoxysilylidyne)tris-",False, ,0, 
+8855,1518-16-7,"Propanedinitrile, 2,2'-(2,5-cyclohexadiene-1,4-diylidene)bis-",True, CAS,1, Scout
+8856,1518-58-7,"Carbamodithioic acid, N,N-diethyl-, compd. with N-ethylethanamine (1:1)",False, ,0, 
+8860,1520-21-4,"Benzenamine, 4-ethenyl-",True, CAS,1, Scout
+8863,1522-22-1,"2,4-Pentanedione, 1,1,1,5,5,5-hexafluoro-",False, ,0, 
+8868,1528-30-9,"Cyclopentane, methylene-",False, ,0, 
+8869,1528-49-0,"1,2,4-Benzenetricarboxylic acid, 1,2,4-trihexyl ester",True, CAS,1, Scout
+8871,1529-17-5,"Benzene, [(trimethylsilyl)oxy]-",False, ,0, 
+8874,1529-59-5,"Aluminum, tridodecyl-",False, ,0, 
+8875,1529-65-3,"Trisiloxane, 1,3,5-triethenyl-1,1,3,5,5-pentamethyl-",True, CAS,1, Scout
+8876,1529-68-6,"Butane, 1,2,3,4-tetrabromo-",False, ,0, 
+8877,1530-32-1,"Phosphonium, ethyltriphenyl-, bromide (1:1)",True, CAS,1, Scout
+8879,1530-48-9,"Phosphonium, tributyl-2-propen-1-yl-, chloride (1:1)",False, ,0, 
+8881,1533-45-5,"Benzoxazole, 2,2'-(1,2-ethenediyldi-4,1-phenylene)bis-",True, CAS,2, Scout
+8885,1533-77-3,"Acetamide, N-[5-[bis[2-(acetyloxy)ethyl]amino]-2-[2-(2-methoxy-4-nitrophenyl)diazenyl]phenyl]-",False, ,0, 
+8886,1533-78-4,"Acetamide, N-[5-[bis[2-(acetyloxy)ethyl]amino]-2-[2-(2-chloro-4-nitrophenyl)diazenyl]phenyl]-",False, ,0, 
+8888,1538-75-6,"Propanoic acid, 2,2-dimethyl-, 1,1'-anhydride",True, CAS,1, Scout
+8890,###############################################################################################################################################################################################################################################################,"Benzoic acid, 4-(acetylamino)-3-nitro-",False, ,0, 
+8891,1539-42-0,"2-Pyridinemethanamine, N-(2-pyridinylmethyl)-",False, ,0, 
+8894,1541-67-9,"Ethanol, 2,2'-(dodecylimino)bis-",False, ,0, 
+8895,1541-81-7,"Morpholine, 4-dodecyl-",False, ,0, 
+8897,1547-26-8,"1-Pentene, 2,3,3,4,4,5,5-heptafluoro-",False, ,0, 
+8898,1551-44-6,"Butanoic acid, cyclohexyl ester",True, CAS,2, Scout
+8899,1552-42-7,"1(3H)-Isobenzofuranone, 6-(dimethylamino)-3,3-bis[4-(dimethylamino)phenyl]-",False, ,0, 
+8903,1555-53-9,"9-Octadecenoic acid (9Z)-, magnesium salt (2:1)",False, ,0, 
+8904,1555-56-2,"1,2,3-Propanetriol, 1-(dihydrogen phosphate), sodium salt (1:2)",False, ,0, 
+8905,1555-58-4,"Propanenitrile, 3,3'-(methylimino)bis-",False, ,0, 
+8909,1558-24-3,"Silane, trichloro(dichloromethyl)-",False, ,0, 
+8910,1558-25-4,"Silane, trichloro(chloromethyl)-",True, CAS,1, Scout
+8911,1558-31-2,"Silane, dichloro(dichloromethyl)methyl-",False, ,0, 
+8912,1558-33-4,"Silane, dichloro(chloromethyl)methyl-",False, ,0, 
+8913,1559-34-8,"3,6,9,12-Tetraoxahexadecan-1-ol",True, CAS,3, Scout
+8914,1559-35-9,"Ethanol, 2-[(2-ethylhexyl)oxy]-",True, CAS,3, Scout
+8915,1559-36-0,"Ethanol, 2-[2-[(2-ethylhexyl)oxy]ethoxy]-",True, CAS,1, Scout
+8916,1559-37-1,"Ethanol, 2-[2-[2-[(2-ethylhexyl)oxy]ethoxy]ethoxy]-",True, CAS,1, Scout
+8917,1560-28-7,"Disilane, 1-chloro-1,1,2,2,2-pentamethyl-",False, ,0, 
+8918,1560-42-5,"Phosphoric acid, dioctyl ester, sodium salt (1:1)",False, ,0, 
+8919,1560-69-6,"Propanoic acid, cobalt(2+) salt (2:1)",True, CAS,1, Scout
+8921,1561-11-1,"Hexanoic acid, 4-methyl-",False, ,0, 
+8922,1561-49-5,"Peroxydicarbonic acid, C,C'-dicyclohexyl ester",False, ,0, 
+8924,1561-92-8,"2-Propene-1-sulfonic acid, 2-methyl-, sodium salt (1:1)",True, CAS,1, Scout
+8926,1562-00-1,"Ethanesulfonic acid, 2-hydroxy-, sodium salt (1:1)",True, CAS,1, Scout
+8928,1562-94-3,"Diazene, 1,2-bis(4-methoxyphenyl)-, 1-oxide",True, CAS,1, Scout
+8930,1563-38-8,"7-Benzofuranol, 2,3-dihydro-2,2-dimethyl-",False, ,0, 
+8931,1563-66-2,"7-Benzofuranol, 2,3-dihydro-2,2-dimethyl-, 7-(N-methylcarbamate)",True, CAS,1, Scout
+8933,1564-71-2,"9,10-Anthracenedione, 1-amino-2-bromo-4-(phenylamino)-",False, ,0, 
+8935,1565-76-0,"Cyclohexane, 2-methoxy-4-methyl-1-(1-methylethyl)-, (1S,2R,4R)-",False, ,0, 
+8936,1565-80-6,"1-Butanol, 2-methyl-, (2S)-",False, ,0, 
+8937,1565-81-7,3-Decanol,False, ,0, 
+8938,1565-94-2,"2-Propenoic acid, 2-methyl-, 1,1'-[(1-methylethylidene)bis[4,1-phenyleneoxy(2-hydroxy-3,1-propanediyl)]] ester",True, CAS,3, Scout
+8941,###############################################################################################################################################################################################################################################################,"2-Propanol, 1-propoxy-",False, ,0, 
+8943,1569-60-4,"5-Hepten-2-ol, 6-methyl-",False, ,0, 
+8944,1569-69-3,Cyclohexanethiol,True, CAS,1, Scout
+8946,1570-64-5,"Phenol, 4-chloro-2-methyl-",False, ,0, 
+8947,1571-08-0,"Benzoic acid, 4-formyl-, methyl ester",False, ,0, 
+8950,1571-33-1,"Phosphonic acid, P-phenyl-",True, CAS,1, Scout
+8951,1572-52-7,"Pentanedinitrile, 2-methylene-",False, ,0, 
+8952,1572-55-0,"1,8-Octanediamine, 4-(aminomethyl)-",False, ,0, 
+8953,1573-17-7,"2-Butyne-1,4-diol, 1,4-diacetate",False, ,0, 
+8956,1574-33-0,"3-Penten-1-yne, 3-methyl-",False, ,0, 
+8957,1574-34-1,"1-Pentyne, 3-methylene-",False, ,0, 
+8958,1574-41-0,"1,3-Pentadiene, (3Z)-",False, ,0, 
+8959,1575-74-2,"4-Pentenoic acid, 2-methyl-",False, ,0, 
+8960,1576-35-8,"Benzenesulfonic acid, 4-methyl-, hydrazide",True, CAS,2, Scout
+8961,1576-43-8,"Benzenesulfonamide, 4-hydroxy-",False, ,0, 
+8963,1576-78-9,"3-Hepten-1-ol, 1-acetate, (3Z)-",False, ,0, 
+8964,1576-84-7,"3-Buten-1-ol, 1-acetate",False, ,0, 
+8965,1576-95-0,"2-Penten-1-ol, (2Z)-",True, CAS,1, Scout
+8966,###############################################################################################################################################################################################################################################################,"1-Penten-3-one, 1-(4-chlorophenyl)-4,4-dimethyl-",False, ,0, 
+8967,1577-18-0,"3-Hexenoic acid, (3E)-",True, CAS,1, Scout
+8968,1577-19-1,3-Octenoic acid,True, CAS,1, Scout
+8972,1583-58-0,"Benzoic acid, 2,4-difluoro-",True, CAS,1, Scout
+8973,###############################################################################################################################################################################################################################################################,"Benzene, 1-bromo-4-ethyl-",False, ,0, 
+8974,1586-73-8,"Silanamine, 1,1,1-trimethyl-N,N-bis(trimethylsilyl)-",True, CAS,2, Scout
+8976,1586-92-1,"Aluminum, ethoxydiethyl-",True, CAS,1, Scout
+8978,1588-83-6,"Benzoic acid, 4-amino-3-nitro-",True, CAS,1, Scout
+8979,1589-47-5,"1-Propanol, 2-methoxy-",True, CAS,2, Scout
+8980,1590-87-0,Disilane,True, CAS,3, Scout
+8981,###############################################################################################################################################################################################################################################################,"Silane, dibutoxydimethyl-",False, ,0, 
+8983,1591-31-7,"1,1'-Biphenyl, 4-iodo-",False, ,0, 
+8984,1592-20-7,"Benzene, 1-(chloromethyl)-4-ethenyl-",True, CAS,2, Scout
+8985,1592-23-0,"Octadecanoic acid, calcium salt (2:1)",True, CAS,1, Scout
+8987,###############################################################################################################################################################################################################################################################,"9,10-Anthracenedione, 1-hydroxy-4-[[4-[(methylsulfonyl)oxy]phenyl]amino]-",False, ,0, 
+8989,1599-47-9,"Hexane, 1,1-dimethoxy-",True, CAS,2, Scout
+8990,1599-49-1,"1,3-Dioxolane, 4-methyl-2-pentyl-",True, CAS,1, Scout
+8991,1599-67-3,1-Docosene,True, CAS,3, Scout
+8992,1600-27-7,"Acetic acid, mercury(2+) salt (2:1)",True, CAS,1, Scout
+8994,1600-44-8,"Thiophene, tetrahydro-, 1-oxide",True, CAS,1, Scout
+8995,1603-40-3,"2-Pyridinamine, 3-methyl-",False, ,0, 
+8996,1603-41-4,"2-Pyridinamine, 5-methyl-",False, ,0, 
+8997,1603-79-8,"Benzeneacetic acid, .alpha.-oxo-, ethyl ester",False, ,0, 
+8999,1604-28-0,"3,5-Heptadien-2-one, 6-methyl-",True, CAS,1, Scout
+9000,1604-34-8,"2-Undecanone, 6,10-dimethyl-",False, ,0, 
+9001,1605-18-1,"Benzene, 1,4-bis(1-methylethenyl)-",False, ,0, 
+9002,1606-67-3,1-Pyrenamine,True, CAS,1, Scout
+9003,1606-79-7,"2-Butyn-1-ol, 4-(2-hydroxypropoxy)-",True, CAS,1, Scout
+9005,1606-85-5,"Ethanol, 2,2'-[2-butyne-1,4-diylbis(oxy)]bis-",True, CAS,2, Scout
+9007,1608-26-0,"Phosphorous triamide, N,N,N',N',N'',N''-hexamethyl-",False, ,0, 
+9008,1609-19-4,"Silane, chlorodiethyl-",False, ,0, 
+9011,1609-47-8,"Dicarbonic acid, 1,3-diethyl ester",True, CAS,1, Scout
+9012,1609-86-5,"Propane, 2-isocyanato-2-methyl-",True, CAS,1, Scout
+9013,1610-18-0,"1,3,5-Triazine-2,4-diamine, 6-methoxy-N2,N4-bis(1-methylethyl)-",False, ,0, 
+9014,1611-35-4,"Glycine, N,N'-[(1,1-dioxido-3H-2,1-benzoxathiol-3-ylidene)bis[(6-hydroxy-5-methyl-3,1-phenylene)methylene]]bis[N-(carboxymethyl)-",False, ,0, 
+9016,1613-66-7,"Germane, dichlorodiphenyl-",True, CAS,1, Scout
+9017,1614-82-0,"Naphthalene, 1,4,5,8-tetrahydro-2,7-dimethoxy-",False, ,0, 
+9020,1617-23-8,"3-Pentenoic acid, 2-methyl-, ethyl ester",False, ,0, 
+9023,1618-26-4,"Methane, bis(methylthio)-",True, CAS,2, Scout
+9024,1619-34-7,1-Azabicyclo[2.2.2]octan-3-ol,True, CAS,1, Scout
+9027,1622-32-8,"Ethanesulfonyl chloride, 2-chloro-",True, CAS,1, Scout
+9028,###############################################################################################################################################################################################################################################################,"Propane, 1,1,1,2,2,3,3-heptafluoro-3-[(1,2,2-trifluoroethenyl)oxy]-",False, ,0, 
+9030,1623-14-9,"Phosphoric acid, monoethyl ester",False, ,0, 
+9031,1623-15-0,"Phosphoric acid, monobutyl ester",True, CAS,1, Scout
+9033,1623-24-1,"Phosphoric acid, mono(1-methylethyl) ester",True, CAS,1, Scout
+9035,###############################################################################################################################################################################################################################################################,"Silanetetramine, N,N,N',N',N'',N'',N''',N'''-octamethyl-",False, ,0, 
+9036,###############################################################################################################################################################################################################################################################,"Chromic acid (H2CrO4), bis(triphenylsilyl) ester",False, ,0, 
+9037,1626-24-0,"Germane, chlorotriphenyl-",False, ,0, 
+9038,1628-11-1,"Silane, dichloro(3-chloro-2-methylpropyl)methyl-",False, ,0, 
+9040,1629-58-9,1-Penten-3-one,True, CAS,1, Scout
+9042,1631-25-0,"1H-Pyrrole-2,5-dione, 1-cyclohexyl-",True, CAS,1, Scout
+9043,1631-70-5,"Benzene, [(dimethylsilyl)methyl]-",False, ,0, 
+9045,1631-82-9,"Benzene, (chloromethylsilyl)-",False, ,0, 
+9046,1631-83-0,"Benzene, 1,1'-(chlorosilylene)bis-",False, ,0, 
+9047,1631-84-1,"Benzene, (dichlorosilyl)-",True, CAS,1, Scout
+9048,1632-16-2,"Heptane, 3-methylene-",True, CAS,1, Scout
+9049,1632-73-1,"Bicyclo[2.2.1]heptan-2-ol, 1,3,3-trimethyl-",True, CAS,1, Scout
+9050,###############################################################################################################################################################################################################################################################,"Carbonic acid, strontium salt (1:1)",False, ,0, 
+9051,1633-22-3,"Tricyclo[8.2.2.24,7]hexadeca-4,6,10,12,13,15-hexaene",False, ,0, 
+9052,1633-83-6,"1,2-Oxathiane, 2,2-dioxide",False, ,0, 
+9053,###############################################################################################################################################################################################################################################################,"Thioperoxydicarbonic diamide ([(H2N)C(S)]2S2), N,N,N',N'-tetrabutyl-",False, ,0, 
+9054,###############################################################################################################################################################################################################################################################,"Propane, 2-methoxy-2-methyl-",False, ,0, 
+9055,1634-82-8,"Benzoic acid, 2-[2-(4-hydroxyphenyl)diazenyl]-",True, CAS,1, Scout
+9057,1638-12-6,"Benzene, 1,3-bis(4-phenoxyphenoxy)-",False, ,0, 
+9058,1638-16-0,"2-Propanol, 1,1'-[(1-methyl-1,2-ethanediyl)bis(oxy)]bis-",True, CAS,1, Scout
+9059,1638-22-8,"Phenol, 4-butyl-",True, CAS,1, Scout
+9061,1638-86-4,"Phosphonous acid, P-phenyl-, diethyl ester",True, CAS,1, Scout
+9062,###############################################################################################################################################################################################################################################################,1-Heptanethiol,False, ,0, 
+9064,1639-66-3,"Butanedioic acid, 2-sulfo-, 1,4-dioctyl ester, sodium salt (1:1)",True, CAS,1, Scout
+9065,1640-39-7,"3H-Indole, 2,3,3-trimethyl-",False, ,0, 
+9066,1641-36-7,"1-Butanamine, acetate (1:1)",False, ,0, 
+9068,1642-54-2,"1-Piperazinecarboxamide, N,N-diethyl-4-methyl-, 2-hydroxy-1,2,3-propanetricarboxylate (1:1)",True, CAS,2, Scout
+9069,1643-19-2,"1-Butanaminium, N,N,N-tributyl-, bromide (1:1)",True, CAS,1, Scout
+9070,1643-20-5,"1-Dodecanamine, N,N-dimethyl-, N-oxide",True, CAS,3, Scout
+9071,1645-75-6,"2-Propanimine, 1,1,1,3,3,3-hexafluoro-",False, ,0, 
+9072,1646-26-0,"Ethanone, 1-(2-benzofuranyl)-",True, CAS,1, Scout
+9074,1646-75-9,"Propanal, 2-methyl-2-(methylthio)-, oxime",False, ,0, 
+9075,1647-16-1,"1,9-Decadiene",True, CAS,1, Scout
+9076,###############################################################################################################################################################################################################################################################,"Ethane, 1,2-dichloro-1,1-difluoro-",False, ,0, 
+9077,1652-63-7,"1-Propanaminium, 3-[[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]amino]-N,N,N-trimethyl-, iodide (1:1)",False, ,0, 
+9078,1653-16-3,"Heptane, 3-(iodomethyl)-",False, ,0, 
+9079,1653-19-6,"1,3-Butadiene, 2,3-dichloro-",False, ,0, 
+9080,1653-30-1,2-Undecanol,False, ,0, 
+9082,1654-86-0,"Decanoic acid, decyl ester",True, CAS,3, Scout
+9083,###############################################################################################################################################################################################################################################################,"Cyclohexanecarboxylic acid, 2-oxo-, ethyl ester",False, ,0, 
+9084,1655-29-4,"1,5-Naphthalenedisulfonic acid, sodium salt (1:2)",True, CAS,1, Scout
+9085,1655-35-2,"2,7-Naphthalenedisulfonic acid, sodium salt (1:2)",False, ,0, 
+9086,1655-43-2,"1,6-Naphthalenedisulfonic acid, sodium salt (1:2)",False, ,0, 
+9090,1656-44-6,"Benzenesulfonyl chloride, 2,4-dinitro-",False, ,0, 
+9091,1656-48-0,"Propanenitrile, 3,3'-oxybis-",True, CAS,1, Scout
+9092,1656-63-9,"Phosphorotrithious acid, tridodecyl ester",False, ,0, 
+9095,1658-56-6,"1-Naphthalenesulfonic acid, 4-[2-(2-hydroxy-1-naphthalenyl)diazenyl]-, sodium salt (1:1)",True, CAS,3, Scout
+9096,1660-93-1,"1,10-Phenanthroline, 3,4,7,8-tetramethyl-",True, CAS,1, Scout
+9098,1660-95-3,"Phosphonic acid, P,P'-methylenebis-, P,P,P',P'-tetrakis(1-methylethyl) ester",True, CAS,1, Scout
+9099,###############################################################################################################################################################################################################################################################,"Magnesium, [29H,31H-phthalocyaninato(2-)-.kappa.N29,.kappa.N30,.kappa.N31,.kappa.N32]-, (SP-4-1)-",False, ,0, 
+9100,###############################################################################################################################################################################################################################################################,"1,10-Phenanthroline, 4,7-diphenyl-",False, ,0, 
+9101,1663-39-4,"2-Propenoic acid, 1,1-dimethylethyl ester",True, CAS,1, Scout
+9102,1663-45-2,"Phosphine, 1,1'-(1,2-ethanediyl)bis[1,1-diphenyl-",True, CAS,1, Scout
+9104,1663-67-8,Propanedioyl dichloride,True, CAS,1, Scout
+9105,1664-40-0,"1,2-Ethanediamine, N1-phenyl-",False, ,0, 
+9109,###############################################################################################################################################################################################################################################################,"Ethanone, 1-(2,4,6-trimethylphenyl)-",False, ,0, 
+9110,1667-99-8,"Benzoic acid, 5-[(3-carboxy-5-methyl-4-oxo-2,5-cyclohexadien-1-ylidene)(2,6-dichloro-3-sulfophenyl)methyl]-2-hydroxy-3-methyl-, sodium salt (1:3)",True, CAS,1, Scout
+9111,1668-53-7,"1,3-Benzenediol, 4-[4,6-bis(2,4-dimethylphenyl)-1,3,5-triazin-2-yl]-",False, ,0, 
+9112,1668-54-8,"1,3,5-Triazin-2-amine, 4-methoxy-6-methyl-",False, ,0, 
+9113,1669-44-9,3-Octen-2-one,False, ,0, 
+9114,1670-14-0,"Benzenecarboximidamide, hydrochloride (1:1)",False, ,0, 
+9115,1670-46-8,"Cyclopentanone, 2-acetyl-",False, ,0, 
+9116,1670-47-9,"Cyclohexane, 1,1-diethoxy-",False, ,0, 
+9117,1670-83-3,1H-Indole-7-carboxylic acid,True, CAS,1, Scout
+9119,1674-18-6,"Benzene, 1,1',1'',1'''-(1,2-propadiene-1,3-diylidene)tetrakis-",False, ,0, 
+9120,1674-37-9,"1-Octanone, 1-phenyl-",True, CAS,1, Scout
+9121,1674-38-0,"1-Dodecanone, 1-phenyl-",True, CAS,2, Scout
+9122,1675-54-3,"Oxirane, 2,2'-[(1-methylethylidene)bis(4,1-phenyleneoxymethylene)]bis-",True, CAS,3, Scout
+9123,1676-63-7,"Ethanone, 1-(4-ethoxyphenyl)-",False, ,0, 
+9124,1676-73-9,"L-Glutamic acid, 5-(phenylmethyl) ester",True, CAS,1, Scout
+9125,1677-46-9,"2(1H)-Quinolinone, 4-hydroxy-1-methyl-",False, ,0, 
+9126,1678-25-7,"Benzenesulfonamide, N-phenyl-",False, ,0, 
+9128,1678-82-6,"Cyclohexane, 1-methyl-4-(1-methylethyl)-, trans-",False, ,0, 
+9129,1678-91-7,"Cyclohexane, ethyl-",False, ,0, 
+9130,1678-93-9,"Cyclohexane, butyl-",True, CAS,1, Scout
+9132,1679-09-0,"2-Butanethiol, 2-methyl-",False, ,0, 
+9133,1679-51-2,3-Cyclohexene-1-methanol,True, CAS,1, Scout
+9134,1679-64-7,"1,4-Benzenedicarboxylic acid, 1-methyl ester",True, CAS,1, Scout
+9137,1680-21-3,"2-Propenoic acid, 1,1'-[1,2-ethanediylbis(oxy-2,1-ethanediyl)] ester",True, CAS,3, Scout
+9138,1681-60-3,"2,7-Naphthalenedisulfonic acid, 3-[2-(4-aminophenyl)diazenyl]-4,5-dihydroxy-, sodium salt (1:2)",False, ,0, 
+9140,1682-78-6,"Propanoyl fluoride, 2,3,3,3-tetrafluoro-2-(1,1,2,2,2-pentafluoroethoxy)-",False, ,0, 
+9141,1686-14-2,"3-Oxatricyclo[4.1.1.02,4]octane, 2,7,7-trimethyl-",False, ,0, 
+9143,1687-30-5,"1,2-Cyclohexanedicarboxylic acid",False, ,0, 
+9144,1687-60-1,"Ethanediamide, N1,N2-dihydroxy-",False, ,0, 
+9148,1689-82-3,"Phenol, 4-(2-phenyldiazenyl)-",True, CAS,2, Scout
+9149,1689-99-2,"Octanoic acid, 2,6-dibromo-4-cyanophenyl ester",True, CAS,3, Scout
+9151,1691-99-2,"1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-",False, ,0, 
+9152,1693-51-2,"Cyclotrisiloxane, 2,2,4,4-tetramethyl-6,6-diphenyl-",False, ,0, 
+9153,1693-71-6,"Boric acid (H3BO3), tri-2-propen-1-yl ester",False, ,0, 
+9154,###############################################################################################################################################################################################################################################################,"Benzenemethanaminium, N-[4-[[4-(dimethylamino)phenyl][4-[ethyl[(3-sulfophenyl)methyl]amino]phenyl]methylene]-2,5-cyclohexadien-1-ylidene]-N-ethyl-3-sulfo-, inner salt, sodium salt (1:1)",False, ,0, 
+9156,1694-31-1,"Butanoic acid, 3-oxo-, 1,1-dimethylethyl ester",False, ,0, 
+9158,1694-92-4,"Benzenesulfonyl chloride, 2-nitro-",True, CAS,1, Scout
+9159,1696-17-9,"Benzamide, N,N-diethyl-",True, CAS,3, Scout
+9160,1696-20-4,"Ethanone, 1-(4-morpholinyl)-",True, CAS,1, Scout
+9162,1698-60-8,"3(2H)-Pyridazinone, 5-amino-4-chloro-2-phenyl-",False, ,0, 
+9163,1700-10-3,"1,3-Cyclooctadiene",False, ,0, 
+9165,1702-17-6,"2-Pyridinecarboxylic acid, 3,6-dichloro-",False, ,0, 
+9166,1702-42-7,"Phosphonium, tributylmethyl-, iodide (1:1)",True, CAS,1, Scout
+9167,1703-58-8,"1,2,3,4-Butanetetracarboxylic acid",True, CAS,1, Scout
+9168,1704-62-7,"Ethanol, 2-[2-(dimethylamino)ethoxy]-",True, CAS,1, Scout
+9169,1705-60-8,"Peroxide, 1,1',1'',1'''-[(1-methylethylidene)di-4-cyclohexanyl-1-ylidene]tetrakis[2-(1,1-dimethylethyl)",False, ,0, 
+9173,1707-67-1,"1H-Imidazole, 2-(2-chlorophenyl)-4,5-diphenyl-",False, ,0, 
+9174,1707-68-2,"1,1'-Bi-1H-imidazole, 2,2'-bis(2-chlorophenyl)-4,4',5,5'-tetraphenyl-",False, ,0, 
+9177,1708-29-8,"Furan, 2,5-dihydro-",True, CAS,1, Scout
+9178,1708-34-5,"1,3-Dioxolane, 2-hexyl-",False, ,0, 
+9182,1708-81-2,"3-Hepten-1-ol, (3Z)-",False, ,0, 
+9183,1708-82-3,"3-Hexen-1-ol, 1-acetate",False, ,0, 
+9186,1709-44-0,"Benzaldehyde, 3-amino-",True, CAS,1, Scout
+9188,1709-70-2,"Phenol, 4,4',4''-[(2,4,6-trimethyl-1,3,5-benzenetriyl)tris(methylene)]tris[2,6-bis(1,1-dimethylethyl)-",False, ,0, 
+9190,1711-02-0,"Benzoyl chloride, 4-iodo-",True, CAS,1, Scout
+9191,###############################################################################################################################################################################################################################################################,"Benzoyl chloride, 3-methyl-",False, ,0, 
+9192,###############################################################################################################################################################################################################################################################,"Benzoyl chloride, 3-fluoro-",False, ,0, 
+9193,###############################################################################################################################################################################################################################################################,"Benzoyl chloride, 3-bromo-",False, ,0, 
+9194,1712-64-7,"Nitric acid, 1-methylethyl ester",True, CAS,1, Scout
+9199,1717-00-6,"Ethane, 1,1-dichloro-1-fluoro-",True, CAS,1, Scout
+9200,1718-34-9,"Benzoic acid, 2-hydroxy-5-[2-(4-nitrophenyl)diazenyl]-, sodium salt (1:1)",True, CAS,3, Scout
+9201,1719-53-5,"Silane, dichlorodiethyl-",True, CAS,1, Scout
+9202,1719-57-9,"Silane, chloro(chloromethyl)dimethyl-",True, CAS,1, Scout
+9203,1719-58-0,"Silane, chloroethenyldimethyl-",True, CAS,1, Scout
+9204,1720-32-7,"Benzene, 1,1'-(1,3,5-hexatriene-1,6-diyl)bis-",True, CAS,2, Scout
+9205,1720-38-3,"1,9-Decadiyne",False, ,0, 
+9206,1721-51-3,"2H-1-Benzopyran-6-ol, 3,4-dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-3,7,11-tridecatrien-1-yl)-",False, ,0, 
+9207,1722-26-5,"Boron, (N,N-diethylethanamine)trihydro-, (T-4)-",True, CAS,1, Scout
+9208,1722-62-9,"2-Piperidinecarboxamide, N-(2,6-dimethylphenyl)-1-methyl-, hydrochloride (1:1)",True, CAS,2, Scout
+9209,1723-94-0,"Morpholine, 4,4'-(1,2-ethanediyl)bis-",False, ,0, 
+9210,1724-39-6,Cyclododecanol,True, CAS,1, Scout
+9211,###############################################################################################################################################################################################################################################################,"1,8-Dioxacycloheptadecan-9-one",False, ,0, 
+9212,###############################################################################################################################################################################################################################################################,Oxacyclododecan-2-one,False, ,0, 
+9217,1726-65-4,"Aluminum, trihexadecyl-",False, ,0, 
+9219,1728-46-7,"Cyclohexanone, 2-(1,1-dimethylethyl)-",True, CAS,1, Scout
+9222,1731-79-9,"Dodecanedioic acid, 1,12-dimethyl ester",True, CAS,2, Scout

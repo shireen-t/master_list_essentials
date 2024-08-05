@@ -1,0 +1,1001 @@
+Id,Cas,Name,Downloaded,Found_by,No_of_downloads, Done_by
+27812,38136-29-7,"Pentanoyl chloride, 4-methyl-",FALSE, ,0, 
+27813,38139-94-5,"2-Propenamide, 2-methyl-, polymer with 1-ethenyl-2-pyrrolidinone",FALSE, ,0, 
+27817,1324-26-5,"[3,3'-Bi-7H-benz[de]anthracene]-7,7'-dione, 9,9'-diamino-",FALSE, ,0, 
+27820,38193-60-1,"1-Propanesulfonic acid, 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-, sodium salt (1:1), polymer with 2-propenamide",FALSE, ,0, 
+27821,38201-97-7,"Platinum(2+), tetraamminedihydroxy-",TRUE, CAS,1, Scout
+27823,38205-64-0,"Thiazole, 5-methoxy-2-methyl-",FALSE, ,0, 
+27826,38215-36-0,"2H-1-Benzopyran-2-one, 3-(2-benzothiazolyl)-7-(diethylamino)-",TRUE, CAS,2, Scout
+27828,38223-29-9,"Oxacyclohexadecane-2,13-dione",FALSE, ,0, 
+27831,38237-00-2,"2,6-Octadiene-1-thiol, 3,7-dimethyl-",FALSE, ,0, 
+27837,38284-26-3,"Bicyclo[7.2.0]undecan-5-ol, 10,10-dimethyl-2,6-bis(methylene)-",FALSE, ,0, 
+27839,38285-49-3,"Pentitol, 1,5-anhydro-2-butyl-2,4-dideoxy-4-methyl-, 3-acetate",TRUE, CAS,1, Scout
+27840,38294-67-6,"Phenol, 4,4'-(1-methylethylidene)bis-, polymer with 2-(chloromethyl)oxirane and 4,4'-methylenebis[cyclohexanamine]",TRUE, CAS,1, Scout
+27841,38294-69-8,"Phenol, 4,4'-(1-methylethylidene)bis-, polymer with N1,N2-bis(2-aminoethyl)-1,2-ethanediamine and 2-(chloromethyl)oxirane",TRUE, CAS,2, Scout
+27844,38299-08-0,"[1,2,4]Triazolo[1,5-a]pyrimidin-7-ol, 5-methyl-, sodium salt (1:1)",FALSE, ,0, 
+27845,38303-23-0,"Cyclododecoxazole, 4,5,6,7,8,9,10,11,12,13-decahydro-",FALSE, ,0, 
+27846,38304-27-7,"Phosphonic acid, P-octyl-, sodium salt (1:1)",FALSE, ,0, 
+27847,38304-28-8,"Phosphonic acid, P-octyl-, sodium salt (1:2)",FALSE, ,0, 
+27850,38321-18-5,"Ethanol, 2-(2-butoxyethoxy)-, sodium salt (1:1)",FALSE, ,0, 
+27851,38325-25-6,"Spiro[1,3-dithiolo[4,5-b]furan-2,3'(2'H)-furan], hexahydro-2',3a-dimethyl-",FALSE, ,0, 
+27852,38333-84-5,"2-Propanone, polymer with 1,2,3-benzenetriol",FALSE, ,0, 
+27854,38344-72-8,"Octanoic acid, compd. with morpholine (1:1)",FALSE, ,0, 
+27858,13314-43-1,"2(1H)-Pyrimidinone, hydrochloride (1:1)",FALSE, ,0, 
+27860,38353-82-1,"2-Propanol, 1-[(3-aminophenyl)amino]-3-phenoxy-",FALSE, ,0, 
+27864,38363-23-4,"2-Dodecen-1-ol, 1-acetate",FALSE, ,0, 
+27865,38363-29-0,"8-Dodecen-1-ol, 1-acetate, (8E)-",TRUE, CAS,1, Scout
+27869,38396-39-3,"2-Piperidinecarboxamide, 1-butyl-N-(2,6-dimethylphenyl)-",TRUE, CAS,3, Scout
+27870,nan,"Ethanaminium, 2-hydroxy-N-(2-hydroxyethyl)-N,N-dimethyl-, chloride (1:1)",FALSE, ,0, 
+27871,nan,"Benzoic acid, 2,4-dichloro-, sodium salt (1:1)",FALSE, ,0, 
+27877,38414-49-2,"2-Propenoic acid, 2-methyl-, polymer with 2-[(1,1-dimethylethyl)amino]ethyl 2-methyl-2-propenoate, methyl 2-methyl-2-propenoate and 1,7,7-trimethylbicyclo[2.2.1]hept-2-yl 2-methyl-2-propenoate",FALSE, ,0, 
+27878,38415-32-6,"2-Propenoic acid, 2-methyl-, butyl ester, polymer with 2-hydroxyethyl 2-methyl-2-propenoate, methyl 2-methyl-2-propenoate and 2-propenoic acid",FALSE, ,0, 
+27879,38415-60-0,"5-Isobenzofurancarboxylic acid, 1,3-dihydro-1,3-dioxo-, polymer with 2-(chloromethyl)oxirane and 4,4'-(1-methylethylidene)bis[phenol]",FALSE, ,0, 
+27881,38421-90-8,"5-Decen-1-ol, 1-acetate, (5E)-",TRUE, CAS,1, Scout
+27883,38436-16-7,"Silane, dichloromethyl(3,3,4,4,5,5,6,6,6-nonafluorohexyl)-",FALSE, ,0, 
+27885,38444-13-2,"Benzoic acid, 4-methoxy-, 4-pentylphenyl ester",TRUE, CAS,2, Scout
+27886,38444-15-4,"Benzoic acid, 4-(hexyloxy)-, 4-pentylphenyl ester",FALSE, ,0, 
+27888,38449-49-9,"4-Thiazoleacetic acid, 2,3-dihydro-2-thioxo-, ethyl ester",FALSE, ,0, 
+27895,38456-45-0,"2(3H)-Benzothiazolethione, compd. with N-ethylethanamine (1:1)",FALSE, ,0, 
+27896,38460-95-6,10-Undecenoyl chloride,TRUE, CAS,2, Scout
+27897,38462-22-5,"Cyclohexanone, 2-(1-mercapto-1-methylethyl)-5-methyl-",TRUE, CAS,3, Scout
+27898,38462-23-6,"Pyridine, 4-(4,8-dimethyl-3,7-nonadien-1-yl)-",TRUE, CAS,2, Scout
+27901,38465-55-3,"Nickel, bis[1-[4-(dimethylamino)phenyl]-2-phenyl-1,2-ethenedithiolato(2-)-.kappa.S1,.kappa.S2]-",FALSE, ,0, 
+27902,38465-60-0,"Borate(1-), tetrafluoro-, copper(2+) (2:1)",TRUE, CAS,1, Scout
+27906,38489-19-9,"Butanamide, N-(4-chloro-2,5-dimethoxyphenyl)-2-[2-(4-nitrophenyl)diazenyl]-3-oxo-",FALSE, ,0, 
+27907,38489-24-6,"Butanamide, 2-[2-(2,3-dihydro-1,3-dioxo-1H-isoindol-5-yl)diazenyl]-N-(2,4-dimethylphenyl)-3-oxo-",FALSE, ,0, 
+27911,38517-23-6,"L-Glutamic acid, N-(1-oxooctadecyl)-, sodium salt (1:1)",TRUE, CAS,1, Scout
+27912,38521-46-9,"3-Pyridinecarboxylic acid, 1,2-dihydro-2-thioxo-",TRUE, CAS,2, Scout
+27914,38531-17-8,"2-Propenoic acid, polymer with ethene, compd. with 2-(diethylamino)ethanol",FALSE, ,0, 
+27915,38531-18-9,"2-Propenoic acid, polymer with ethene, compd. with 2-(dimethylamino)ethanol",FALSE, ,0, 
+27920,38565-52-5,"Oxirane, 2-(2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl)-",TRUE, CAS,1, Scout
+27925,38582-17-1,"Cyclohexanebutanoic acid, cobalt(2+) salt (2:1)",FALSE, ,0, 
+27926,38582-18-2,"Cyclohexanebutanoic acid, zinc salt (2:1)",FALSE, ,0, 
+27927,38584-87-1,"Hexanoic acid, 2-ethyl-, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)",TRUE, CAS,1, Scout
+27929,38598-34-4,"Aluminum, bis(cyclohexanebutanoato-.kappa.O)hydroxy-",FALSE, ,0, 
+27931,38613-77-3,"Phosphonous acid, P,P'-[[1,1'-biphenyl]-4,4'-diyl]bis-, P,P,P',P'-tetrakis[2,4-bis(1,1-dimethylethyl)phenyl] ester",TRUE, CAS,1, Scout
+27934,38615-43-9,"1,6-Hexanediamine, N1-butyl-",FALSE, ,0, 
+27935,nan,"9-Octadecenoic acid (9Z)-, compd. with 1,1'-iminobis[2-propanol] (1:1)",FALSE, ,0, 
+27936,38618-23-4,"Ethanol, 2-[[5-methyl-2-(1-methylethyl)cyclohexyl]oxy]-",FALSE, ,0, 
+27937,38621-44-2,"9-Octadecenoic acid, (sulfooxy)-, 1-butyl ester",FALSE, ,0, 
+27939,38622-63-8,"2,5-Furandione, polymer with 2,2'-[oxybis(2,1-ethanediyloxy)]bis[ethanol]",FALSE, ,0, 
+27943,38639-64-4,"2-Propenoic acid, polymer with 2-hydroxyethyl 2-propenoate",FALSE, ,0, 
+27944,38640-62-9,"Naphthalene, bis(1-methylethyl)-",TRUE, CAS,3, Scout
+27945,38641-16-6,"Naphthalene, dodecyl-",FALSE, ,0, 
+27947,38643-74-2,"Thiopyrylium, 4-[4-(dimethylamino)phenyl]-2-(4-ethoxyphenyl)-6-phenyl-, tetrafluoroborate(1-) (1:1)",FALSE, ,0, 
+27948,38649-18-2,"Cyclohexanol, 5-methyl-2-(1-methylethyl)-, 1-benzoate, (1R,2S,5R)-rel-",FALSE, ,0, 
+27949,38656-51-8,"Benzenediazonium, 2,5-diethoxy-4-[(4-methylphenyl)thio]-, (T-4)-tetrachlorozincate(2-) (2:1)",FALSE, ,0, 
+27953,38661-72-2,"Cyclohexane, 1,3-bis(isocyanatomethyl)-",FALSE, ,0, 
+27955,38665-30-4,"Methionine, N-[(9Z)-1-oxo-9-octadecen-1-yl]-",FALSE, ,0, 
+27956,38668-46-1,"1,3,5-Triazine-2,4-diamine, 6-[2-(2-methyl-1H-imidazol-1-yl)ethyl]-",FALSE, ,0, 
+27957,38668-48-3,"2-Propanol, 1,1'-[(4-methylphenyl)imino]bis-",TRUE, CAS,1, Scout
+27959,38684-16-1,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate, methyl 2-methyl-2-propenoate and 1,1'-(1-methyl-1,3-propanediyl) bis(2-methyl-2-propenoate)",FALSE, ,0, 
+27964,38690-77-6,"Benzoic acid, 4-butyl-, 4-cyanophenyl ester",FALSE, ,0, 
+27968,38702-16-8,"Hexanedioic acid, polymer with 1,3-dihydro-1,3-dioxo-5-isobenzofurancarboxylic acid, 2,2-dimethyl-1,3-propanediol and 1,3-isobenzofurandione",FALSE, ,0, 
+27969,38702-18-0,"1,4-Benzenedicarboxylic acid, polymer with 1,3-dihydro-1,3-dioxo-5-isobenzofurancarboxylic acid, 2,2-dimethyl-1,3-propanediol and hexanedioic acid",FALSE, ,0, 
+27971,38713-41-6,"Pyrazine, 2-(1-methylethenyl)-",FALSE, ,0, 
+27972,38714-47-5,"Zinc(2+), tetraammine-, (T-4)-, carbonate (1:1)",TRUE, CAS,2, Scout
+27973,38719-97-0,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, ether with N1-[2-[bis(2-hydroxyethyl)methylammonio]ethyl]-N1,N2-bis(hydroxyethyl)-N1,N2-dimethyl-N2-octadecyl-1,2-ethanediaminium, methyl sulfate (4:1:3)",FALSE, ,0, 
+27974,38720-66-0,"Quino[2,3-b]acridine-7,14-dione, dichloro-5,12-dihydro-",FALSE, ,0, 
+27975,38721-52-7,"Borate(1-), hydrotris(1-methylpropyl)-, lithium (1:1), (T-4)-",FALSE, ,0, 
+27979,38723-70-5,"Oxirane, 2-methyl-, polymer with ammonia and oxirane",FALSE, ,0, 
+27982,38742-70-0,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with 2-methyl-2-propenenitrile and 2-propenenitrile",TRUE, CAS,1, Scout
+27986,38758-15-5,"Benzoic acid, 2-[[[(1-methylethyl)amino]sulfonyl]amino]-",FALSE, ,0, 
+27988,38775-38-1,1-Hexadecanesulfonyl chloride,FALSE, ,0, 
+27991,38783-61-8,"1,3-Benzenedicarboxylic acid, polymer with hexanedioic acid and 1,6-hexanediol",FALSE, ,0, 
+27992,38783-73-2,"Hexanedioic acid, polymer with 1,2-ethanediol and 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane",FALSE, ,0, 
+27996,nan,"2-Naphthalenesulfonic acid, 7,7'-(carbonyldiimino)bis[4-hydroxy-3-[2-(2-methyl-4-sulfophenyl)diazenyl]-, compd. with 2,2',2''-nitrilotris[ethanol] (1:4)",FALSE, ,0, 
+27997,38801-08-0,"Benzoic acid, 4,4'-[carbonylbis[imino(1-hydroxy-3-sulfo-6,2-naphthalenediyl)-2,1-diazenediyl]]bis-, compd. with 2,2',2''-nitrilotris[ethanol] (1:4)",FALSE, ,0, 
+27998,nan,"Benzoic acid, 4-[2-[1-hydroxy-6-[[[[5-hydroxy-6-[2-(2-methyl-4-sulfophenyl)diazenyl]-7-sulfo-2-naphthalenyl]amino]carbonyl]amino]-3-sulfo-2-naphthalenyl]diazenyl]-, compd. with 2,2',2''-nitrilotris[ethanol] (1:4)",FALSE, ,0, 
+28004,38815-93-9,"Poly(oxy-1,2-ethanediyl), .alpha.-(carboxymethyl)-.omega.-(decyloxy)-, sodium salt (1:1)",FALSE, ,0, 
+28005,38816-48-7,"Poly(oxy-1,2-ethanediyl), .alpha.-(carboxymethyl)-.omega.-[(9Z)-9-octadecen-1-yloxy]-, sodium salt (1:1)",FALSE, ,0, 
+28006,38820-59-6,"Phosphonic acid, P,P'-[1,6-hexanediylbis[nitrilobis(methylene)]]tetrakis-, potassium salt (1:?)",TRUE, CAS,1, Scout
+28008,nan,"Phenol, 4,4'-(1-methylethylidene)bis-, polymer with 2-(chloromethyl)oxirane and 2,2'-iminobis[ethanol]",FALSE, ,0, 
+28010,38833-00-0,"Chromate(1-), bis[4-(hydroxy-.kappa.O)-3-[2-[2-(hydroxy-.kappa.O)-1-naphthalenyl]diazenyl-.kappa.N1]benzenesulfonamidato(2-)]-, hydrogen (1:1)",FALSE, ,0, 
+28011,38841-48-4,"Dodecanoic acid, 2-sulfo-, sodium salt (1:2)",FALSE, ,0, 
+28012,38841-88-2,"3-Pyridinecarbonitrile, 2,6-bis[(2-hydroxyethyl)amino]-4-methyl-",TRUE, CAS,1, Scout
+28013,38841-98-4,"Magnesium, chlorooctyl-",FALSE, ,0, 
+28014,38845-47-5,"1H-1,2,4-Triazolium, 1,4-dimethyl-5-[2-[4-[methyl(phenylmethyl)amino]phenyl]diazenyl]-, trichlorozincate(1-) (1:1)",FALSE, ,0, 
+28019,38861-78-8,"Ethanone, 1-[4-(2-methylpropyl)phenyl]-",TRUE, CAS,1, Scout
+28022,38872-36-5,"Nonane, 1,1,3-triethoxy-",FALSE, ,0, 
+28024,38888-98-1,"Benzene, (phenylethyl)-",TRUE, CAS,1, Scout
+28027,38900-29-7,"Nonanedioic acid, lithium salt (1:2)",TRUE, CAS,3, Scout
+28028,38916-42-6,"Aspartic acid, N-(3-carboxy-1-oxo-3-sulfopropyl)-N-octadecyl-, sodium salt (1:4)",TRUE, CAS,2, Scout
+28029,38926-38-4,"1H-Indolium, 1-[2-(1,3-dihydro-1,3,3-trimethyl-2H-indol-2-ylidene)ethylidene]-2,3-dihydro-5-methoxy-2,3,3-trimethyl-, chloride (1:1)",FALSE, ,0, 
+28030,38936-33-3,"3H-Indolium, 1,3,3-trimethyl-2-[[2-methyl-2-(2-naphthalenyl)hydrazinylidene]methyl]-, chloride (1:1)",FALSE, ,0, 
+28031,38936-35-5,"3H-Indolium, 2-[[2-(4-methoxyphenyl)-2-methylhydrazinylidene]methyl]-1,3,3-trimethyl-, chloride (1:1)",FALSE, ,0, 
+28034,38951-97-2,"Nickel, bis[1,2-bis(4-methoxyphenyl)-1,2-ethenedithiolato(2-)-.kappa.S1,.kappa.S2]-, (SP-4-1)-",FALSE, ,0, 
+28038,38954-40-4,"Ethanol, 2-(ethylphenylamino)-, 1-acetate",FALSE, ,0, 
+28040,38970-72-8,"Cyclohexane, 1,1'-(1,1,3-trimethyl-1,3-propanediyl)bis-",TRUE, CAS,1, Scout
+28041,38970-76-2,"Benzoic acid, 2-hydroxy-, lithium salt (1:2)",TRUE, CAS,1, Scout
+28045,nan,"Neodecanoic acid, zirconium salt (1:?)",FALSE, ,0, 
+28050,39067-39-5,"Bicyclo[2.2.1]hept-5-ene-2-carboxaldehyde, 3-propyl-",FALSE, ,0, 
+28051,39067-80-6,"2,6-Octadiene-1-thiol, 3,7-dimethyl-, (2E)-",FALSE, ,0, 
+28052,39072-70-3,"Urea, N,N''-1,6-hexanediylbis[N'-(phenylmethyl)-",FALSE, ,0, 
+28053,39081-91-9,"3,4-Hexanedione, 2,5-dibromo-",FALSE, ,0, 
+28055,39082-23-0,Hafnium telluride (HfTe2),FALSE, ,0, 
+28056,39098-97-0,2-Thiopheneacetyl chloride,TRUE, CAS,1, Scout
+28058,39108-47-9,"3-Pyridinecarbonitrile, 1-butyl-1,2-dihydro-6-hydroxy-4-methyl-2-oxo-",FALSE, ,0, 
+28062,39142-36-4,"Thioimidodicarbonic acid ((HO)C(O)NHC(S)(OH)), O1,O3-dibutyl ester",FALSE, ,0, 
+28063,39156-41-7,"1,3-Benzenediamine, 4-methoxy-, sulfate (1:1)",FALSE, ,0, 
+28067,39189-74-7,"Cyclopentanone, 2-heptylidene-",FALSE, ,0, 
+28070,39196-18-4,"2-Butanone, 3,3-dimethyl-1-(methylthio)-, O-[(methylamino)carbonyl]oxime",TRUE, CAS,1, Scout
+28072,39201-42-8,"Benzoxazolium, 5-chloro-2-[2-[[5-chloro-3-(3-sulfopropyl)-2(3H)-benzoxazolylidene]methyl]-1-buten-1-yl]-3-(3-sulfopropyl)-, inner salt, compd. with N,N-diethylethanamine (1:1)",FALSE, ,0, 
+28073,39202-17-0,"9-Dodecenoic acid, methyl ester",TRUE, CAS,2, Scout
+28076,39211-00-2,"Aluminate(1-), tetrafluoro-, cesium (1:1), (T-4)-",TRUE, CAS,1, Scout
+28077,39212-23-2,"2(3H)-Furanone, 5-butyldihydro-4-methyl-",TRUE, CAS,1, Scout
+28078,39222-73-6,"1,3,4-Thiadiazol-2-amine, 5-(1,1-dimethylethyl)-",FALSE, ,0, 
+28080,39230-59-6,"1-Pentanol, 3-methyl-, 1-propanoate",FALSE, ,0, 
+28081,39236-46-9,"Urea, N,N''-methylenebis[N'-[3-(hydroxymethyl)-2,5-dioxo-4-imidazolidinyl]-",TRUE, CAS,2, Scout
+28082,39239-77-5,"1-Tetradecanol, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-pentacosafluoro-",FALSE, ,0, 
+28083,nan,"Octanoic acid, 2-furanylmethyl ester",FALSE, ,0, 
+28084,39255-32-8,"Pentanoic acid, 2-methyl-, ethyl ester",TRUE, CAS,2, Scout
+28086,39277-28-6,"Benzenesulfonamide, ar-methyl-, polymer with formaldehyde and 1,3,5-triazine-2,4,6-triamine",FALSE, ,0, 
+28087,39278-27-8,"Lignosulfonic acid, barium salt",FALSE, ,0, 
+28089,nan,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.',.alpha.''-1,2,3-propanetriyltris[.omega.-hydroxy-, polymer with 1,3-diisocyanatomethylbenzene",FALSE, ,0, 
+28091,39281-13-5,"Hexanedioic acid, polymer with .alpha.-hydro-.omega.-hydroxypoly[oxy(methyl-1,2-ethanediyl)]",FALSE, ,0, 
+28092,39282-36-5,"Undecanoic acid, hydroxy-, lactone",FALSE, ,0, 
+28093,39283-29-9,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-hydroxy-, ether with methyl .alpha.-D-glucopyranoside (4:1)",FALSE, ,0, 
+28094,39288-44-3,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-hydroxy-, polymer with 1,3-diisocyanatomethylbenzene and 1,1'-methylenebis[isocyanatobenzene]",FALSE, ,0, 
+28096,39290-78-3,Aluminum chloride hydroxide sulfate,TRUE, CAS,3, Scout
+28097,39290-85-2,"Boric acid, copper salt",TRUE, CAS,2, Scout
+28098,39290-90-9,Magnesium potassium titanium oxide,FALSE, ,0, 
+28103,nan,"Benzene, 1,1'-methylenebis[isocyanato-, homopolymer",FALSE, ,0, 
+28104,39316-70-6,"Starch, hydrogen butanedioate",FALSE, ,0, 
+28105,39317-18-5,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.',.alpha.''-1,2,3-propanetriyltris[.omega.-[[2-(sulfothio)acetyl]oxy]-, sodium salt (1:3)",FALSE, ,0, 
+28106,39317-41-4,"2-Propenoic acid, monoester with 1,2-propanediol, polymer with chloroethene and ethenyl acetate",FALSE, ,0, 
+28107,39317-46-9,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with ethyl 2-propenoate, 1,2-propanediol mono(2-methyl-2-propenoate) and 2-propenoic acid",FALSE, ,0, 
+28108,39317-86-7,"Formaldehyde, polymer with (1,1-dimethylpropyl)phenol",FALSE, ,0, 
+28110,39318-18-8,Tungsten oxide,FALSE, ,0, 
+28111,39318-30-4,Lithium potassium titanium oxide,FALSE, ,0, 
+28112,39318-45-1,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, polymer with 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane",FALSE, ,0, 
+28113,39318-99-5,"Formaldehyde, polymer with dodecylphenol",FALSE, ,0, 
+28116,39322-78-6,"Phosphoric acid, dodecyl ester, potassium salt",FALSE, ,0, 
+28117,39323-37-0,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-hydroxy-, polymer with 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane",TRUE, CAS,1, Scout
+28118,39331-38-9,"Lignosulfonic acid, iron salt",TRUE, CAS,2, Scout
+28119,39331-39-0,"Lignosulfonic acid, sodium salt, polymer with formaldehyde",FALSE, ,0, 
+28120,39332-53-1,"2-Propenoic acid, 2-methyl-, polymer with methyl 2-methyl-2-propenoate and 2-propenoic acid",FALSE, ,0, 
+28125,nan,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-phosphinicobis[.omega.-(decyloxy)-",FALSE, ,0, 
+28127,39345-87-4,Carbon silicon oxide,FALSE, ,0, 
+28129,39346-76-4,"Guar gum, carboxymethyl ether, sodium salt",FALSE, ,0, 
+28130,39346-81-1,"Agarose, 2-hydroxyethyl ether",TRUE, CAS,2, Scout
+28132,39354-45-5,"Poly(oxy-1,2-ethanediyl), .alpha.-(3-carboxy-1-oxo-3-sulfopropyl)-.omega.-(dodecyloxy)-, sodium salt (1:2)",TRUE, CAS,1, Scout
+28134,39359-45-0,"2-Propenenitrile, polymer with ethenylbenzene and .alpha.,.alpha.',.alpha.''-1,2,3-propanetriyltris[.omega.-hydroxypoly[oxy(methyl-1,2-ethanediyl)]]",FALSE, ,0, 
+28136,39366-43-3,Aluminum magnesium hydroxide,FALSE, ,0, 
+28137,39373-34-7,"2-Propenoic acid, polymer with 1,2-propanediol mono-2-propenoate",FALSE, ,0, 
+28138,39377-45-2,"Aluminum oxide, basic",FALSE, ,0, 
+28139,39377-63-4,Titanium tungsten carbide,FALSE, ,0, 
+28140,39377-81-6,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-(2-cyanoethyl)-.omega.-(2-cyanoethoxy)-",FALSE, ,0, 
+28141,39377-98-5,"Hexanedioic acid, polymer with 1,4-butanediol, 1,3-diisocyanatomethylbenzene, 2-ethyl-2-(hydroxymethyl)-1,3-propanediol and 2,2'-oxybis[ethanol]",FALSE, ,0, 
+28142,nan,"Poly(oxy-1,4-butanediyl), .alpha.-hydro-.omega.-hydroxy-, polymer with 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane",FALSE, ,0, 
+28144,39382-25-7,"2-Butenedioic acid (2E)-, polymer with .alpha.,.alpha.'-[(1-methylethylidene)di-4,1-phenylene]bis[.omega.-hydroxypoly[oxy(methyl-1,2-ethanediyl)]]",TRUE, CAS,2, Scout
+28146,39385-67-6,"Dodecanoic acid, ester with 2,2-bis(hydroxymethyl)-1,3-propanediol",FALSE, ,0, 
+28147,39386-78-2,Tamarind seed gum,FALSE, ,0, 
+28148,39389-20-3,"Benzenesulfonic acid, ethenyl-, polymer with diethenylbenzene",FALSE, ,0, 
+28150,39393-39-0,"Xanthylium, 3,6-bis(diethylamino)-9-[2-(methoxycarbonyl)phenyl]-, chloride (1:1)",TRUE, CAS,1, Scout
+28151,nan,"2-Propenoic acid, 2-methyl-, 2-methylpropyl ester, polymer with ethenylmethylbenzene",FALSE, ,0, 
+28152,39405-21-5,"2-Butenedioic acid (2Z)-, polymer with .alpha.-hydro-.omega.-hydroxypoly(oxy-1,2-ethanediyl)",FALSE, ,0, 
+28153,39405-47-5,"Dextrin, reaction products with boric acid",FALSE, ,0, 
+28155,nan,"Phosphoric acid, octyl ester",FALSE, ,0, 
+28156,39409-93-3,"Oxirane, 2-methyl-, polymer with .alpha.-hydro-.omega.-hydroxypoly(oxy-1,4-butanediyl)",FALSE, ,0, 
+28160,39416-48-3,"Hydrogen tribromide, compd. with pyridine (1:1)",FALSE, ,0, 
+28161,39420-45-6,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-(2-methyl-1-oxo-2-propen-1-yl)-.omega.-hydroxy-",TRUE, CAS,2, Scout
+28162,39420-98-9,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-hydroxy-, polymer with 1,1'-methylenebis[isocyanatobenzene]",TRUE, CAS,3, Scout
+28163,39421-27-7,"Oxirane, 2,2'-[(1-methylethylidene)bis(4,1-phenyleneoxymethylene)]bis-, polymer with 1,3-diisocyanatomethylbenzene",FALSE, ,0, 
+28164,39421-75-5,"Guar gum, 2-hydroxypropyl ether",TRUE, CAS,2, Scout
+28165,39423-51-3,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-(2-aminomethylethoxy)-, ether with 2-ethyl-2-(hydroxymethyl)-1,3-propanediol (3:1)",TRUE, CAS,2, Scout
+28166,39430-51-8,"Acetic acid, chromium salt, basic",TRUE, CAS,2, Scout
+28168,39437-99-5,"Disilane, dichlorotetramethyl-",FALSE, ,0, 
+28169,39443-66-8,"Oxirane, 2-(chloromethyl)-, polymer with .alpha.-hydro-.omega.-hydroxypoly(oxy-1,2-ethanediyl)",FALSE, ,0, 
+28171,39444-67-2,"2-Butenedioic acid (2Z)-, ammonium salt (1:?), homopolymer",FALSE, ,0, 
+28173,39444-87-6,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, polymer with 1,1'-methylenebis[4-isocyanatocyclohexane]",FALSE, ,0, 
+28174,39445-23-3,Calcium magnesium hydroxide (CaMg(OH)4),TRUE, CAS,3, Scout
+28176,39454-62-1,"Ethanol, 2-butoxy-, phosphate",FALSE, ,0, 
+28177,39454-63-2,"Oxirane, 2-ethyl-, polymer with oxirane, monododecyl ether",FALSE, ,0, 
+28179,39455-80-6,Ammonium sodium vanadium oxide,FALSE, ,0, 
+28180,39464-64-7,"Poly(oxy-1,2-ethanediyl), .alpha.-(dinonylphenyl)-.omega.-hydroxy-, phosphate",FALSE, ,0, 
+28181,39464-66-9,"Poly(oxy-1,2-ethanediyl), .alpha.-dodecyl-.omega.-hydroxy-, phosphate",TRUE, CAS,2, Scout
+28182,39464-67-0,"Poly(oxy-1,2-ethanediyl), .alpha.-(dodecylphenyl)-.omega.-hydroxy-, phosphate",FALSE, ,0, 
+28183,39464-69-2,"Poly(oxy-1,2-ethanediyl), .alpha.-(9Z)-9-octadecen-1-yl-.omega.-hydroxy-, phosphate",TRUE, CAS,3, Scout
+28184,39464-70-5,"Poly(oxy-1,2-ethanediyl), .alpha.-phenyl-.omega.-hydroxy-, phosphate",TRUE, CAS,1, Scout
+28185,39464-87-4,Scleroglucan,TRUE, CAS,2, Scout
+28186,nan,"Guar gum, 2-hydroxyethyl ether",FALSE, ,0, 
+28187,39466-00-7,"Hexanedioic acid, polymer with 1,1'-methylenebis[isocyanatobenzene] and 2,2'-oxybis[ethanol]",FALSE, ,0, 
+28188,39471-52-8,"Phosphoric acid, octadecyl ester",FALSE, ,0, 
+28190,39482-87-6,"Silanamine, N-[dimethyl(3,3,3-trifluoropropyl)silyl]-1,1-dimethyl-1-(3,3,3-trifluoropropyl)-",FALSE, ,0, 
+28191,nan,9-Tricosyne,FALSE, ,0, 
+28193,39515-47-4,"Benzeneacetonitrile, .alpha.-hydroxy-3-phenoxy-",FALSE, ,0, 
+28194,39515-51-0,"Benzaldehyde, 3-phenoxy-",TRUE, CAS,2, Scout
+28197,39527-44-1,"1,3-Propanediol, 2-ethyl-2-(hydroxymethyl)-, polymer with 1,3-bis(isocyanatomethyl)cyclohexane",FALSE, ,0, 
+28200,39542-83-1,"4-Thiazolidinone, 3-ethyl-5-[(phenylamino)methylene]-2-thioxo-",FALSE, ,0, 
+28201,39546-32-2,4-Piperidinecarboxamide,TRUE, CAS,1, Scout
+28204,39556-37-1,"Butanoic acid, 2-hydroxypropyl ester",FALSE, ,0, 
+28208,39587-22-9,"Poly(oxy-1,2-ethanediyl), .alpha.-nonyl-.omega.-hydroxy-",FALSE, ,0, 
+28213,39609-25-1,"Chromate(1-), bis[2-[2-[4,5-dihydro-3-methyl-5-(oxo-.kappa.O)-1-phenyl-1H-pyrazol-4-yl]diazenyl-.kappa.N1]benzoato(2-)-.kappa.O]-, hydrogen, compd. with 3-[(2-ethylhexyl)oxy]-1-propanamine (1:1:1)",FALSE, ,0, 
+28215,39612-00-5,"2,5-Furandione, polymer with 2-methyl-1-propene, sodium salt",FALSE, ,0, 
+28219,39627-98-0,"2-Pyridinecarboxamide, N-(2,6-dimethylphenyl)-",FALSE, ,0, 
+28222,39638-32-9,"Propane, 2,2'-oxybis[2-chloro-",FALSE, ,0, 
+28231,39669-97-1,"Hexadecanamide, N-[3-(dimethylamino)propyl]-",FALSE, ,0, 
+28232,nan,"2-Propenoic acid, 2-methyl-, 2-[2-(2-ethoxyethoxy)ethoxy]ethyl ester",FALSE, ,0, 
+28233,39671-35-7,"Hexanedioic acid, polymer with 1,4-butanediol, 1,2-ethanediol, 1,1'-methylenebis[4-isocyanatobenzene] and 1,2-propanediol",FALSE, ,0, 
+28239,39702-40-4,"Copper, [N,N',N'',N'''-tetraoctadecyl-29H,31H-phthalocyanine-C,C,C,C-tetrasulfonamidato(2-)-.kappa.N29,.kappa.N30,.kappa.N31,.kappa.N32]-",FALSE, ,0, 
+28240,39707-47-6,"1,6-Octadiene-3-thiol, 3,7-dimethyl-",FALSE, ,0, 
+28241,39711-79-0,"Cyclohexanecarboxamide, N-ethyl-5-methyl-2-(1-methylethyl)-",TRUE, CAS,1, Scout
+28243,39736-25-9,"Benzeneacetic acid, heptyl ester",FALSE, ,0, 
+28244,39741-41-8,"Ethanone, 1-(1-ethyl-1H-pyrrol-2-yl)-",FALSE, ,0, 
+28246,39751-34-3,"Hexanedioic acid, polymer with 3-methyl-1,5-pentanediol",FALSE, ,0, 
+28248,nan,8-Nonenal,FALSE, ,0, 
+28249,nan,9-Decenal,FALSE, ,0, 
+28254,nan,"Oxirane, 2,2'-[methylenebis(phenyleneoxymethylene)]bis-",FALSE, ,0, 
+28260,39864-15-8,"Nonanediol, diacetate",FALSE, ,0, 
+28261,39865-35-5,"3-Oxetanemethanol, 3-ethyl-, 3,3',3''-phosphite",FALSE, ,0, 
+28262,39872-57-6,"2-Buten-1-one, 1-(2,4,4-trimethyl-2-cyclohexen-1-yl)-, (2E)-",TRUE, CAS,1, Scout
+28263,39874-62-9,"9-Octadecenoic acid (9Z)-, 1,1'-[2-(hydroxymethyl)-2-[[[(9Z)-1-oxo-9-octadecen-1-yl]oxy]methyl]-1,3-propanediyl] ester",FALSE, ,0, 
+28265,39881-32-8,"Magnesium, butyl(1-methylpropyl)-",FALSE, ,0, 
+28268,39900-38-4,"1H-3a,7-Methanoazulen-6-ol, octahydro-3,6,8,8-tetramethyl-, 6-formate, (3R,3aS,6R,7R,8aS)-",FALSE, ,0, 
+28272,nan,"2,5-Furandione, polymer with 4,4'-(1-methylethylidene)bis[phenol] and 2-methyloxirane",FALSE, ,0, 
+28273,39922-16-2,"Poly(oxy-1,2-ethanediyl), .alpha.-[[(1R,4aR,4bR,10aR)-1,2,3,4,4a,4b,5,6,10,10a-decahydro-1,4a-dimethyl-7-(1-methylethyl)-1-phenanthrenyl]carbonyl]-.omega.-hydroxy-",FALSE, ,0, 
+28276,39924-52-2,"Cyclopentaneacetic acid, 3-oxo-2-(2-penten-1-yl)-, methyl ester",TRUE, CAS,1, Scout
+28284,39948-98-6,"Hexanedioic acid, polymer with 1,4-butanediol, 1,2-ethanediol and 1,1'-methylenebis[4-isocyanatocyclohexane]",FALSE, ,0, 
+28288,39968-51-9,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.',.alpha.'',.alpha.'''-[1,6-hexanediylbis(nitrilodi-2,1-ethanediyl)]tetrakis[.omega.-hydroxy-",FALSE, ,0, 
+28290,39979-46-9,"1H-Pyrrole-2,5-dione, 1,1'-(2,2,4-trimethyl-1,6-hexanediyl)bis-",FALSE, ,0, 
+28292,39990-99-3,"1,2-Ethanediamine, compd. with lithium acetylide (Li(C2H)) (1:?)",FALSE, ,0, 
+28293,39992-90-0,"Urea, N'-[3-[[[(dimethylamino)carbonyl]amino]methyl]-3,5,5-trimethylcyclohexyl]-N,N-dimethyl-",FALSE, ,0, 
+28297,40008-96-6,"2-Propenoic acid, 2-methyl-, 2-[(1,1-dimethylethyl)amino]ethyl ester, polymer with 2-methylpropyl 2-methyl-2-propenoate",TRUE, CAS,1, Scout
+28298,40010-99-9,"2(3H)-Furanone, 3-acetyl-5-butyldihydro-",FALSE, ,0, 
+28300,40027-38-1,"9-Octadecenoic acid (9Z)-, compd. with N1-(9Z)-9-octadecen-1-yl-1,3-propanediamine (1:?)",TRUE, CAS,3, Scout
+28301,40027-50-7,"2-Oxiranemethanamine, N-(2-methylphenyl)-N-(2-oxiranylmethyl)-",FALSE, ,0, 
+28302,40038-00-4,"Naphthalenesulfonic acid, didodecyl-",FALSE, ,0, 
+28303,40039-93-8,"Phenol, 4,4'-(1-methylethylidene)bis[2,6-dibromo-, polymer with 2-(chloromethyl)oxirane",TRUE, CAS,2, Scout
+28304,40049-43-2,"Nonanedioic acid, polymer with 2-(chloromethyl)oxirane, 3-hydroxy-2-(hydroxymethyl)-2-methylpropanoic acid and 4,4'-(1-methylethylidene)bis[phenol]",FALSE, ,0, 
+28305,40058-87-5,"Propanoic acid, 2-chloro-, 1-methylethyl ester",FALSE, ,0, 
+28306,40074-34-8,"2-Propenoic acid, 1,1'-[phosphinicobis(oxy-2,1-ethanediyl)] ester",FALSE, ,0, 
+28309,40088-47-9,"Benzene, 1,1'-oxybis-, tetrabromo deriv.",FALSE, ,0, 
+28316,40105-52-0,"Methanaminium, N,N,N-trimethyl-, carbonate (2:1)",FALSE, ,0, 
+28317,40128-77-6,"Hexanedioic acid, polymer with 1,4-butanediol and 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane",FALSE, ,0, 
+28320,40139-72-8,"Benzenesulfonic acid, dodecyl-, compd. with N1-(2-aminoethyl)-1,2-ethanediamine (1:?)",FALSE, ,0, 
+28321,40139-96-6,"1,2-Benzenedicarboxylic acid, sulfo-, 1-[1-methyl-2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl] ester",FALSE, ,0, 
+28323,40150-98-9,"Benzaldehyde, 4-(2-methylpropyl)-",FALSE, ,0, 
+28324,40160-92-7,"Poly(oxy-1,2-ethanediyl), .alpha.-(3-pentadecylphenyl)-.omega.-hydroxy-",FALSE, ,0, 
+28325,40164-69-0,"Acetamide, 2-chloro-N-(chloromethyl)-N-(2,6-diethylphenyl)-",FALSE, ,0, 
+28326,40165-68-2,"9-Octadecen-1-amine, N-(9Z)-9-octadecen-1-yl-, (9Z)-",FALSE, ,0, 
+28328,40184-38-1,"Ethanol, 2-(4-aminophenoxy)-, 1-(hydrogen sulfate)",FALSE, ,0, 
+28329,40188-41-8,"Octanenitrile, 3,7-dimethyl-",FALSE, ,0, 
+28332,40200-18-8,"1-Hexanol, 6-chloro-, 1-acetate",FALSE, ,0, 
+28333,40203-73-4,"Acetic acid, 2-cyclopentylidene-, methyl ester",FALSE, ,0, 
+28335,nan,"Formaldehyde, polymer with 2-(chloromethyl)oxirane, 4,4'-(1-methylethylidene)bis[phenol] and phenol",FALSE, ,0, 
+28336,nan,"2-Propenoic acid, 1,1',1''-[(2,4,6-trioxo-1,3,5-triazine-1,3,5(2H,4H,6H)-triyl)tri-2,1-ethanediyl] ester",FALSE, ,0, 
+28341,40235-68-5,"2-Propanone, 1-(acetyloxy)-3-chloro-",TRUE, CAS,1, Scout
+28345,40267-72-9,"2,6-Octadiene, 1-ethoxy-3,7-dimethyl-",FALSE, ,0, 
+28346,40292-82-8,Neodecanoyl chloride,TRUE, CAS,1, Scout
+28350,40311-70-4,"2-Propenoic acid, polymer with chloroethene, ethenyl acetate and N-(hydroxymethyl)-2-propenamide",FALSE, ,0, 
+28354,40364-42-9,"Phenol, 4,4'-(1-methylethylidene)bis-, polymer with 2-(chloromethyl)oxirane and 4,4'-methylenebis[benzenamine]",FALSE, ,0, 
+28357,40372-66-5,"1,2,4-Butanetricarboxylic acid, 2-phosphono-, sodium salt (1:?)",TRUE, CAS,1, Scout
+28358,40372-72-3,"3,16-Dioxa-8,9,10,11-tetrathia-4,15-disilaoctadecane, 4,4,15,15-tetraethoxy-",TRUE, CAS,1, Scout
+28359,40374-66-1,"1,3-Benzenedicarboxylic acid, polymer with 1,6-hexanediol",FALSE, ,0, 
+28360,40379-24-6,"Acetic acid, isononyl ester",TRUE, CAS,1, Scout
+28364,40404-63-5,"Formaldehyde, polymer with 4-nonylphenol and phenol",FALSE, ,0, 
+28374,40470-68-6,"1,1'-Biphenyl, 4,4'-bis[2-(2-methoxyphenyl)ethenyl]-",FALSE, ,0, 
+28375,nan,"2-Propenoic acid, 2-methyl-, butyl ester, polymer with ethyl 2-propenoate and methyl 2-methyl-2-propenoate",FALSE, ,0, 
+28376,nan,"1,3-Benzenedicarboxylic acid, polymer with 1,4-benzenedicarboxylic acid, 2,2-dimethyl-1,3-propanediol, 1,2-ethanediol and hexanedioic acid",FALSE, ,0, 
+28380,40498-13-3,"9,10-Anthracenedione, 2,3-dihydro-1,4-dihydroxy-",FALSE, ,0, 
+28382,40526-34-9,"Hexanedioic acid, polymer with 1,2-ethanediol, 2-ethyl-2-(hydroxymethyl)-1,3-propanediol and 1,3-isobenzofurandione",FALSE, ,0, 
+28383,40527-42-2,"1,3-Benzodioxole, 5-(diethoxymethyl)-",FALSE, ,0, 
+28385,nan,"2-Propenoic acid, polymer with ethenylbenzene, 2-ethylhexyl 2-propenoate and 2-propenenitrile",FALSE, ,0, 
+28386,40530-60-7,"Carbonic acid, 2-[(1-amino-9,10-dihydro-4-hydroxy-9,10-dioxo-2-anthracenyl)oxy]ethyl ethyl ester",FALSE, ,0, 
+28391,40544-68-1,"2-Butenedioic acid (2Z)-, 1,4-dibutyl ester, polymer with 1-ethenyl-2-pyrrolidinone",FALSE, ,0, 
+28393,40550-16-1,"Octadecanoic acid, isooctyl ester",FALSE, ,0, 
+28396,40564-00-9,"2-Nonene, 1,1-diethoxy-",FALSE, ,0, 
+28397,40567-16-6,"Butanoyl chloride, 2-[2,4-bis(1,1-dimethylpropyl)phenoxy]-",FALSE, ,0, 
+28398,40567-18-8,"Benzamide, 3-amino-N-[4,5-dihydro-5-oxo-1-(2,4,6-trichlorophenyl)-1H-pyrazol-3-yl]-",FALSE, ,0, 
+28401,40588-62-3,"Phosphonic acid, P,P',P''-[nitrilotris(methylene)]tris-, potassium salt (1:6)",FALSE, ,0, 
+28403,40596-76-7,"7-Nonen-2-ol, 4,8-dimethyl-",FALSE, ,0, 
+28404,40601-76-1,"1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3,5-tris[[4-(1,1-dimethylethyl)-3-hydroxy-2,6-dimethylphenyl]methyl]-",TRUE, CAS,2, Scout
+28405,40615-39-2,"Thymidine, 5'-O-[bis(4-methoxyphenyl)phenylmethyl]-",TRUE, CAS,2, Scout
+28406,40618-18-6,"2,3-Oxiranedicarboxylic acid, sodium salt (1:2)",FALSE, ,0, 
+28407,40618-31-3,"2-Naphthalenecarboxamide, N,N'-(2,5-dichloro-1,4-phenylene)bis[4-[2-(2,5-dichlorophenyl)diazenyl]-3-hydroxy-",FALSE, ,0, 
+28409,40623-75-4,"2-Propenoic acid, polymer with 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-1-propanesulfonic acid",TRUE, CAS,1, Scout
+28415,40642-40-8,"8-Dodecen-1-ol, (8Z)-",TRUE, CAS,1, Scout
+28417,40654-82-8,"Benzenebutanal, .alpha.-methyl-",FALSE, ,0, 
+28419,40672-08-0,"Magnesocene, 1,1'-dimethyl-",TRUE, CAS,1, Scout
+28424,40690-89-9,"Propanenitrile, 3-[[2-(benzoyloxy)ethyl][4-[2-(4-nitrophenyl)diazenyl]phenyl]amino]-",FALSE, ,0, 
+28428,40910-49-4,"1,6-Octadiene, 3-(1-ethoxyethoxy)-3,7-dimethyl-",FALSE, ,0, 
+28430,40923-64-6,"2(3H)-Furanone, 3-heptyldihydro-5-methyl-",TRUE, CAS,2, Scout
+28434,40942-73-2,"Cyclopentanone, 3-(2-oxopropyl)-2-pentyl-",FALSE, ,0, 
+28435,40947-69-1,"Benzenesulfonic acid, 4-[2-(4-amino-5-methoxy-2-methylphenyl)diazenyl]-",FALSE, ,0, 
+28441,40949-94-8,"Silanamine, 1,1,1-trimethyl-N-(trimethylsilyl)-, potassium salt (1:1)",TRUE, CAS,1, Scout
+28443,40959-29-3,"Hexanedioic acid, polymer with 12-aminododecanoic acid, hexahydro-2H-azepin-2-one and 1,6-hexanediamine",TRUE, CAS,1, Scout
+28445,40989-36-4,"Hexanedioic acid, polymer with 2,2'-iminobis[ethanol]",FALSE, ,0, 
+28450,41025-67-6,"3H-Indolium, 3-[2-(2,4-dihydro-2,4-dimethyl-3H-1,2,4-triazol-3-ylidene)hydrazinylidene]-1-methyl-2-phenyl-, chloride (1:1)",FALSE, ,0, 
+28451,41029-46-3,"Methanesulfonic acid, 1,1,1-trifluoro-, 2-propyn-1-yl ester",FALSE, ,0, 
+28452,nan,"2H-1-Benzopyran-2-one, 7-(diethylamino)-3-(1-methyl-1H-benzimidazol-2-yl)-",FALSE, ,0, 
+28455,41051-80-3,"1-Propanamine, N,N-diethyl-3-(trimethoxysilyl)-",FALSE, ,0, 
+28457,41062-73-1,"3H-Indolium, 2-[2-[(4-methoxyphenyl)amino]ethenyl]-1,3,3-trimethyl-, sulfate (2:1)",FALSE, ,0, 
+28463,41098-56-0,"1,4-Benzenedisulfonic acid, 2,2'-[1,2-ethenediylbis[(3-sulfo-4,1-phenylene)imino[6-(diethylamino)-1,3,5-triazine-4,2-diyl]imino]]bis-, sodium salt (1:6)",TRUE, CAS,1, Scout
+28464,41105-35-5,"Anthracene, 1-chloro-9,10-bis(2-phenylethynyl)-",FALSE, ,0, 
+28466,41122-70-7,"[1,1'-Biphenyl]-4-carbonitrile, 4'-hexyl-",TRUE, CAS,1, Scout
+28467,41122-71-8,"[1,1'-Biphenyl]-4-carbonitrile, 4'-heptyl-",TRUE, CAS,1, Scout
+28468,41123-59-5,"Ethane, 1,1'-[methylenebis(sulfonyl)]bis[2-chloro-",FALSE, ,0, 
+28469,41123-69-7,"Ethanol, 2,2'-[methylenebis(sulfonyl)]bis-",FALSE, ,0, 
+28470,41130-29-4,"9-Octadecen-1-amine, hydrochloride (1:1), (9Z)-",FALSE, ,0, 
+28471,41137-60-4,"11,14-Dioxa-2,9-diazaheptadec-16-enoic acid, 4,4,6,16-tetramethyl-10,15-dioxo-, 2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl ester",TRUE, CAS,3, Scout
+28476,41171-14-6,"2-Propenoic acid, ethyl ester, polymer with ethene and 2,5-furandione",FALSE, ,0, 
+28478,41175-50-2,"1H,5H-Benzo[ij]quinolizin-8-ol, 2,3,6,7-tetrahydro-",FALSE, ,0, 
+28479,41199-19-3,"2-Naphthalenol, 1,2,3,4,4a,5,6,7-octahydro-2,5,5-trimethyl-",TRUE, CAS,2, Scout
+28480,41203-81-0,"Phosphonic acid, P-methyl-, (5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphorinan-5-yl)methyl methyl ester",TRUE, CAS,3, Scout
+28484,41222-47-3,"2-Propenamide, N-[(dimethylamino)methyl]-, polymer with 2-propenamide",FALSE, ,0, 
+28487,41233-93-6,"2-Butanol, 2-methyl-, potassium salt (1:1)",FALSE, ,0, 
+28489,41239-48-9,"Furan, 2,5-diethyltetrahydro-",FALSE, ,0, 
+28493,41253-21-8,"1H-1,2,4-Triazole, sodium salt (1:1)",TRUE, CAS,2, Scout
+28494,41253-36-5,"1H-Benzotriazole, 6-methyl-, sodium salt (1:1)",FALSE, ,0, 
+28496,41258-95-1,"1,3,5-Trioxane, polymer with 2,2'-[1,4-butanediylbis(oxymethylene)]bis[oxirane] and 1,3-dioxolane",FALSE, ,0, 
+28497,41259-36-3,"1,3-Benzenedicarboxylic acid, polymer with 1,4-benzenedicarboxylic acid, 1,2-ethanediol and 2,2'-[(1-methylethylidene)bis(4,1-phenyleneoxy)]bis[ethanol]",FALSE, ,0, 
+28499,nan,"2H-Pyran-5-carboxylic acid, 4,6-dimethyl-2-oxo-, methyl ester",FALSE, ,0, 
+28501,41267-76-9,"1H,5H,11H-[1]Benzopyrano[6,7,8-ij]quinolizin-11-one, 2,3,6,7-tetrahydro-9-methyl-",TRUE, CAS,1, Scout
+28502,41270-80-8,"Benzoic acid, 2-(formylamino)-, methyl ester",FALSE, ,0, 
+28503,41272-40-6,"Methanaminium, N-[4-[[4-(dimethylamino)phenyl]phenylmethylene]-2,5-cyclohexadien-1-ylidene]-N-methyl-, acetate (1:1)",FALSE, ,0, 
+28504,41284-31-5,"1,4-Benzenedicarboxylic acid, 1-[2-[[4-(2,2-dicyanoethenyl)-3-methylphenyl]ethylamino]ethyl] 4-methyl ester",FALSE, ,0, 
+28505,41294-17-1,"Cyclobutane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-, (1R,2S)-rel-",FALSE, ,0, 
+28507,41302-05-0,"2H-Pyran, 2-(4-chlorobutoxy)tetrahydro-",TRUE, CAS,1, Scout
+28512,41317-15-1,"Benzenamine, 4-methoxy-2-methyl-N-phenyl-",TRUE, CAS,1, Scout
+28523,41366-45-4,"Hexanedioic acid, polymer with 1,4-butanediol, 1,1'-methylenebis[4-isocyanatobenzene] and 2-oxepanone",FALSE, ,0, 
+28524,41374-20-3,"Benzenamine, N-(2,4-dimethylphenyl)-4-methoxy-2-methyl-",FALSE, ,0, 
+28526,nan,"1,3-Isobenzofurandione, 3a,4,7,7a-tetrahydro-, polymer with 1,4-cyclohexanedimethanol, 2,2-dimethyl-1,3-propanediol and 2,5-furandione",FALSE, ,0, 
+28527,nan,"1,3-Isobenzofurandione, 3a,4,7,7a-tetrahydro-, polymer with 2,2-dimethyl-1,3-propanediol, 1,2-ethanediol and 2,5-furandione",FALSE, ,0, 
+28528,41378-27-2,"Acetamide, N-[3-(ethylamino)phenyl]-",FALSE, ,0, 
+28530,41382-35-8,"1H,3H-Naphtho[1,8-cd]pyran-1,3-dione, 6-[(2-aminophenyl)thio]-",FALSE, ,0, 
+28531,41382-37-0,"Spiro[isobenzofuran-1(3H),9'-[9H]xanthen]-3-one, 3',6'-bis(ethylamino)-2',7'-dimethyl-",FALSE, ,0, 
+28533,nan,"4,6(1H,5H)-Pyrimidinedione, 1,3-diethyldihydro-5-[(phenylamino)methylene]-2-thioxo-",FALSE, ,0, 
+28534,nan,"1,4-Benzenedicarboxylic acid, 1,4-dimethyl ester, polymer with 1,2-ethanediamine, 2-methyloxirane and oxirane",FALSE, ,0, 
+28535,41395-83-9,"Nonanoic acid, 1,1'-(1-methyl-1,2-ethanediyl) ester",TRUE, CAS,1, Scout
+28537,nan,"[1,1'-Biphenyl]-4-carbonitrile, 4'-(hexyloxy)-",FALSE, ,0, 
+28539,nan,"Naphtho[1,2-d]thiazolium, 1-ethyl-2-(ethylthio)-, ethyl sulfate (1:1)",FALSE, ,0, 
+28542,41432-19-3,"Benzenediazonium, 4-(phenylamino)-, sulfate (1:1), polymer with formaldehyde",TRUE, CAS,1, Scout
+28546,41448-29-7,"2,6-Nonadienal, 3,7-dimethyl-",FALSE, ,0, 
+28548,41450-78-6,"1H-Imidazo[4,5-b]quinoxalinium, 1,3-diethyl-2-methyl-, 4-methylbenzenesulfonate (1:1)",FALSE, ,0, 
+28549,41450-85-5,"1H-Pyrrolo[2,3-b]pyridine, 2,3-dihydro-1,3,3-trimethyl-2-methylene-",FALSE, ,0, 
+28551,41453-50-3,"Benzoic acid, 2,4-dihydroxy-, lead(2+) salt (2:1)",FALSE, ,0, 
+28552,41453-56-9,"2-Nonen-1-ol, (2Z)-",FALSE, ,0, 
+28553,41458-65-5,"Phenol, 2-amino-4,6-dimethyl-",FALSE, ,0, 
+28556,41476-39-5,"Benzoic acid, 4-hydroxy-, polymer with 2-(chloromethyl)oxirane",FALSE, ,0, 
+28557,41479-14-5,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-(1,4-phenylenedicarbonyl)bis[.omega.-hydroxy-",FALSE, ,0, 
+28558,41479-30-5,"Poly(oxy-1,2-ethanediyl), .alpha.-1-naphthalenyl-.omega.-hydroxy-",FALSE, ,0, 
+28560,41481-66-7,"Phenol, 4,4'-sulfonylbis[2-(2-propen-1-yl)-",FALSE, ,0, 
+28561,41484-35-9,"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, 1,1'-(thiodi-2,1-ethanediyl) ester",TRUE, CAS,2, Scout
+28562,41487-53-0,"2-Propenoic acid, 2-methyl-, polymer with ethyl 2-propenoate, sodium salt",FALSE, ,0, 
+28563,41488-59-9,"Nonanedioic acid, polymer with 2,2'-oxybis[ethanol] and 1,2,3-propanetriol",FALSE, ,0, 
+28564,41494-34-2,"Antimonate(1-), hexafluoro-, (OC-6-11)-, salt with N1,N1-bis[4-(diethylamino)phenyl]-N4,N4-diethyl-1,4-benzenediamine (1:1)",FALSE, ,0, 
+28565,41494-35-3,"Antimonate(1-), hexafluoro-, (OC-6-11)-, salt with N1,N1-dibutyl-N4,N4-bis[4-(dibutylamino)phenyl]-1,4-benzenediamine (1:1)",FALSE, ,0, 
+28567,41496-43-9,"Benzenepropanal, .alpha.,4-dimethyl-",TRUE, CAS,1, Scout
+28571,41504-19-2,"3-Thiazolidineacetic acid, 5-(3-methyl-2(3H)-benzothiazolylidene)-4-oxo-2-thioxo-",FALSE, ,0, 
+28574,nan,"Sulfonium, bis[(dimethylamino)thioxomethyl](3-sulfopropyl)-, inner salt",FALSE, ,0, 
+28575,41519-18-0,"2-Butenoic acid, 2-methyl-, 3-methylbutyl ester, (2E)-",FALSE, ,0, 
+28576,41519-23-7,"Propanoic acid, 2-methyl-, (3Z)-3-hexen-1-yl ester",FALSE, ,0, 
+28577,41525-41-1,"2-Propenoic acid, polymer with ethene and methyl 2-propenoate",FALSE, ,0, 
+28578,41529-32-2,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with ethenylbenzene and 2-hydroxyethyl 2-propenoate",FALSE, ,0, 
+28581,41532-84-7,"1H-Benz[e]indole, 1,1,2-trimethyl-",TRUE, CAS,3, Scout
+28583,41543-92-4,"2-Propenamide, 2-methyl-N-[4-(phenylamino)phenyl]-",FALSE, ,0, 
+28584,41547-22-2,"5-Octenal, (5Z)-",FALSE, ,0, 
+28586,41556-26-7,"Decanedioic acid, 1,10-bis(1,2,2,6,6-pentamethyl-4-piperidinyl) ester",TRUE, CAS,3, Scout
+28590,41575-87-5,"Platinum, diamminebis(nitrato-.kappa.O)-, (SP-4-2)-",FALSE, ,0, 
+28592,nan,"1,3,5-Triazine-2,4,6-triamine, phosphate (1:?)",FALSE, ,0, 
+28595,41591-87-1,"1-Tetradecanaminium, N,N-dimethyl-N-[3-(trimethoxysilyl)propyl]-, chloride (1:1)",FALSE, ,0, 
+28601,41611-76-1,"9,10-Anthracenedione, 1,4-bis[(2-ethyl-6-methylphenyl)amino]-",FALSE, ,0, 
+28604,41618-91-1,"2-Propenoic acid, 2-hydroxypropyl ester, polymer with chloroethene and ethenyl acetate",TRUE, CAS,1, Scout
+28605,nan,"2-Propenoic acid, 2-methyl-, polymer with ethenylbenzene, ethyl 2-propenoate, methyl 2-methyl-2-propenoate and 2-propenenitrile",FALSE, ,0, 
+28606,41620-33-1,"Phenol, 2-[[2-(acetyloxy)-3-(1,1-dimethylethyl)-5-methylphenyl]methyl]-6-(1,1-dimethylethyl)-4-methyl-",FALSE, ,0, 
+28607,nan,"Acetamide, N-[5-[bis(2-methoxyethyl)amino]-2-[2-(2-bromo-6-cyano-4-nitrophenyl)diazenyl]phenyl]-",FALSE, ,0, 
+28609,41630-20-0,"1,2-Ethanediol, polymer with 2-[(2-propen-1-yloxy)methyl]oxirane",FALSE, ,0, 
+28610,41637-38-1,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-[(1-methylethylidene)di-4,1-phenylene]bis[.omega.-[(2-methyl-1-oxo-2-propen-1-yl)oxy]-",TRUE, CAS,3, Scout
+28611,41638-13-5,"Oxirane, 2,2'-[oxybis[(methyl-2,1-ethanediyl)oxymethylene]]bis-",TRUE, CAS,2, Scout
+28613,41642-51-7,"Acetamide, N-[2-[2-(2,6-dicyano-4-nitrophenyl)diazenyl]-5-(diethylamino)phenyl]-",FALSE, ,0, 
+28614,41642-52-8,"Phenol, 4,4'-[(2,4,6-trimethyl-1,3-phenylene)bis(methylene)]bis[2,6-bis(1,1-dimethylethyl)-",FALSE, ,0, 
+28616,41654-15-3,"5-Octenoic acid, methyl ester, (5Z)-",FALSE, ,0, 
+28618,41663-84-7,"1H-Isoindole-1,3(2H)-dione, 2-methyl-5-nitro-",FALSE, ,0, 
+28619,41669-30-1,"Isooctadecanoic acid, isooctadecyl ester",TRUE, CAS,1, Scout
+28624,41678-36-8,"Octen-2-ol, 3,7-dimethyl-",FALSE, ,0, 
+28625,41680-75-5,"1,4-Benzenedicarboxylic acid, 2,5-bis[(4-methoxyphenyl)amino]-",FALSE, ,0, 
+28626,41680-76-6,"1,4-Benzenedicarboxylic acid, 2,5-bis[(4-chlorophenyl)amino]-",FALSE, ,0, 
+28629,41683-62-9,"Ethane, 1,2-dichloro-1-methoxy-",FALSE, ,0, 
+28631,41686-44-6,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-methyl-2-propenoate, ethenylbenzene, ethyl 2-propenoate and methyl 2-methyl-2-propenoate",FALSE, ,0, 
+28632,41687-30-3,"Ethanol, 2-[(3-nitrophenyl)sulfonyl]-",FALSE, ,0, 
+28638,41710-89-8,"Benzenamine, 2-(tetradecyloxy)-",FALSE, ,0, 
+28640,41723-98-2,"Spiro[1,4-methanonaphthalene-2(1H),2'-oxirane], 3,4,4a,5,8,8a-hexahydro-3',6-dimethyl-",FALSE, ,0, 
+28641,41724-19-0,"1,4-Methanonaphthalen-6(2H)-one, octahydro-7-methyl-",FALSE, ,0, 
+28644,41741-86-0,"Chromate(1-), bis[2-[2-[4,5-dihydro-3-methyl-5-(oxo-.kappa.O)-1-phenyl-1H-pyrazol-4-yl]diazenyl-.kappa.N1]benzoato(2-)-.kappa.O]-, sodium (1:1)",FALSE, ,0, 
+28646,41749-18-2,"Benzenediazonium, 2,5-diethoxy-4-[(4-methylphenyl)thio]-, tetrafluoroborate(1-) (1:1)",FALSE, ,0, 
+28650,nan,"Acetaldehyde, 2-[(3,7-dimethyloctyl)oxy]-",FALSE, ,0, 
+28655,41814-78-2,"1,2,4-Triazolo[3,4-b]benzothiazole, 5-methyl-",FALSE, ,0, 
+28656,nan,"Spiro[1,4-methanonaphthalene-2(1H),2'-oxirane], 3,4,4a,5,8,8a-hexahydro-3',7-dimethyl-",FALSE, ,0, 
+28658,41830-81-3,"Phenoxazin-5-ium, 3,7-bis(ethylamino)-2,8-dimethyl-, perchlorate (1:1)",TRUE, CAS,2, Scout
+28659,41847-86-3,"2-Octene, 8-(2,2-dimethoxyethoxy)-2,6-dimethyl-",FALSE, ,0, 
+28660,41847-88-5,"Acetaldehyde, 2-(2-phenylethoxy)-",FALSE, ,0, 
+28662,41862-94-6,7-Dodecyn-1-ol,FALSE, ,0, 
+28665,41890-92-0,"2-Octanol, 7-methoxy-3,7-dimethyl-",TRUE, CAS,1, Scout
+28666,nan,"1-Dodecanaminium, N-(3-chloro-2-hydroxypropyl)-N,N-dimethyl-, chloride (1:1)",FALSE, ,0, 
+28671,41927-69-9,"Decanoic acid, tetradecyl ester",FALSE, ,0, 
+28672,41927-71-3,"Tetradecanoic acid, decyl ester",FALSE, ,0, 
+28673,41928-09-0,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-[methylenebis[4-(1,1,3,3-tetramethylbutyl)-2,1-phenylene]]bis[.omega.-hydroxy-",FALSE, ,0, 
+28674,41934-47-8,"2H-1-Benzopyran-2-one, 7-(diethylamino)-4-(trifluoromethyl)-",TRUE, CAS,1, Scout
+28676,41941-17-7,"1,3-Benzenedicarboxylic acid, polymer with 2,2-dimethyl-1,3-propanediol and 2-ethyl-2-(hydroxymethyl)-1,3-propanediol",FALSE, ,0, 
+28677,41941-50-8,"1,3-Propanediamine, N1-(3-aminopropyl)-N1-methyl-, polymer with 2-(chloromethyl)oxirane",FALSE, ,0, 
+28678,41961-81-3,"1-Tetradecanamine, N-methyl-N-tetradecyl-",FALSE, ,0, 
+28683,41999-41-1,"1-Decene-1-sulfonic acid, sodium salt (1:1)",FALSE, ,0, 
+28685,41999-70-6,"Ethanol, 2-[(3-aminopropyl)methylamino]-",FALSE, ,0, 
+28686,42003-39-4,"2,8,9-Trioxa-5-aza-1-silabicyclo[3.3.3]undecane, 1-(chloromethyl)-",FALSE, ,0, 
+28692,nan,"Phosphorochloridodithioic acid, O-ethyl S-propyl ester",FALSE, ,0, 
+28694,42078-65-9,"2-Butenoic acid, 3-methyl-, 2-phenylethyl ester",TRUE, CAS,2, Scout
+28696,42125-10-0,"2-Penten-1-ol, 1-acetate, (2Z)-",FALSE, ,0, 
+28697,42125-46-2,"Carbonochloridic acid, 4-(1,1-dimethylethyl)cyclohexyl ester",TRUE, CAS,1, Scout
+28698,42131-42-0,"Poly(oxy-1,2-ethanediyl), .alpha.-(1-oxooctyl)-.omega.-hydroxy-",FALSE, ,0, 
+28704,42170-25-2,"Cyclohexane, bis(isocyanatomethyl)-",FALSE, ,0, 
+28707,42208-55-9,"2-Propenoic acid, 2-methyl-, polymer with ethyl 2-propenoate, N-(hydroxymethyl)-2-propenamide and 2-propenenitrile",FALSE, ,0, 
+28708,42220-47-3,"Phosphonic acid, P,P'-(1-hydroxyethylidene)bis-, compd. with 2-aminoethanol (1:?)",TRUE, CAS,1, Scout
+28710,42222-50-4,"9-Octadecenoic acid (9Z)-, 1,1'-(2,2-dimethyl-1,3-propanediyl) ester",TRUE, CAS,3, Scout
+28712,42228-32-0,"Spiro[isobenzofuran-1(3H),9'-[9H]xanthen]-3-one, 6'-[ethyl(4-methylphenyl)amino]-2'-methyl-",FALSE, ,0, 
+28714,42231-50-5,"Decanoic acid, dodecyl ester",FALSE, ,0, 
+28717,42232-27-9,"Hexadecanoic acid, decyl ester",FALSE, ,0, 
+28718,42232-29-1,"Hexadecanoic acid, dodecyl ester",FALSE, ,0, 
+28719,nan,"Docosanoic acid, hexadecyl ester",FALSE, ,0, 
+28723,42262-65-7,"2-Propenoic acid, polymer with methyl 2-propenoate, ammonium salt",FALSE, ,0, 
+28725,42272-70-8,"2-Oxetanone, 4-pentadecylidene-3-tetradecyl-",FALSE, ,0, 
+28726,42278-27-3,"1-Propene, 2-methyl-, pentamer",FALSE, ,0, 
+28727,42288-75-5,"Benzeneacetic acid, cyclohexyl ester",FALSE, ,0, 
+28732,42348-86-7,"1H-Inden-1-one, 5-chloro-2,3-dihydro-",TRUE, CAS,1, Scout
+28733,42357-98-2,"1H-Benz[de]isoquinoline-1,3(2H)-dione, 6-hydroxy-5-[2-(2-methoxy-4-nitrophenyl)diazenyl]-2-methyl-",FALSE, ,0, 
+28734,42358-36-1,"1H-Benz[de]isoquinoline-1,3(2H)-dione, 2-ethyl-6-hydroxy-5-[2-(2-methoxy-4-nitrophenyl)diazenyl]-",FALSE, ,0, 
+28740,42370-07-0,"Ethanone, 1-(3,3-dimethylbicyclo[2.2.1]hept-2-yl)-",FALSE, ,0, 
+28744,nan,"Thiazolium, 3-methyl-2-[2-(1-methyl-2-phenyl-1H-indol-3-yl)diazenyl]-, chloride (1:1)",FALSE, ,0, 
+28749,42389-30-0,"1,2-Benzenediamine, 5-chloro-3-nitro-",FALSE, ,0, 
+28751,42398-14-1,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with butyl 2-propenoate, 2-ethylhexyl 2-propenoate and 2-propenoic acid",FALSE, ,0, 
+28752,42402-37-9,"1,2,3-Propanetriol, polymer with 1,1'-methylenebis[4-isocyanatobenzene], 2-methyloxirane and oxirane",FALSE, ,0, 
+28753,42404-50-2,"2-Propenoic acid, 2-[[[[[1,3,3-trimethyl-5-[[[2-[(1-oxo-2-propen-1-yl)oxy]ethoxy]carbonyl]amino]cyclohexyl]methyl]amino]carbonyl]oxy]ethyl ester",FALSE, ,0, 
+28754,42405-40-3,"Zinc, bis[3,5-bis(1,1-dimethylethyl)-2-(hydroxy-.kappa.O)benzoato-.kappa.O]-, (T-4)-",TRUE, CAS,3, Scout
+28758,42423-89-2,"Benzoselenazolium, 3-ethyl-2-methyl-, 4-methylbenzenesulfonate (1:1)",FALSE, ,0, 
+28761,nan,"Benzeneacetic acid, (3Z)-3-hexen-1-yl ester",FALSE, ,0, 
+28764,42479-88-9,"[1,1'-Biphenyl]-4-ol, 3,4'-bis(1,1-dimethylethyl)-",FALSE, ,0, 
+28768,nan,"2,5-Furandione, dihydro-3-(2-octen-1-yl)-",FALSE, ,0, 
+28769,nan,"2,5-Furandione, 3-(2-hexadecen-1-yl)dihydro-",FALSE, ,0, 
+28772,nan,"Butanamide, N,N'-(2,5-dichloro-1,4-phenylene)bis[3-oxo-",FALSE, ,0, 
+28774,42504-46-1,"Benzenesulfonic acid, dodecyl-, compd. with 1-amino-2-propanol (1:1)",TRUE, CAS,1, Scout
+28783,42521-44-8,"12-Tetradecen-9-yn-1-ol, (12E)-",FALSE, ,0, 
+28784,42530-35-8,"Spiro[isobenzofuran-1(3H),9'-[9H]xanthen]-3-one, 6'-[ethyl(4-methylphenyl)amino]-2'-(methylphenylamino)-",FALSE, ,0, 
+28785,42530-36-9,"Benzoic acid, 2-[4-[ethyl(4-methylphenyl)amino]-2-hydroxybenzoyl]-",FALSE, ,0, 
+28787,42532-60-5,"Propanenitrile, 2,3,3,3-tetrafluoro-2-(trifluoromethyl)-",TRUE, CAS,2, Scout
+28791,42558-01-0,"Cyclopentanone, 2-(1-hydroxypentyl)-",FALSE, ,0, 
+28793,42573-57-9,"1,3,5-Triazine, 2-[2-(4-methoxyphenyl)ethenyl]-4,6-bis(trichloromethyl)-",TRUE, CAS,1, Scout
+28795,42594-17-2,"2-Propenoic acid, 1,1'-[(octahydro-4,7-methano-1H-indene-5,?-diyl)bis(methylene)] ester",TRUE, CAS,3, Scout
+28796,42595-45-9,"Phosphonic acid, P-methyl-, bis[(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphorinan-5-yl)methyl] ester",TRUE, CAS,3, Scout
+28800,42612-52-2,"Poly(oxy-1,2-ethanediyl), .alpha.-dodecyl-.omega.-hydroxy-, phosphate, sodium salt",FALSE, ,0, 
+28801,42617-82-3,"Phenol, 4,4'-(1-methylethylidene)bis-, polymer with 2-(chloromethyl)oxirane and .alpha.-hydro-.omega.-hydroxypoly(oxy-1,2-ethanediyl)",TRUE, CAS,1, Scout
+28803,42714-96-5,"1-Eicosanol, 1-(dihydrogen phosphate)",FALSE, ,0, 
+28804,42714-98-7,"1-Eicosanol, 1,1'-(hydrogen phosphate)",FALSE, ,0, 
+28807,42728-79-0,"D-Gluconic acid, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)",TRUE, CAS,1, Scout
+28808,42739-38-8,"Pentanoic acid, ammonium salt (1:1)",FALSE, ,0, 
+28809,42739-64-0,"Copper, [2-[(29H,31H-phthalocyanin-C-yl-.kappa.N29,.kappa.N30,.kappa.N31,.kappa.N32)methyl]-1H-isoindole-1,3(2H)-dionato(2-)]-",FALSE, ,0, 
+28810,42751-79-1,"1,2-Ethanediamine, polymer with 2-(chloromethyl)oxirane and N-methylmethanamine",TRUE, CAS,2, Scout
+28811,42751-81-5,"1,6-Hexanediamine, polymer with 2-(chloromethyl)oxirane and N-methylmethanamine",FALSE, ,0, 
+28813,42757-55-1,"Benzene, 1,1'-sulfonylbis[3,5-dibromo-4-(2,3-dibromopropoxy)-",TRUE, CAS,3, Scout
+28814,42757-85-7,"1H-Benz[f]indene-1,3(2H)-dione, 2-(3-hydroxy-2-quinolinyl)-",FALSE, ,0, 
+28816,42767-92-0,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with butyl 2-propenoate, ethenylbenzene and 2-hydroxyethyl 2-propenoate",FALSE, ,0, 
+28817,42768-15-0,"1,4-Benzenedicarboxylic acid, polymer with 2,2-dimethyl-1,3-propanediol, 1,2-ethanediol and 1,2,3-propanetriol",FALSE, ,0, 
+28819,42774-15-2,"1,3-Benzenedicarboxamide, N1,N3-bis(2,2,6,6-tetramethyl-4-piperidinyl)-",FALSE, ,0, 
+28820,nan,"Ethanol, 2,2'-[[4-[2-(3,5-dinitro-2-thienyl)diazenyl]phenyl]imino]bis-, 1,1'-diacetate",FALSE, ,0, 
+28821,42797-18-2,"Benzoic acid, 2-([1,1'-biphenyl]-4-ylcarbonyl)-",FALSE, ,0, 
+28823,42808-36-6,"Octadecanoic acid, 9(or 10)-(sulfooxy)-, 1-butyl ester, sodium salt (1:1)",FALSE, ,0, 
+28830,42844-93-9,"Nickel, [1,3-dihydro-5,6-bis[[[2-(hydroxy-.kappa.O)-1-naphthalenyl]methylene]amino-.kappa.N]-2H-benzimidazol-2-onato(2-)]-, (SP-4-2)-",FALSE, ,0, 
+28838,42866-91-1,"Benzene, 1-(2,2-dimethoxyethyl)-4-methyl-",FALSE, ,0, 
+28840,42874-63-5,"Phenol, 5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitro-",FALSE, ,0, 
+28842,42882-31-5,"1-Naphthalenemethanamine, .alpha.-methyl-",TRUE, CAS,1, Scout
+28843,42884-75-3,"5-Isobenzofurancarboxylic acid, 1,3-dihydro-1,3-dioxo-, polymer with 1,4-dimethyl 1,4-benzenedicarboxylate, 1,2-ethanediol and 4,4'-methylenebis[benzenamine]",FALSE, ,0, 
+28844,42884-82-2,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate and methyl 2-methyl-2-propenoate, ammonium salt",FALSE, ,0, 
+28848,42900-95-8,"Phenol, 4-[(dimethylamino)methyl]-2,6-dimethyl-",FALSE, ,0, 
+28849,42903-59-3,"Carbamic acid, N,N'-(4-methyl-1,3-phenylene)bis-, C,C'-bis[2,2-bis[(2-propen-1-yloxy)methyl]butyl] ester",FALSE, ,0, 
+28861,42951-39-3,"1H-Indole, 2-methyl-1-octyl-",FALSE, ,0, 
+28862,42952-29-4,"Naphtho[1,2-d]thiazolium, 1-ethyl-2-methyl-, 4-methylbenzenesulfonate (1:1)",FALSE, ,0, 
+28863,42961-27-3,"2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with 2-hydroxyethyl 2-propenoate",FALSE, ,0, 
+28865,42965-91-3,"1,2-Ethanediamine, N1-(phenylmethyl)-N2-[3-(trimethoxysilyl)propyl]-, hydrochloride (1:1)",FALSE, ,0, 
+28869,42978-66-5,"2-Propenoic acid, 1,1'-[(1-methyl-1,2-ethanediyl)bis[oxy(methyl-2,1-ethanediyl)]] ester",TRUE, CAS,1, Scout
+28872,42986-22-1,"Benzenesulfonic acid, 2-amino-5-[[2-(sulfooxy)ethyl]sulfonyl]-",FALSE, ,0, 
+28877,43011-20-7,"5-Isobenzofurancarboxylic acid, 1,3-dihydro-1,3-dioxo-, polymer with 1,2-ethanediol",FALSE, ,0, 
+28878,43035-18-3,"Benzenesulfonic acid, 4-[[3-[2-[2-hydroxy-3-[[(4-methoxyphenyl)amino]carbonyl]-1-naphthalenyl]diazenyl]-4-methylbenzoyl]amino]-, calcium salt (2:1)",FALSE, ,0, 
+28886,43044-68-4,"4-Tridecenoic acid, ethyl ester, (4E)-",FALSE, ,0, 
+28888,nan,"2-Propenoic acid, 2-methyl-, 1,1'-[(octahydro-4,7-methano-1H-indene-5,?-diyl)bis(methylene)] ester",FALSE, ,0, 
+28889,43051-43-0,"Benzamide, N-[3-[bis[2-(acetyloxy)ethyl]amino]phenyl]-",FALSE, ,0, 
+28890,43051-46-3,"Benzamide, N-[3-[bis(2-hydroxyethyl)amino]phenyl]-",FALSE, ,0, 
+28892,43057-68-7,"1H-Perimidine, 2-ethyl-2,3-dihydro-2-methyl-",FALSE, ,0, 
+28894,nan,"2-Propenamide, 2-methyl-N-[4-(phenylamino)phenyl]-, polymer with 1,3-butadiene and 2-propenenitrile",FALSE, ,0, 
+28898,43099-94-1,"1H-Indene-5-carboxamide, 2,3-dihydro-2-(3-hydroxy-2(1H)-quinolinylidene)-N,N-dimethyl-1,3-dioxo-",FALSE, ,0, 
+28899,43100-38-5,"Benzoic acid, 4-(1,1-dimethylethyl)-, hydrazide",FALSE, ,0, 
+28903,43125-21-9,"Magnesium, bromo-(3Z)-3-hexen-1-yl-",FALSE, ,0, 
+28906,43126-83-6,"tert-Dodecanethiol, silver(1+) salt (1:1)",FALSE, ,0, 
+28907,43127-23-7,"2-Propenoic acid, 2-methyl-, 2-(dimethylamino)ethyl ester, homopolymer, acetate",FALSE, ,0, 
+28909,43127-35-1,"2-Propenoic acid, 2-chloro-, methyl ester, polymer with (1-methylethenyl)benzene",FALSE, ,0, 
+28912,43136-18-1,"9-Octadecenoic acid (9Z)-, 1,1'-(1,1,3,3-tetramethyl-1,3-distannoxanediyl) ester",TRUE, CAS,1, Scout
+28913,43141-69-1,"Phenol, 3-(dibutylamino)-",FALSE, ,0, 
+28915,43151-71-9,"2,7-Naphthalenedisulfonic acid, 4-amino-3-[2-[4-[[[4-[2-(2-amino-4-hydroxyphenyl)diazenyl]phenyl]amino]carbonyl]phenyl]diazenyl]-5-hydroxy-6-(2-phenyldiazenyl)-, sodium salt (1:2)",FALSE, ,0, 
+28916,43154-85-4,"Butanedioic acid, 2-sulfo-, 1-[1-methyl-2-[(1-oxo-9-octadecen-1-yl)amino]ethyl] ester, sodium salt (1:2)",FALSE, ,0, 
+28920,43201-63-4,"2-Propenoic acid, homopolymer, compd. with 1,1'-iminobis[2-propanol]",FALSE, ,0, 
+28923,43224-75-5,"Piperidine, 2,2,6,6-tetramethyl-4-(2-propen-1-yloxy)-",FALSE, ,0, 
+28927,44860-68-6,"Ethanol, 2,2'-[methylenebis(thio)]bis-",FALSE, ,0, 
+28928,nan,"2-Propenoic acid, 2-methylbutyl ester",FALSE, ,0, 
+28930,44992-01-0,"Ethanaminium, N,N,N-trimethyl-2-[(1-oxo-2-propen-1-yl)oxy]-, chloride (1:1)",TRUE, CAS,1, Scout
+28932,45019-28-1,"Nonanoic acid, 4-methyl-",TRUE, CAS,2, Scout
+28933,45021-77-0,"1-Propanaminium, N,N,N-trimethyl-3-[(1-oxo-2-propen-1-yl)amino]-, chloride (1:1)",TRUE, CAS,1, Scout
+28935,45103-58-0,"2-Propenoic acid, 2-methyl-, 2-(2-methoxyethoxy)ethyl ester",FALSE, ,0, 
+28937,45117-69-9,"2,5,7,10-Tetraoxa-6-silaundecane, 6-ethenyl-6-methyl-",FALSE, ,0, 
+28941,45235-48-1,"1-Decanol, 2-octyl-",TRUE, CAS,1, Scout
+28943,45267-19-4,"Tetradecanamide, N-[3-(dimethylamino)propyl]-",TRUE, CAS,1, Scout
+28948,45294-18-6,"2-Propenoic acid, 2-methyl-, eicosyl ester",FALSE, ,0, 
+28950,45298-00-8,"9,12-Octadecadienoic acid (9Z,12Z)-, 2-ethylhexyl ester",FALSE, ,0, 
+28954,nan,"1H-1,2,4-Triazol-3-amine, 5-(methylthio)-",FALSE, ,0, 
+28956,46170-85-8,"Phenol, 6-(1,1-dimethylethyl)-2,3-dimethyl-",FALSE, ,0, 
+28958,46235-93-2,"2-Propenoic acid, 2-methyl-, 2-(3-oxazolidinyl)ethyl ester",FALSE, ,0, 
+28964,46728-75-0,"1,3-Benzenedicarboxylic acid, 5-sulfo-, lithium salt (1:1)",FALSE, ,0, 
+28965,nan,"2-Propenoic acid, 2-methyl-, 4-(1,1-dimethylethyl)cyclohexyl ester",FALSE, ,0, 
+28969,46830-22-2,"Benzenemethanaminium, N,N-dimethyl-N-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl]-, chloride (1:1)",FALSE, ,0, 
+28972,nan,"Benzenemethanaminium, N,N-dimethyl-N-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]-, chloride (1:1)",FALSE, ,0, 
+28973,46948-72-5,"Hexanoic acid, 6-[methyl(phenylsulfonyl)amino]-",FALSE, ,0, 
+28974,47073-92-7,"Cyanic acid, C,C'-(ethylidenedi-4,1-phenylene) ester",TRUE, CAS,2, Scout
+28975,47107-74-4,"Copper, iodo(triphenylphosphine)-",FALSE, ,0, 
+28981,47465-97-4,"2H-Indol-2-one, 1,3-dihydro-3,3-bis(4-hydroxy-3-methylphenyl)-",FALSE, ,0, 
+28984,47743-70-4,"1,4-Benzenediamine, N1,N1-bis[4-(diethylamino)phenyl]-N4,N4-diethyl-",FALSE, ,0, 
+28985,47758-37-2,"Oxirane, 2,2'-[9H-fluoren-9-ylidenebis(4,1-phenyleneoxymethylene)]bis-",FALSE, ,0, 
+28988,47862-55-5,"1,4-Benzenediamine, N1,N1-dibutyl-N4,N4-bis[4-(dibutylamino)phenyl]-",FALSE, ,0, 
+28990,48076-38-6,"2-Propenoic acid, eicosyl ester",FALSE, ,0, 
+28992,nan,"2-Propenoic acid, 2-phenoxyethyl ester",FALSE, ,0, 
+28993,49539-88-0,"Benzene, [2-(trimethoxysilyl)ethyl]-",TRUE, CAS,1, Scout
+28995,49556-16-3,"Neodecanoic acid, tin(2+) salt (2:1)",TRUE, CAS,1, Scout
+28996,49562-27-8,Docosanenitrile,FALSE, ,0, 
+29002,49603-39-6,"4,7-Methano-1H-indene, 3a,4,7,7a-tetrahydro-, polymer with 1,3-butadiene",FALSE, ,0, 
+29003,49603-78-3,"Acetic acid ethenyl ester, polymer with ethene, N-(hydroxymethyl)-2-propenamide and 2-propenamide",FALSE, ,0, 
+29005,49624-93-3,"1,3-Benzenedicarboxylic acid, polymer with 2,2-dimethyl-1,3-propanediol, 2,5-furandione, 2,2'-oxybis[ethanol] and 1,2-propanediol",FALSE, ,0, 
+29006,49625-74-3,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with N-(hydroxymethyl)-2-propenamide and 2-propenoic acid",FALSE, ,0, 
+29007,49625-94-7,"1-Propanesulfonic acid, 3-(2-benzothiazolylthio)-, sodium salt (1:1)",FALSE, ,0, 
+29008,nan,"Benzenamine, 4,4'-[[(4-methylphenyl)sulfonyl]methylene]bis[N,N-dimethyl-",FALSE, ,0, 
+29016,49686-00-2,"2-Imidazolidinone, 4,5-dihydroxy-1-(hydroxymethyl)-3-octadecyl-",FALSE, ,0, 
+29017,49690-94-0,"Benzene, 1,1'-oxybis-, tribromo deriv.",FALSE, ,0, 
+29019,nan,"1,2-Benzenedicarboxylic acid, 3,4,5,6-tetrabromo-, 1,2-di-2-propen-1-yl ester",FALSE, ,0, 
+29022,49719-60-0,"Hexadecanoic acid, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)",FALSE, ,0, 
+29028,49736-62-1,"2-Propenoic acid, 2-methyl-, dodecyl ester, polymer with ethenylbenzene and 2-propenoic acid",FALSE, ,0, 
+29030,49742-56-5,"[1,1'-Biphenyl]-4-carboxylic acid, 4'-methyl-, methyl ester",FALSE, ,0, 
+29031,49744-25-4,"3-Pyridinecarbonitrile, 1-ethyl-1,2-dihydro-6-hydroxy-4-methyl-5-[2-(2-nitrophenyl)diazenyl]-2-oxo-",FALSE, ,0, 
+29032,49744-26-5,"Benzoic acid, 4-[2-(5-cyano-1-ethyl-1,6-dihydro-2-hydroxy-4-methyl-6-oxo-3-pyridinyl)diazenyl]-, 2-(2-methoxyethoxy)ethyl ester",FALSE, ,0, 
+29033,49744-28-7,"2-Naphthalenol, 1-[2-(4-methoxy-2-nitrophenyl)diazenyl]-",FALSE, ,0, 
+29035,49744-35-6,"Ethanol, 2-(2-methoxyethoxy)-, 1-(4-aminobenzoate)",FALSE, ,0, 
+29036,49744-39-0,"[1,1'-Biphenyl]-4,4'-bis(diazonium), 3,3'-dichloro-, chloride (1:2)",FALSE, ,0, 
+29037,49744-42-5,"3-Pyridinecarbonitrile, 1-ethyl-1,2-dihydro-6-hydroxy-5-[2-(4-methoxy-2-nitrophenyl)diazenyl]-4-methyl-2-oxo-",FALSE, ,0, 
+29041,49763-64-6,"Benzoic acid, 4-pentyl-, 4-cyanophenyl ester",FALSE, ,0, 
+29049,49862-22-8,"Poly(oxy-1,2-ethanediyl), .alpha.-phosphono-.omega.-phenoxy-",FALSE, ,0, 
+29050,50258-68-9,"1,3-Benzenedicarboxylic acid, polymer with 1,6-hexanediol and 1,2-propanediol",FALSE, ,0, 
+29066,50292-91-6,"1(3H)-Isobenzofuranone, 3,3-bis(1-butyl-2-methyl-1H-indol-3-yl)-",TRUE, CAS,1, Scout
+29067,50292-95-0,"1(3H)-Isobenzofuranone, 3,3-bis(2-methyl-1-octyl-1H-indol-3-yl)-",TRUE, CAS,2, Scout
+29070,50293-39-5,"Iron, [8,20-dihydro-8,20-diphenyl-5,24:12,17-diimino-7,10:22,19-dinitrilodibenz[f,p][1,2,4,9,11,12,14,19]octaazacycloeicosinato(2-)-.kappa.N25,.kappa.N26,.kappa.N27,.kappa.N28]-, (SP-4-1)-",FALSE, ,0, 
+29072,50315-14-5,"Neodecanoic acid, copper salt (1:?)",FALSE, ,0, 
+29074,50326-33-5,"Benzenesulfonic acid, 4-chloro-2-[2-[2-hydroxy-3-[[(2-methoxyphenyl)amino]carbonyl]-1-naphthalenyl]diazenyl]-5-methyl-, barium salt (2:1)",FALSE, ,0, 
+29075,50327-77-0,"Hexanedioic acid, polymer with 1,4-butanediamine",FALSE, ,0, 
+29076,50327-95-2,"Dodecanedioic acid, polymer with 2,2-dimethyl-1,3-propanediol",FALSE, ,0, 
+29077,50327-99-6,"Decanedioic acid, polymer with 2,2-dimethyl-1,3-propanediol and 1,3,5-tris(2-oxiranylmethyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione",FALSE, ,0, 
+29078,nan,"1,3-Benzenedicarboxylic acid, polymer with 2,5-furandione, 1,3-isobenzofurandione and 1,2-propanediol",FALSE, ,0, 
+29080,50329-18-5,"1,2,3,4,5,6-Cyclohexanehexacarboxylic acid, sodium salt (1:5)",FALSE, ,0, 
+29082,50373-36-9,"Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, (1R,2S,5R)-rel-",FALSE, ,0, 
+29088,50390-51-7,"1-Propanone, 2-methyl-1-(4-methylphenyl)-",FALSE, ,0, 
+29091,50402-70-5,"Acetic acid, 2-methoxy-, sodium salt (1:1)",FALSE, ,0, 
+29093,50412-00-5,"1-Naphthalenediazonium, 2-hydroxy-6-nitro-4-sulfo-",TRUE, CAS,1, Scout
+29095,50448-95-8,"Propanoic acid, 3-mercapto-, 2-ethylhexyl ester",FALSE, ,0, 
+29096,50467-34-0,"1,2-Cyclohexanedicarboxylic acid, 1,1'-(1,2-ethanediyl) ester",FALSE, ,0, 
+29099,50497-83-1,"Chromate(1-), bis[1-[2-[2-(hydroxy-.kappa.O)-5-nitrophenyl]diazenyl-.kappa.N1]-2-naphthalenolato(2-)-.kappa.O]-, hydrogen (1:1)",FALSE, ,0, 
+29104,50525-57-0,"Cobaltate(1-), bis[4-(hydroxy-.kappa.O)-3-[2-[2-(hydroxy-.kappa.O)-1-naphthalenyl]diazenyl-.kappa.N1]benzenesulfonamidato(2-)]-, hydrogen (1:1)",FALSE, ,0, 
+29107,50530-45-5,"1,3,4-Thiadiazolidine-2,5-dithione, sodium salt (1:1)",TRUE, CAS,1, Scout
+29108,50539-65-6,"5-Quinolinesulfonic acid, 8-hydroxy-7-[2-(1-naphthalenyl)diazenyl]-",FALSE, ,0, 
+29109,50542-90-0,"2H-1-Benzopyran-2-one, 7-[(3,7-dimethyl-2,6-octadien-1-yl)oxy]-4-methyl-",FALSE, ,0, 
+29110,50543-78-7,"Benzenediazonium, 2,5-dibutoxy-4-(4-morpholinyl)-, tetrafluoroborate(1-) (1:1)",FALSE, ,0, 
+29111,50546-32-2,"Poly(oxy-1,2-ethanediyl), .alpha.-(carboxymethyl)-.omega.-(tetradecyloxy)-, sodium salt (1:1)",FALSE, ,0, 
+29115,50586-59-9,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, ether with 2-ethyl-2-(hydroxymethyl)-1,3-propanediol (3:1)",TRUE, CAS,2, Scout
+29117,50594-66-6,"Benzoic acid, 5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitro-",TRUE, CAS,1, Scout
+29123,50601-74-6,"2-Propenoic acid, 2-ethylhexyl ester, polymer with 2-hydroxyethyl 2-propenoate and methyl 2-propenoate",FALSE, ,0, 
+29124,nan,"Poly(oxy-1,2-ethanediyl), .alpha.-sulfo-.omega.-(dodecyloxy)-, potassium salt (1:1)",FALSE, ,0, 
+29125,50602-21-6,"2-Propenoic acid, 2-methyl-, polymer with diethenylbenzene",FALSE, ,0, 
+29130,50607-64-2,"Benzoic acid, 2-[(2-methylpentylidene)amino]-, methyl ester",FALSE, ,0, 
+29131,nan,"1,3,4-Thiadiazol-2-amine, 5-(1,1-dimethylethyl)-N-methyl-",FALSE, ,0, 
+29134,50622-20-3,"L-Glutamic acid, N-(1-oxododecyl)-, sodium salt (1:2)",FALSE, ,0, 
+29135,50622-42-9,"Tetradecanoyl chloride, 2-[4-(acetyloxy)-3-(1,1-dimethylethyl)phenoxy]-",FALSE, ,0, 
+29136,nan,"3-Furancarboxylic acid, 2-phenyl-, ethyl ester",FALSE, ,0, 
+29144,50649-60-0,"Benzoic acid, 4-propyl-, 4-pentylphenyl ester",FALSE, ,0, 
+29146,50651-39-3,"Acetamide, N-(4-methoxy-3-nitrophenyl)-",FALSE, ,0, 
+29147,50654-30-3,"Phosphonic acid, P,P',P'',P'''-[[(phosphonomethyl)imino]bis[6,1-hexanediylnitrilobis(methylene)]]tetrakis-, potassium salt (1:10)",FALSE, ,0, 
+29149,50658-30-5,"1,4-Butanediol, polymer with 1,3-diisocyanatomethylbenzene and .alpha.-hydro-.omega.-hydroxypoly[oxy(methyl-1,2-ethanediyl)]",FALSE, ,0, 
+29150,50660-45-2,"2-Propenoic acid, 3-hydroxypropyl ester, polymer with chloroethene and ethenyl acetate",FALSE, ,0, 
+29152,50662-99-2,"Benzenesulfonic acid, 4-[[4-chloro-6-[(4-sulfophenyl)amino]-1,3,5-triazin-2-yl]amino]-2-[2-[1-(2,5-dichloro-4-sulfophenyl)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-4-yl]diazenyl]-, sodium salt (1:3)",TRUE, CAS,1, Scout
+29155,50668-50-3,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-phosphinicobis[.omega.-(dodecyloxy)-, potassium salt (1:1)",FALSE, ,0, 
+29163,50698-68-5,"2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester, polymer with 2-methylpropyl 2-methyl-2-propenoate",FALSE, ,0, 
+29166,50727-77-0,"Propanoic acid, 3-mercapto-, tridecyl ester",FALSE, ,0, 
+29167,50729-75-4,"1,3,5-Triazine-2,4-diamine, 6-[2-(2-undecyl-1H-imidazol-1-yl)ethyl]-",FALSE, ,0, 
+29170,50767-79-8,"9,11-Tetradecadien-1-ol, 1-acetate, (9Z,11E)-",FALSE, ,0, 
+29171,50769-39-6,"Poly(oxy-1,2-ethanediyl), .alpha.-phosphono-.omega.-butoxy-",TRUE, CAS,1, Scout
+29175,50782-69-9,"Phosphonothioic acid, P-methyl-, S-[2-[bis(1-methylethyl)amino]ethyl] O-ethyl ester",FALSE, ,0, 
+29176,50789-30-5,"Pentanal, 5,5-dimethoxy-",FALSE, ,0, 
+29177,50789-44-1,"Benzenemethanol, 3-phenoxy-, 1-acetate",FALSE, ,0, 
+29178,50791-87-2,"Acetamide, N,N'-(ethenylmethylsilylene)bis[N-methyl-",FALSE, ,0, 
+29179,50792-65-9,"Iron, [7,16-dihydrodibenzo[b,i][1,4,8,11]tetraazacyclotetradecinato(2-)-.kappa.N5,.kappa.N9,.kappa.N14,.kappa.N18]-, (SP-4-1)-",FALSE, ,0, 
+29180,50793-85-6,"Benzoic acid, 4-hexyl-, 4-cyanophenyl ester",FALSE, ,0, 
+29183,50795-24-9,"Acetic acid, 2,2'-oxybis-, sodium salt (1:1)",FALSE, ,0, 
+29188,50814-28-3,"Benzenesulfonic acid, 4-[2-[4-[2-(2-phenyl-1H-indol-3-yl)diazenyl]phenyl]diazenyl]-, sodium salt (1:1)",FALSE, ,0, 
+29190,50814-31-8,C.I. Direct Orange 46,FALSE, ,0, 
+29191,50816-18-7,"9-Decen-1-ol, 1-acetate",FALSE, ,0, 
+29192,50816-19-8,"1-Octanol, 8-bromo-",TRUE, CAS,1, Scout
+29195,50818-84-3,"Benzothiazolium, 3-ethyl-2-sulfo-, inner salt",FALSE, ,0, 
+29198,50821-59-5,"Hexanedioic acid, polymer with 1,4-butanediol, 1,4-cyclohexanedimethanol and 1,1'-methylenebis[4-isocyanatobenzene]",FALSE, ,0, 
+29199,50825-29-1,"Cyclohexanecarboxylic acid, lead salt (1:?)",FALSE, ,0, 
+29201,50849-47-3,"Benzaldehyde, 2-hydroxy-5-nonyl-, oxime",FALSE, ,0, 
+29207,50858-51-0,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-(1-oxo-2-propen-1-yl)-.omega.-hydroxy-",TRUE, CAS,1, Scout
+29208,50861-78-4,"2-Propenoic acid, 2-methyl-, butyl ester, polymer with ethyl 2-methyl-2-propenoate and 2-propenoic acid",FALSE, ,0, 
+29210,50862-31-2,"1,3-Benzenedicarboxylic acid, polymer with 1,4-benzenedicarboxylic acid, 1,3-diisocyanatomethylbenzene, 1,2-ethanediol and nonanedioic acid",FALSE, ,0, 
+29211,50862-46-9,"2-Propenoic acid, polymer with ethenyl acetate, 2-ethylhexyl 2-propenoate and 2-hydroxyethyl 2-propenoate",FALSE, ,0, 
+29213,50862-68-5,"Guanidine, N-cyano-, polymer with N1-(2-aminoethyl)-1,2-ethanediamine",TRUE, CAS,2, Scout
+29215,50867-55-5,"2-Propenoic acid, 2-methyl-, butyl ester, polymer with N-[3-(dimethylamino)propyl]-2-methyl-2-propenamide, dodecyl 2-methyl-2-propenoate and octadecyl 2-methyl-2-propenoate",TRUE, CAS,1, Scout
+29216,50876-88-5,"3-Hexene, 1-(2,2-diethoxyethoxy)-, (3Z)-",FALSE, ,0, 
+29219,50883-96-0,"Pentanedioic acid, 1,5-dimethyl ester, polymer with N1-(2-aminoethyl)-1,2-ethanediamine",FALSE, ,0, 
+29221,50885-72-8,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate and ethenylbenzene, sodium salt",FALSE, ,0, 
+29225,50893-36-2,"Carbonic acid, 1-chloroethyl ethyl ester",FALSE, ,0, 
+29226,nan,"Octanedioic acid, 2-butyl-",FALSE, ,0, 
+29228,50922-29-7,Chromium zinc oxide,TRUE, CAS,1, Scout
+29229,50922-82-2,"2-Propenoic acid, isooctyl ester, polymer with 2-propenamide",FALSE, ,0, 
+29230,50925-42-3,"1,5-Naphthalenedisulfonic acid, 3,3'-[[6-[(2-hydroxyethyl)amino]-1,3,5-triazine-2,4-diyl]bis[imino(2-methyl-4,1-phenylene)-2,1-diazenediyl]]bis-, sodium salt (1:4)",FALSE, ,0, 
+29231,50925-66-1,"Chromium chloride, basic",TRUE, CAS,1, Scout
+29235,50933-33-0,"7,11-Hexadecadien-1-ol, 1-acetate",FALSE, ,0, 
+29236,50933-69-2,Dolime,FALSE, ,0, 
+29237,50935-18-7,"Cellulose, dinitrate",FALSE, ,0, 
+29239,50940-49-3,"Butanedioic acid, 1-[2-[(1-oxo-2-propen-1-yl)oxy]ethyl] ester",FALSE, ,0, 
+29240,50957-96-5,"Phosphoric acid, dodecyl ester, sodium salt",FALSE, ,0, 
+29241,nan,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate and ethenylbenzene, zinc salt",FALSE, ,0, 
+29243,50973-35-8,"Benzenesulfonic acid, hydroxy-, polymer with formaldehyde",FALSE, ,0, 
+29244,50974-47-5,"Poly(oxy-1,2-ethanediyl), .alpha.-(1-oxo-2-propen-1-yl)-.omega.-(nonylphenoxy)-",TRUE, CAS,1, Scout
+29245,50974-49-7,"Poly(oxy-1,2-ethanediyl), .alpha.-(2-methyl-1-oxo-2-propen-1-yl)-.omega.-(nonylphenoxy)-",FALSE, ,0, 
+29248,50976-35-7,"1,3-Naphthalenedisulfonic acid, 6-amino-, sodium salt (1:2)",FALSE, ,0, 
+29249,nan,"1-Propanamine, 3-(isooctyloxy)-",FALSE, ,0, 
+29250,nan,"1-Propanamine, 3-(isotridecyloxy)-",FALSE, ,0, 
+29252,50977-32-7,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, ether with 2,2'-[oxybis(methylene)]bis[2-(hydroxymethyl)-1,3-propanediol] (6:1)",FALSE, ,0, 
+29253,50977-65-6,"2-Butenedioic acid (2Z)-, lithium salt (1:2)",FALSE, ,0, 
+29254,50979-18-5,"Sulfamic acid, compd. with guanidine (1:1)",FALSE, ,0, 
+29258,50985-55-2,"Oxirane, 2,2'-[(octahydro-4,7-methano-1H-indene-5,?-diyl)bis(methyleneoxymethylene)]bis-",FALSE, ,0, 
+29260,nan,"Propanamide, N-(6-oxo-6H-anthra[9,1-cd]isothiazol-7-yl)-",FALSE, ,0, 
+29261,50995-95-4,"1H-Imidazole, 2-propyl-",FALSE, ,0, 
+29263,51000-52-3,"Neodecanoic acid, ethenyl ester",FALSE, ,0, 
+29266,51016-63-8,"1H-Isoindol-1-one, 3,3'-[(2,5-dichloro-1,4-phenylene)diimino]bis-",FALSE, ,0, 
+29271,51024-16-9,"Benzene, (chloromethyl)ethenyl-, polymer with ethenylbenzene",FALSE, ,0, 
+29272,51024-29-4,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-phosphono-.omega.-hydroxy-",FALSE, ,0, 
+29274,51030-47-8,"1-Butanol, niobium(5+) salt (5:1)",TRUE, CAS,1, Scout
+29284,nan,"Quino[2,3-b]acridine-7,14-dione, 2,9-dichloro-5,6,12,13-tetrahydro-",FALSE, ,0, 
+29287,51094-78-1,"1-Butanol, tantalum(5+) salt (5:1)",FALSE, ,0, 
+29289,51112-72-2,"Propane, 2,2'-tellurobis-",FALSE, ,0, 
+29290,51115-63-0,"Benzoic acid, 2-hydroxy-, 2-methylbutyl ester",TRUE, CAS,2, Scout
+29291,51115-64-1,"Butanoic acid, 2-methylbutyl ester",TRUE, CAS,1, Scout
+29292,51115-67-4,"Butanamide, N,2,3-trimethyl-2-(1-methylethyl)-",TRUE, CAS,3, Scout
+29295,nan,"Benzamide, 4-amino-N-(2-ethylhexyl)-",FALSE, ,0, 
+29296,51121-85-8,"1-Propanesulfonic acid, 2-methyl-2-[(1-oxo-2-propen-1-yl)amino]-, polymer with ethenylbenzene",TRUE, CAS,1, Scout
+29297,51121-95-0,"Benzoic acid, polymer with 2,2-bis(hydroxymethyl)-1,3-propanediol and 1,3-isobenzofurandione",FALSE, ,0, 
+29299,51126-65-9,"1H-Benzotriazole, potassium salt (1:1)",TRUE, CAS,2, Scout
+29301,51136-86-8,"Hexanoic acid, 2-ethyl-, 1,1',1''-trianhydride with boric acid (H3BO3)",FALSE, ,0, 
+29303,51137-37-2,"2-Propenoic acid, polymer with ethene and ethenyl acetate, sodium salt",FALSE, ,0, 
+29307,nan,"Decanamide, N,N'-1,2-ethanediylbis-",FALSE, ,0, 
+29308,51142-87-1,Sodium titanium oxide,FALSE, ,0, 
+29310,51147-75-2,"Chromate(1-), bis[2-(3-chlorophenyl)-2,4-dihydro-4-[2-[2-(hydroxy-.kappa.O)-5-(methylsulfonyl)phenyl]diazenyl-.kappa.N1]-5-methyl-3H-pyrazol-3-onato(2-)-.kappa.O3]-, sodium (1:1)",FALSE, ,0, 
+29311,51154-96-2,"2H-Pyran-2-one, 5,6-dihydro-6-pentyl-, (6R)-",TRUE, CAS,1, Scout
+29312,nan,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, ether with 1,2,3-propanetriol monooctadecanoate (2:1)",FALSE, ,0, 
+29313,51160-36-2,"2-Oxepanone, polymer with 1,3-diisocyanatomethylbenzene and 2,2'-oxybis[ethanol]",FALSE, ,0, 
+29315,51160-64-6,"2-Propenoic acid, 1,1'-[(methyl-1,3-phenylene)bis[iminocarbonyloxy[2,2-bis[[(1-oxo-2-propen-1-yl)oxy]methyl]-3,1-propanediyl]]] ester",FALSE, ,0, 
+29316,51160-97-5,"Urea, polymer with .alpha.-(2-aminomethylethyl)-.omega.-(2-aminomethylethoxy)poly[oxy(methyl-1,2-ethanediyl)]",FALSE, ,0, 
+29317,51162-51-7,"Phosphorochloridothioic acid, O-ethyl O-(1-methylethyl) ester",FALSE, ,0, 
+29320,51178-59-7,"2-Propenoic acid, 2-methyl-, 3a,4,7,7a-tetrahydro-4,7-methano-1H-indenyl ester",FALSE, ,0, 
+29321,51178-75-7,"1,3-Benzenedicarboxylic acid, 5-sulfo-, sodium salt, compd. with 1,6-hexanediamine (1:1:1)",FALSE, ,0, 
+29322,51178-86-0,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.',.alpha.'',.alpha.'''-[1,2-ethanediylbis[nitrilobis(methyl-2,1-ethanediyl)]]tetrakis[.omega.-hydroxy-",FALSE, ,0, 
+29323,51181-40-9,"Cyclohexanecarboxylic acid, 4-methyl-, methyl ester",TRUE, CAS,1, Scout
+29324,51184-13-5,Aluminum nitrogen silicon oxide,FALSE, ,0, 
+29326,nan,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, ether with 1,2,3-propanetriol mono-(9Z)-9-octadecenoate (2:1)",FALSE, ,0, 
+29327,51198-15-3,"Guar gum, carboxymethyl ether",FALSE, ,0, 
+29328,51200-87-4,"Oxazolidine, 4,4-dimethyl-",TRUE, CAS,3, Scout
+29330,51202-86-9,"5(4H)-Oxazolone, 2,2'-(1,4-phenylene)bis[4-[(4-methoxyphenyl)methylene]-",FALSE, ,0, 
+29336,nan,"1,3,5-Triazine-2,4(1H,3H)-dione, 3-cyclohexyl-6-(dimethylamino)-1-methyl-",FALSE, ,0, 
+29337,51240-95-0,"Neodecaneperoxoic acid, 1,1,3,3-tetramethylbutyl ester",FALSE, ,0, 
+29339,51243-47-1,"2-Propenoic acid, butyl ester, polymer with ethenylbenzene and ethyl 2-propenoate",FALSE, ,0, 
+29340,51247-55-3,"Poly(oxy-1,2-ethanediyl), .alpha.-[[(3-isocyanatomethylphenyl)amino]carbonyl]-.omega.-methoxy-",FALSE, ,0, 
+29342,51247-87-1,"2-Propenoic acid, 2-methyl-, 1,1'-[(1-methyl-1,2-ethanediyl)bis[oxy(methyl-2,1-ethanediyl)]] ester",FALSE, ,0, 
+29343,51248-32-9,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-hydroxy-, ether with 1,2,3-propanetriol monododecanoate (2:1)",FALSE, ,0, 
+29346,nan,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with butyl 2-propenoate, ethenylbenzene and 2-propen-1-yl 2-methyl-2-propenoate",FALSE, ,0, 
+29350,51252-88-1,"1,2-Cyclohexanedicarboxylic acid, 1-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl] ester",FALSE, ,0, 
+29353,51274-00-1,C.I. Pigment Yellow 42,TRUE, CAS,3, Scout
+29357,51277-96-4,"1-Propanaminium, N,N,N-trimethyl-3-[(1-oxohexadecyl)amino]-, chloride (1:1)",TRUE, CAS,1, Scout
+29359,51287-84-4,"Stannane, bis(dodecylthio)dimethyl-",TRUE, CAS,1, Scout
+29362,51290-65-4,"Benzenepropanol, 4-(1,1-dimethylethyl)-.alpha.-methyl-",FALSE, ,0, 
+29364,51293-73-3,"Hexanedioic acid, polymer with 5-amino-1,3,3-trimethylcyclohexanemethanamine, 1,4-butanediol and 1,1'-methylenebis[4-isocyanatocyclohexane]",FALSE, ,0, 
+29365,51293-82-4,"Hexanedioic acid, polymer with 5-amino-1,3,3-trimethylcyclohexanemethanamine, 1,4-butanediol and 5-isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane",FALSE, ,0, 
+29368,51301-55-4,"Formic acid, compd. with 2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepine (1:1)",FALSE, ,0, 
+29370,51308-99-7,"1-Nonanol, 9-chloro-",FALSE, ,0, 
+29372,51309-30-9,"1,4-Butanediol, polymer with .alpha.-hydro-.omega.-hydroxypoly(oxy-1,4-butanediyl), .alpha.-hydro-.omega.-hydroxypoly[oxy(methyl-1,2-ethanediyl)] and 1,1'-methylenebis[4-isocyanatobenzene]",FALSE, ,0, 
+29373,51311-17-2,Carbon fluoride,FALSE, ,0, 
+29374,51312-42-6,Sodium tungsten hydroxide oxide phosphate,FALSE, ,0, 
+29376,51325-91-8,"Propanedinitrile, 2-[2-[2-[4-(dimethylamino)phenyl]ethenyl]-6-methyl-4H-pyran-4-ylidene]-",TRUE, CAS,2, Scout
+29378,51329-93-2,"Butanedioic acid, 2-methylene-, polymer with butyl 2-propenoate, ethyl 2-propenoate, 2-propenamide and 2-propenenitrile",FALSE, ,0, 
+29379,51331-09-0,"Cellulose, 2-hydroxyethyl 2-hydroxypropyl ether",FALSE, ,0, 
+29380,51344-62-8,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-[[[[(1R,4aS,10aR)-1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-1-phenanthrenyl]methyl]imino]di-2,1-ethanediyl]bis[.omega.-hydroxy-",FALSE, ,0, 
+29383,51363-64-5,"Phosphoric acid, diisodecyl phenyl ester",FALSE, ,0, 
+29384,nan,"Hexanedioic acid, compd. with 1,6-hexanediamine (1:1), polymer with azacyclotridecan-2-one and hexahydro-2H-azepin-2-one",FALSE, ,0, 
+29385,51365-70-9,"Hexanoic acid, 2-ethyl-, compd. with 2,4,6-tris[(dimethylamino)methyl]phenol (1:?)",TRUE, CAS,1, Scout
+29386,51382-23-1,"2-Oxepanone, polymer with 1,1'-methylenebis[4-isocyanatobenzene] and 2,2'-oxybis[ethanol]",FALSE, ,0, 
+29387,51382-28-6,"1,4-Benzenedicarboxylic acid, 1,4-dimethyl ester, polymer with decanedioic acid, 2,2-dimethyl-1,3-propanediol and 1,2-ethanediol",FALSE, ,0, 
+29390,51390-19-3,"Formic acid, compd. with 2,2'-oxybis[N,N-dimethylethanamine] (2:1)",FALSE, ,0, 
+29393,51404-69-4,"Acetic acid, lead salt, basic",FALSE, ,0, 
+29394,51404-72-9,"Phosphoric acid, octyl ester, potassium salt",FALSE, ,0, 
+29396,51410-72-1,"1-Propanaminium, N,N,N-trimethyl-3-[(2-methyl-1-oxo-2-propen-1-yl)amino]-, chloride (1:1)",FALSE, ,0, 
+29397,51411-24-6,"6,10-Dodecadien-1-ol, 3,7,11-trimethyl-",FALSE, ,0, 
+29398,51414-25-6,"3-Cyclohexene-1-carboxaldehyde, 3-(4-hydroxy-4-methylpentyl)-",TRUE, CAS,2, Scout
+29402,51422-54-9,"Propane, 2-(2-ethoxyethoxy)-2-methyl-",FALSE, ,0, 
+29403,51447-37-1,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.',.alpha.''-1,2,3-propanetriyltris[.omega.-hydroxy-, polymer with .alpha.-hydro-.omega.-hydroxypoly[oxy(methyl-1,2-ethanediyl)] and 1,1'-methylenebis[4-isocyanatobenzene]",FALSE, ,0, 
+29407,51462-26-1,"Pyrimidine, 5-hexyl-2-[4-(nonyloxy)phenyl]-",FALSE, ,0, 
+29410,51477-26-0,"Morpholine, sulfate (2:1)",FALSE, ,0, 
+29411,nan,"Pyridine, 2,3-dichloro-6-(trichloromethyl)-",FALSE, ,0, 
+29414,51503-28-7,"Benzenediazonium, 4-chloro-2-methyl-, 1,5-naphthalenedisulfonate (1:1)",FALSE, ,0, 
+29416,51513-58-7,"6,10-Dodecadienal, 3,7,11-trimethyl-, (6E)-",TRUE, CAS,1, Scout
+29417,51519-65-4,"1,4-Methanonaphthalen-5(1H)-one, 4,4a,6,7,8,8a-hexahydro-",FALSE, ,0, 
+29418,51532-26-4,"Octanoic acid, (2E)-3,7-dimethyl-2,6-octadien-1-yl ester",TRUE, CAS,1, Scout
+29419,nan,"2-Propenoic acid, 2-methyl-, 2-oxiranylmethyl ester, polymer with ethene and methyl 2-propenoate",FALSE, ,0, 
+29422,nan,"Cuprate(1-), [C-chloro-29H,31H-phthalocyanine-C-sulfonato(3-)-.kappa.N29,.kappa.N30,.kappa.N31,.kappa.N32]-, hydrogen (1:1)",FALSE, ,0, 
+29425,51566-62-2,"6-Octenenitrile, 3,7-dimethyl-",TRUE, CAS,3, Scout
+29427,51580-93-9,"Benzene, 1,2-dimethyl-4,5-bis(1-phenylethyl)-",FALSE, ,0, 
+29428,51583-69-8,"Quinolinium, 2-methyl-1-(3-sulfopropyl)-, inner salt",FALSE, ,0, 
+29430,51590-67-1,"Stannane, butyloxo-",TRUE, CAS,1, Scout
+29432,51595-91-6,"3-Buten-2-ol, 3-methyl-4-(2,6,6-trimethyl-1-cyclohexen-1-yl)-",FALSE, ,0, 
+29435,51601-31-1,"Phosphoric acid, ammonium potassium salt (1:?:?)",FALSE, ,0, 
+29436,51601-35-5,"Hexanedioic acid, polymer with 2,2-dimethyl-1,3-propanediol and 2,2'-oxybis[ethanol]",FALSE, ,0, 
+29438,51604-48-9,"Carbamic acid, N-(3-isocyanato-4-methylphenyl)-, 2-ethylhexyl ester",FALSE, ,0, 
+29439,51605-32-4,"1H-Imidazole-5-carboxylic acid, 4-methyl-, ethyl ester",TRUE, CAS,1, Scout
+29440,51606-34-9,"1,4-Benzenedicarboxylic acid, 1,4-dimethyl ester, polymer with 1,6-hexanediol and .alpha.-hydro-.omega.-hydroxypoly(oxy-1,4-butanediyl)",TRUE, CAS,1, Scout
+29441,51608-18-5,"Cyclopentanone, 2-(2E)-2-penten-1-yl-",FALSE, ,0, 
+29442,51609-41-7,"Poly(oxy-1,2-ethanediyl), .alpha.-(4-nonylphenyl)-.omega.-hydroxy-, phosphate",FALSE, ,0, 
+29444,51617-66-4,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-hydroxy-, ether with 2,2-bis(hydroxymethyl)-1,3-propanediol (4:1), polymer with 1,3-diisocyanatomethylbenzene",FALSE, ,0, 
+29445,51617-74-4,"Ethanol, 2-amino-, compd. with .alpha.-sulfo-.omega.-(nonylphenoxy)poly(oxy-1,2-ethanediyl) (1:1)",TRUE, CAS,1, Scout
+29446,51632-16-7,"Benzene, 1-(bromomethyl)-3-phenoxy-",FALSE, ,0, 
+29448,51637-93-5,"Carbonochloridic acid, octadecyl ester",FALSE, ,0, 
+29450,51652-47-2,"5-Decen-1-ol, (5Z)-",FALSE, ,0, 
+29451,51656-57-6,"Phenol, 2-[2-(2-nitrophenyl)diazenyl]-4-(1,1,3,3-tetramethylbutyl)-",FALSE, ,0, 
+29452,51668-30-5,"Oxirane, 2-methyl-, polymer with oxirane, octadecanoate",FALSE, ,0, 
+29454,51673-64-4,"Propanoic acid, 2-methyl-3-oxo-, methyl ester",FALSE, ,0, 
+29455,51673-84-8,"Acetaldehyde, 2,2-dimethoxy-",TRUE, CAS,1, Scout
+29457,51681-26-6,"Copper, (1,3-dihydro-2H-benzimidazole-2-thione)iodo-",FALSE, ,0, 
+29460,51706-34-4,"Ethanone, 1,2-diphenyl-2-[(tetrahydro-2H-pyran-2-yl)oxy]-",FALSE, ,0, 
+29463,51728-26-8,"Poly(oxy-1,2-ethanediyl), .alpha.-hydro-.omega.-[(1-oxo-2-propen-1-yl)oxy]-, ether with 2,2-bis(hydroxymethyl)-1,3-propanediol (4:1)",TRUE, CAS,3, Scout
+29466,51730-94-0,"Propanol, 1(or 2)-(methyl-2-phenoxyethoxy)-",TRUE, CAS,1, Scout
+29467,51732-34-4,"Acetamide, N-[3-(dipropylamino)phenyl]-",FALSE, ,0, 
+29468,51732-57-1,"Phosphoric acid, P,P'-1,4-phenylene P,P,P',P'-tetraphenyl ester",FALSE, ,0, 
+29469,51732-68-4,"Formaldehyde, polymer with butylphenol and phenol",FALSE, ,0, 
+29475,51749-82-7,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate, N-(1,1-dimethyl-3-oxobutyl)-2-propenamide and ethenylbenzene",FALSE, ,0, 
+29480,51755-83-0,"1-Hexanol, 3-mercapto-",TRUE, CAS,2, Scout
+29484,51767-46-5,"Benzenesulfonamide, N-(3,5-dibromo-4-hydroxyphenyl)-",FALSE, ,0, 
+29485,51769-43-8,"Naphtho[1,2-d]thiazole, 2-(methylthio)-",FALSE, ,0, 
+29486,51772-35-1,"1-Naphthalenamine, N-[(1,1,3,3-tetramethylbutyl)phenyl]-",TRUE, CAS,1, Scout
+29487,51772-77-1,"2-Propenoic acid, 2-methyl-, methyl ester, polymer with butyl 2-propenoate, ethene and 2-oxiranylmethyl 2-methyl-2-propenoate",FALSE, ,0, 
+29490,51795-88-1,"2H-Pyran, 2-[(10-bromodecyl)oxy]tetrahydro-",FALSE, ,0, 
+29491,51798-33-5,"Poly[oxy[trifluoro(trifluoromethyl)-1,2-ethanediyl]], .alpha.-(1-carboxy-1,2,2,2-tetrafluoroethyl)-.omega.-[tetrafluoro(trifluoromethyl)ethoxy]-",TRUE, CAS,2, Scout
+29494,51806-23-6,"Propanedioic acid, 2-(3-oxo-2-pentylcyclopentyl)-, 1,3-dimethyl ester",FALSE, ,0, 
+29496,51811-79-1,"Poly(oxy-1,2-ethanediyl), .alpha.-(nonylphenyl)-.omega.-hydroxy-, phosphate",TRUE, CAS,3, Scout
+29497,51811-82-6,Giemsa's stain,TRUE, CAS,1, Scout
+29498,51812-80-7,"1-Propanaminium, 3-(D-gluconoylamino)-N-(2-hydroxyethyl)-N,N-dimethyl-, chloride (1:1)",FALSE, ,0, 
+29500,51818-55-4,"Neodecanoic acid, iron salt (1:?)",FALSE, ,0, 
+29501,51818-56-5,"Neodecanoic acid, nickel salt (1:?)",FALSE, ,0, 
+29502,51821-82-0,"Glycine, N-methyl-N-(9Z)-9-octadecen-1-yl-, sodium salt (1:1)",FALSE, ,0, 
+29505,51838-29-0,"2,5-Furandione, polymer with 2,2-dimethyl-1,3-propanediol and 1,2-propanediol",FALSE, ,0, 
+29506,51838-31-4,"2-Oxiranemethanaminium, N,N,N-trimethyl-, chloride (1:1), homopolymer",FALSE, ,0, 
+29509,51851-37-7,"Silane, triethoxy(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)-",TRUE, CAS,1, Scout
+29510,51852-81-4,"1,3-Propanediol, 2-ethyl-2-(hydroxymethyl)-, polymer with bis(isocyanatomethyl)benzene",TRUE, CAS,3, Scout
+29511,51855-41-5,"Poly(oxy-1,4-butanediyl), .alpha.-hydro-.omega.-hydroxy-, polymer with 1,1'-methylenebis[isocyanatobenzene]",FALSE, ,0, 
+29514,51866-75-2,"Titanium, oxobis(2,4-pentanedionato-.kappa.O2,.kappa.O4)-, homopolymer",FALSE, ,0, 
+29515,51867-77-7,"2-Naphthalenecarboxylic acid, 4-[2-(2,5-dichlorophenyl)diazenyl]-3-hydroxy-",FALSE, ,0, 
+29516,51868-46-3,"Acetamide, N-[2-[2-(2-bromo-4,6-dinitrophenyl)diazenyl]-5-(di-2-propen-1-ylamino)-4-methoxyphenyl]-",FALSE, ,0, 
+29520,51884-64-1,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-phosphinicobis[.omega.-(hexyloxy)-",FALSE, ,0, 
+29530,51911-82-1,"1,3,7-Nonatriene, 4,8-dimethyl-",FALSE, ,0, 
+29531,51912-17-5,"Hexanedioic acid, polymer with hexahydro-2H-azepin-2-one and 1-piperazineethanamine",FALSE, ,0, 
+29532,51919-48-3,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-[(4,4-dimethyl-2,5-dioxo-1,3-imidazolidinediyl)di-2,1-ethanediyl]bis[.omega.-hydroxy-",FALSE, ,0, 
+29533,nan,"2-Naphthalenecarboxamide, N-(2,3-dihydro-2-oxo-1H-benzimidazol-5-yl)-3-hydroxy-4-[2-[2-methoxy-5-methyl-4-[(methylamino)sulfonyl]phenyl]diazenyl]-",FALSE, ,0, 
+29534,51922-42-0,"1,3-Isobenzofurandione, polymer with 2,5-furandione and oxybis[propanol]",FALSE, ,0, 
+29535,51931-46-5,"Nickel, bis[3-[2-(4-chlorophenyl)diazenyl-.kappa.N2]-2,4(1H,3H)-quinolinedionato-.kappa.O4]-",FALSE, ,0, 
+29537,51937-00-9,"9,12-Tetradecadien-1-ol, (9E,12Z)-",TRUE, CAS,2, Scout
+29538,51938-25-1,"Poly(oxy-1,2-ethanediyl), .alpha.-(2-nonylphenyl)-.omega.-hydroxy-",FALSE, ,0, 
+29539,51938-44-4,"Sorbitan, octadecanoate (2:3)",FALSE, ,0, 
+29540,51939-28-7,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate, ethenylbenzene and methyl 2-propenoate",FALSE, ,0, 
+29548,51947-52-5,"Benzoic acid, 2-amino-5-[(4-aminophenyl)methyl]-, methyl ester",FALSE, ,0, 
+29550,51953-88-9,"2H-Pyran, tetrahydro-2-(10-undecyn-1-yloxy)-",FALSE, ,0, 
+29554,51959-14-9,"1-Butanamine, 4-[2,4-bis(1,1-dimethylpropyl)phenoxy]-",TRUE, CAS,1, Scout
+29556,51962-27-7,"1,2-Benzenedicarboxylic acid, 4-[(3-aminophenyl)hydroxymethyl]-, 1-methyl ester, homopolymer",FALSE, ,0, 
+29559,51966-13-3,"4,7-Methano-2,3,8-methenocyclopent[a]indene, dodecahydro-",FALSE, ,0, 
+29562,51978-15-5,"2-Butenedioic acid (2Z)-, 1-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl] ester",FALSE, ,0, 
+29563,51981-21-6,"L-Glutamic acid, N,N-bis(carboxymethyl)-, sodium salt (1:4)",TRUE, CAS,3, Scout
+29564,51981-33-0,"Benzoxazolium, 5-chloro-2-methyl-3-(3-sulfopropyl)-, inner salt",FALSE, ,0, 
+29565,51981-34-1,"Benzoxazolium, 2-methyl-5-phenyl-3-(3-sulfobutyl)-, inner salt",FALSE, ,0, 
+29566,51987-20-3,"2H-Azepin-2-one, 1-ethenylhexahydro-, polymer with 1-ethenyl-2-pyrrolidinone",FALSE, ,0, 
+29567,51988-14-8,"Benzenecarbothioic acid, S-(4,5-dihydro-5-thioxo-1,3,4-thiadiazol-2-yl) ester",FALSE, ,0, 
+29569,51988-26-2,"Benzenesulfonic acid, 4-[2-[4-[2-(2-hydroxy-1-naphthalenyl)diazenyl]phenyl]diazenyl]-, lithium salt (1:1)",FALSE, ,0, 
+29570,51994-93-5,"2-Propenoic acid, 2-methyl-, butyl ester, polymer with butyl 2-propenoate, 2-hydroxyethyl 2-methyl-2-propenoate and methyl 2-methyl-2-propenoate",FALSE, ,0, 
+29573,52002-56-9,"2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with methyl 2-methyl-2-propenoate and 2-methylpropyl 2-methyl-2-propenoate",FALSE, ,0, 
+29576,52006-45-8,"Isooctadecanoic acid, isohexadecyl ester",FALSE, ,0, 
+29577,52007-36-0,"2-Propenoic acid, polymer with 2-ethylhexyl 2-propenoate and 2-hydroxyethyl 2-propenoate",FALSE, ,0, 
+29580,52012-13-2,"1,2-Ethanediol, phosphate",FALSE, ,0, 
+29585,52019-35-9,"Oxirane, 2-methyl-, polymer with oxirane, ether with 2,6-bis[[bis(2-hydroxyethyl)amino]methyl]-4-nonylphenol (5:1)",TRUE, CAS,3, Scout
+29586,52019-36-0,"Poly(oxy-1,2-ethanediyl), .alpha.-decyl-.omega.-hydroxy-, phosphate",TRUE, CAS,2, Scout
+29588,52030-79-2,"2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with ethenylbenzene, ethyl 2-propenoate, methyl 2-methyl-2-propenoate and 2-propenoic acid",FALSE, ,0, 
+29593,52037-76-0,Zirconium oxide sulfate,FALSE, ,0, 
+29599,52080-58-7,C.I. Solvent Violet 8,TRUE, CAS,1, Scout
+29601,52085-24-2,"1,5-Naphthalenedisulfonic acid, 3-amino-, sodium salt (1:?)",FALSE, ,0, 
+29606,52108-54-0,"Phosphoric acid, 2-ethylhexyl ester, zinc salt",FALSE, ,0, 
+29610,52123-15-6,"Benzothiazolium, 2-(2-ethoxy-1-propen-1-yl)-3-(3-sulfobutyl)-, inner salt",FALSE, ,0, 
+29611,52125-43-6,"1-Naphthalenesulfonic acid, 3-diazo-3,4-dihydro-4-oxo-, ar'-(1-methylethyl)[1,1'-biphenyl]-4-yl ester",FALSE, ,0, 
+29612,52125-53-8,"Propanol, 1(or 2)-ethoxy-",TRUE, CAS,3, Scout
+29613,52126-51-9,"1H-Pyrazole-3-carboxylic acid, 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-, sodium salt (1:1)",FALSE, ,0, 
+29618,52136-46-6,"2-Oxepanone, polymer with 2,4-diisocyanato-1-methylbenzene",FALSE, ,0, 
+29619,52136-47-7,"2-Oxepanone, polymer with 1,1'-methylenebis[4-isocyanatocyclohexane]",FALSE, ,0, 
+29621,52152-93-9,"Pyridinium, 4-(aminocarbonyl)-1-[[(6R,7R)-2-carboxy-8-oxo-7-[[(2R)-2-phenyl-2-sulfoacetyl]amino]-5-thia-1-azabicyclo[4.2.0]oct-2-en-3-yl]methyl]-, inner salt, sodium salt (1:1)",FALSE, ,0, 
+29622,nan,"Stannane, tris(dodecylthio)methyl-",FALSE, ,0, 
+29623,52166-72-0,"Phenol, 2,5-dichloro-, sodium salt (1:1)",FALSE, ,0, 
+29624,52166-82-2,"1-Propanaminium, N,N,N-trimethyl-3-[[(1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexyl)sulfonyl]amino]-, chloride (1:1)",FALSE, ,0, 
+29629,52184-19-7,"Phenol, 2,4-bis(1,1-dimethylpropyl)-6-[2-(2-nitrophenyl)diazenyl]-",FALSE, ,0, 
+29630,52184-29-9,"Phenol, 2-[2-(4-chloro-2-nitrophenyl)diazenyl]-4,6-bis(1,1-dimethylethyl)-",FALSE, ,0, 
+29636,nan,"2-Propenoic acid, butyl ester, polymer with ethenylbenzene and methyl 2-propenoate",FALSE, ,0, 
+29640,nan,"2,7-Naphthalenedisulfonic acid, 4-amino-3-[2-[4-[[4-[2-(2,4-diaminophenyl)diazenyl]phenyl]sulfonyl]phenyl]diazenyl]-5-hydroxy-6-(2-phenyldiazenyl)-, sodium salt (1:2)",FALSE, ,0, 
+29641,52204-20-3,"3H-Indolium, 2-[2-(4,5-dihydro-3,5-diphenyl-1H-pyrazol-1-yl)ethenyl]-1,3,3-trimethyl-, chloride (1:1)",FALSE, ,0, 
+29643,52210-18-1,"3-Buten-2-ol, 4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-, 2-acetate",FALSE, ,0, 
+29644,52217-52-4,"Silane, trichloro-7-octen-1-yl-",FALSE, ,0, 
+29645,52217-57-9,"Silane, trimethoxy-7-octen-1-yl-",FALSE, ,0, 
+29648,nan,"2-Propen-1-ol, polymer with ethenylbenzene, 2-propenoate",FALSE, ,0, 
+29649,nan,"Oxirane, 2-methyl-, polymer with oxirane, monohexyl ether",FALSE, ,0, 
+29650,52232-27-6,"Oxirane, 2-methyl-, polymer with oxirane, methyl 2-propen-1-yl ether",TRUE, CAS,1, Scout
+29651,52234-82-9,"1-Aziridinepropanoic acid, 1,1'-[2-[[3-(1-aziridinyl)-1-oxopropoxy]methyl]-2-ethyl-1,3-propanediyl] ester",FALSE, ,0, 
+29660,52238-69-4,"Benzenesulfonic acid, 3,3'-[[6-[bis(2-hydroxyethyl)amino]-1,3,5-triazine-2,4-diyl]bis[imino(3-methoxy-4,1-phenylene)-2,1-diazenediyl]]bis-, sodium salt (1:2)",FALSE, ,0, 
+29661,52238-92-3,"2-Naphthalenecarboxamide, N,N'-(2,5-dichloro-1,4-phenylene)bis[4-[2-[2-chloro-5-(trifluoromethyl)phenyl]diazenyl]-3-hydroxy-",FALSE, ,0, 
+29663,52239-04-0,".beta.-Alanine, N-ethyl-N-[4-[2-(5-nitro-2,1-benzisothiazol-3-yl)diazenyl]phenyl]-, methyl ester",FALSE, ,0, 
+29664,52243-33-1,"Ethanol, 2,2',2''-nitrilotris-, 4-methylbenzenesulfonate (1:1)",FALSE, ,0, 
+29665,52247-59-3,"1,3-Benzenedicarboxylic acid, polymer with 1,4-benzenedicarboxylic acid, 2,2-dimethyl-1,3-propanediol, 2-ethyl-2-(hydroxymethyl)-1,3-propanediol and hexanedioic acid",FALSE, ,0, 
+29666,52255-49-9,"2-Propenoic acid, polymer with 2,5-furandione, sodium salt",FALSE, ,0, 
+29667,52256-37-8,"Chromate(1-), bis[2,4-dihydro-4-[2-[2-(hydroxy-.kappa.O)-5-nitrophenyl]diazenyl-.kappa.N1]-5-methyl-2-phenyl-3H-pyrazol-3-onato(2-)-.kappa.O3]-, hydrogen (1:1)",TRUE, CAS,1, Scout
+29669,52256-39-0,"Chromate(1-), [2,4-dihydro-4-[2-[2-(hydroxy-.kappa.O)-5-nitrophenyl]diazenyl-.kappa.N1]-5-methyl-2-phenyl-3H-pyrazol-3-onato(2-)-.kappa.O3][2-[2-[4,5-dihydro-3-methyl-5-(oxo-.kappa.O)-1-phenyl-1H-pyrazol-4-yl]diazenyl-.kappa.N1]benzoato(2-)-.kappa.O]-, hydrogen (1:1)",FALSE, ,0, 
+29671,52256-80-1,"1,3-Isobenzofurandione, 4,4'-[(1-methylethylidene)bis(4,1-phenyleneoxy)]bis-",FALSE, ,0, 
+29672,52256-85-6,"1,3-Isobenzofurandione, 5,5'-[thiobis(4,1-phenyleneoxy)]bis-",FALSE, ,0, 
+29673,nan,"Dodecanedioic acid, polymer with decanedioic acid, hexahydro-2H-azepin-2-one and 1,6-hexanediamine",FALSE, ,0, 
+29674,18392736,"Dodecanedioic acid, polymer with hexahydro-2H-azepin-2-one, 1,6-hexanediamine and nonanedioic acid",FALSE, ,0, 
+29675,52257-10-0,"1,4-Benzenedicarboxylic acid, 1,4-dimethyl ester, polymer with 1,2-ethanediol, 2,5-furandione and 1,2-propanediol",FALSE, ,0, 
+29677,52270-22-1,"Hexanedioic acid, polymer with 1,4-butanediol, 1,6-diisocyanatohexane and 1,6-hexanediol",FALSE, ,0, 
+29678,52270-44-7,"Neodecanoic acid, cobalt(2+) salt (2:1)",FALSE, ,0, 
+29679,52270-63-0,"Benzenesulfonic acid, 2(or 5)-[[9,10-dihydro-4-[(1-methylethyl)amino]-9,10-dioxo-1-anthracenyl]amino]-5(or 2)-methyl-, sodium salt (1:1)",FALSE, ,0, 
+29680,52271-32-6,"2-Propenoic acid, 1,1'-[2-ethyl-2-[[(1-oxo-2-propen-1-yl)oxy]methyl]-1,3-propanediyl] ester, polymer with methyl 2-methyl-2-propenoate",FALSE, ,0, 
+29681,52274-73-4,"Phenol, dodecyl-, calcium salt (2:1)",FALSE, ,0, 
+29682,52277-26-6,"Benzenesulfonic acid, 2(or 4)-hydroxy-3-methyl-",FALSE, ,0, 
+29683,52277-29-9,"Benzenesulfonic acid, hydroxy-, polymer with formaldehyde and urea, sodium salt",FALSE, ,0, 
+29684,52277-33-5,"Poly(oxy-1,4-butanediyl), .alpha.-(1-oxo-2-propen-1-yl)-.omega.-[(1-oxo-2-propen-1-yl)oxy]-",FALSE, ,0, 
+29686,52277-71-1,"Chromate(1-), [1-[2-[2-(hydroxy-.kappa.O)-4-nitrophenyl]diazenyl-.kappa.N1]-2-naphthalenolato(2-)-.kappa.O][1-[2-[2-(hydroxy-.kappa.O)-5-nitrophenyl]diazenyl-.kappa.N1]-2-naphthalenolato(2-)-.kappa.O]-, hydrogen (1:1)",TRUE, CAS,1, Scout
+29690,nan,"2-Oxepanone, polymer with .alpha.-hydro-.omega.-hydroxypoly(oxy-1,2-ethanediyl)",FALSE, ,0, 
+29692,52285-95-7,"Ethanaminium, N,N,N-trimethyl-2-[(1-oxo-2-propen-1-yl)oxy]-, methyl sulfate (1:1), polymer with 2-propenamide",FALSE, ,0, 
+29693,52286-11-0,"2-Propenoic acid, polymer with 2-propenal, sodium salt",FALSE, ,0, 
+29694,52286-18-7,"Poly(oxy-1,2-ethanediyl), .alpha.-sulfo-.omega.-(octyloxy)-, ammonium salt (1:1)",FALSE, ,0, 
+29695,52286-19-8,"Poly(oxy-1,2-ethanediyl), .alpha.-sulfo-.omega.-(decyloxy)-, ammonium salt (1:1)",FALSE, ,0, 
+29697,52292-17-8,"Poly(oxy-1,2-ethanediyl), .alpha.-isooctadecyl-.omega.-hydroxy-",FALSE, ,0, 
+29698,52292-18-9,"Poly(oxy-1,4-butanediyl), .alpha.-hydro-.omega.-hydroxy-, polymer with 1,1'-methylenebis[4-isocyanatocyclohexane]",FALSE, ,0, 
+29699,52292-20-3,"1,4-Butanediol, polymer with .alpha.-hydro-.omega.-hydroxypoly(oxy-1,4-butanediyl) and 1,1'-methylenebis[4-isocyanatocyclohexane]",FALSE, ,0, 
+29701,nan,"2H-Anthra[1,2-d][1,3]oxazine-4,7,12(1H)-trione, 6-nitro-",FALSE, ,0, 
+29702,52298-44-9,"Benzenesulfonamide, 4-amino-2,5-dimethoxy-N-phenyl-",FALSE, ,0, 
+29703,52299-20-4,"1-Propanol, 2-[(hydroxymethyl)amino]-2-methyl-",FALSE, ,0, 
+29705,52301-18-5,"Benzene, [tris[(1-methylethenyl)oxy]silyl]-",FALSE, ,0, 
+29706,52301-70-9,"1,4-Benzenedisulfonic acid, 2,2'-[1,2-ethenediylbis[(3-sulfo-4,1-phenylene)imino[6-(4-morpholinyl)-1,3,5-triazine-4,2-diyl]imino]]bis-, sodium salt (1:6)",TRUE, CAS,1, Scout
+29708,52303-13-6,"1,3-Isobenzofurandione, polymer with 2,2-dimethyl-1,3-propanediol and 2-ethyl-2-(hydroxymethyl)-1,3-propanediol",FALSE, ,0, 
+29711,52304-21-9,"1-Tetradecanol, 1-(hydrogen sulfate), ammonium salt (1:1)",FALSE, ,0, 
+29712,nan,"Butanedioic acid, 2-(tetrapropenyl)-, monoester with 1,2-propanediol",FALSE, ,0, 
+29714,52314-67-7,"Cyclopropanecarbonyl chloride, 3-(2,2-dichloroethenyl)-2,2-dimethyl-",TRUE, CAS,2, Scout
+29715,52315-75-0,"L-Lysine, N6-(1-oxododecyl)-",TRUE, CAS,1, Scout
+29716,52320-66-8,"Butanamide, 2-[2-(4-chloro-2-nitrophenyl)diazenyl]-N-(4-ethoxyphenyl)-3-oxo-",FALSE, ,0, 
+29719,52333-30-9,"2-Naphthalenesulfonic acid, 5,5'-[(1-methylethylidene)bis(4,1-phenyleneoxysulfonyl-2,1-phenyleneazo)]bis[6-amino-4-hydroxy-, sodium salt (1:2)",FALSE, ,0, 
+29727,52338-87-1,"Urea, N,N'-bis[3-(dimethylamino)propyl]-",TRUE, CAS,3, Scout
+29731,52350-17-1,Cesium tungsten oxide,FALSE, ,0, 
+29736,52357-41-2,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate, (chloromethyl)ethenylbenzene and ethyl 2-propenoate",FALSE, ,0, 
+29737,52357-70-7,C.I. Pigment Brown 6,TRUE, CAS,3, Scout
+29739,52364-71-3,"[1,1'-Biphenyl]-4-carbonitrile, 4'-(pentyloxy)-",FALSE, ,0, 
+29741,52364-73-5,"[1,1'-Biphenyl]-4-carbonitrile, 4'-(octyloxy)-",FALSE, ,0, 
+29742,nan,"Poly(oxy-1,2-ethanediyl), .alpha.,.alpha.'-1,6-hexanediylbis[.omega.-hydroxy-",FALSE, ,0, 
+29744,52372-36-8,"7H-[1]Benzopyrano[3',2':3,4]pyrido[1,2-a]benzimidazole-6-carbonitrile, 3-(diethylamino)-7-oxo-",FALSE, ,0, 
+29745,52372-39-1,"7H-[1]Benzopyrano[3',2':3,4]pyrido[1,2-a]benzimidazole-6-carbonitrile, 3-(diethylamino)-7-imino-",FALSE, ,0, 
+29749,52392-53-7,"Guanidine, N,N'-diphenyl-, hydrochloride (1:?)",FALSE, ,0, 
+29751,52404-33-8,"2-Propenoic acid, 2-hydroxyethyl ester, polymer with 1,1'-methylenebis[4-isocyanatocyclohexane] and 2-oxepanone",TRUE, CAS,2, Scout
+29755,52406-22-1,"Butanoic acid, 3-oxo-, dodecyl ester",FALSE, ,0, 
+29756,52408-42-1,"2-Propenoic acid, 1,1'-[1,4-butanediylbis[oxy(2-hydroxy-3,1-propanediyl)]] ester",TRUE, CAS,1, Scout
+29759,52408-84-1,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.',.alpha.''-1,2,3-propanetriyltris[.omega.-[(1-oxo-2-propen-1-yl)oxy]-",TRUE, CAS,1, Scout
+29760,52408-85-2,"2,5-Furandione, polymer with .alpha.,.alpha.',.alpha.''-1,2,3-propanetriyltris[.omega.-hydroxypoly[oxy(methyl-1,2-ethanediyl)]]",FALSE, ,0, 
+29761,nan,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.',.alpha.''-1,2,3-propanetriyltris[.omega.-hydroxy-, polymer with 1,1'-methylenebis[4-isocyanatobenzene]",FALSE, ,0, 
+29762,52410-74-9,"Poly(oxy-1,2-ethanediyl), .alpha.-(methylsulfonyl)-.omega.-[(methylsulfonyl)oxy]-",FALSE, ,0, 
+29763,52411-33-3,"Benzenamine, 2,2'-[1,2-ethanediylbis(thio)]bis-",FALSE, ,0, 
+29766,52431-78-4,"5H-Tetrazole-5-thione, 1,2-dihydro-1-(4-hydroxyphenyl)-",FALSE, ,0, 
+29767,nan,"Oxirane, 2-methyl-, polymer with oxirane, ether with .beta.-D-fructofuranosyl .alpha.-D-glucopyranoside",FALSE, ,0, 
+29768,52434-90-9,"1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3,5-tris(2,3-dibromopropyl)-",TRUE, CAS,1, Scout
+29770,52435-14-0,"Benzothiazolium, 2-[2-[(1,3-dihydro-1,3-dimethyl-2H-benzimidazol-2-ylidene)methyl]diazenyl]-3-methyl-, methyl sulfate (1:1)",FALSE, ,0, 
+29772,52438-26-3,"Platinum, diaquatetrahydroxy-",FALSE, ,0, 
+29773,52449-44-2,"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, butyl ester",FALSE, ,0, 
+29774,52450-80-3,"Guanidine, N-cyano-, polymer with 1,2-ethanediamine and formaldehyde",FALSE, ,0, 
+29776,52453-94-8,"1,3-Isobenzofurandione, polymer with 2,2-dimethyl-1,3-propanediol, 2,5-furandione and 1,2-propanediol",FALSE, ,0, 
+29777,52455-30-8,"Chromate(1-), triaqua[3-(hydroxy-.kappa.O)-4-[2-[2-(hydroxy-.kappa.O)-1-naphthalenyl]diazenyl-.kappa.N1]-7-nitro-1-naphthalenesulfonato(3-)]-, sodium (1:1)",FALSE, ,0, 
+29778,52457-54-2,"Nonanedioic acid, potassium salt (1:2)",FALSE, ,0, 
+29780,52467-63-7,"1-Hexadecanaminium, N,N-dihexadecyl-N-methyl-, chloride (1:1)",FALSE, ,0, 
+29781,52469-00-8,"Formaldehyde, polymer with [1,1'-biphenyl]-4-ol and 4-(1,1-dimethylethyl)phenol",FALSE, ,0, 
+29783,52469-76-8,"2,7-Naphthalenedisulfonic acid, 5-amino-3-[2-[4-[2-[4-[2-(6-amino-1-hydroxy-3-sulfo-2-naphthalenyl)diazenyl]phenyl]diazenyl]phenyl]diazenyl]-4-hydroxy-, sodium salt (1:3)",FALSE, ,0, 
+29784,52470-29-8,"Pentanedioic acid, polymer with N1-(2-aminoethyl)-1,2-ethanediamine and 2-(chloromethyl)oxirane",FALSE, ,0, 
+29785,52470-47-0,"Formaldehyde, polymer with N1-(2-aminoethyl)-1,2-ethanediamine",TRUE, CAS,1, Scout
+29786,52474-60-9,"3-Cyclohexene-1-carboxaldehyde, 1-methyl-3-(4-methyl-3-penten-1-yl)-",FALSE, ,0, 
+29787,52475-86-2,"3-Cyclohexene-1-carboxaldehyde, 1-methyl-4-(4-methyl-3-penten-1-yl)-",FALSE, ,0, 
+29788,52475-89-5,"3-Cyclohexene-1-carboxaldehyde, 3-(4-methyl-3-penten-1-yl)-",FALSE, ,0, 
+29789,52479-58-0,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.'-(2,2-dimethyl-1,3-propanediyl)bis[.omega.-hydroxy-",FALSE, ,0, 
+29791,52495-41-7,"Aurate(1-), tetrabromo-, sodium (1:1), (SP-4-1)-",FALSE, ,0, 
+29795,52497-46-8,"Benzenamine, 4,4'-carbonimidoylbis[N,N-dimethyl-, sulfate (1:?)",FALSE, ,0, 
+29796,52500-92-2,"2,5-Furandione, telomer with ethenylbenzene and (1-methylethyl)benzene, sodium salt",TRUE, CAS,3, Scout
+29800,52503-15-8,"Poly(oxy-1,2-ethanediyl), .alpha.-(nonylphenyl)-.omega.-hydroxy-, phosphate, potassium salt",TRUE, CAS,1, Scout
+29801,52503-24-9,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-hydroxy-, phosphate",FALSE, ,0, 
+29802,52503-44-3,"Oxirane, 2-methyl-, polymer with oxirane, di-2-propenoate",FALSE, ,0, 
+29804,52509-84-9,"Benzoic acid, 4-(1,1-dimethylethyl)-, calcium salt (2:1)",FALSE, ,0, 
+29808,52514-66-6,"Phenol, 2-methoxy-4-(4,4,6-trimethyl-1,3-dioxan-2-yl)-",FALSE, ,0, 
+29809,52514-67-7,"Phenol, 2-ethoxy-4-(4,4,6-trimethyl-1,3-dioxan-2-yl)-",FALSE, ,0, 
+29810,52517-67-6,"Undecane, 1,1-dimethoxy-",FALSE, ,0, 
+29812,nan,"Poly(oxy-1,2-ethanediyl), .alpha.-sulfo-.omega.-(dioctylphenoxy)-, ammonium salt (1:1)",FALSE, ,0, 
+29814,52549-57-2,"Acetamide, N-[5-[bis(2-methoxyethyl)amino]-2-[2-(2-cyano-4-nitrophenyl)diazenyl]phenyl]-",FALSE, ,0, 
+29815,52550-44-4,"Poly(oxy-1,2-ethanediyl), .alpha.-(3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)-.omega.-hydroxy-",TRUE, CAS,2, Scout
+29818,52556-42-0,"1-Propanesulfonic acid, 2-hydroxy-3-(2-propen-1-yloxy)-, sodium salt (1:1)",FALSE, ,0, 
+29819,52557-97-8,"Bicyclo[2.2.1]heptane-2-carboxylic acid, 3,3-dimethyl-, methyl ester",FALSE, ,0, 
+29820,52557-98-9,"Bicyclo[2.2.1]heptane-2-carboxylic acid, 3,3-dimethyl-",FALSE, ,0, 
+29821,52558-73-3,"Glycine, N-methyl-N-(1-oxotetradecyl)-",FALSE, ,0, 
+29822,52562-19-3,"Benzenamine, 2-(1-methylethenyl)-",FALSE, ,0, 
+29827,52581-71-2,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-(9Z)-9-octadecen-1-yl-.omega.-hydroxy-",TRUE, CAS,1, Scout
+29830,52585-16-7,"Zinc, bis[O,O-bis(1-methylethyl) phosphorodithioato-.kappa.S]bis(cyclohexanamine)-, (T-4)-",FALSE, ,0, 
+29831,52587-68-5,"Chromate(2-), [3-[2-[4,5-dihydro-3-methyl-5-(oxo-.kappa.O)-1-phenyl-1H-pyrazol-4-yl]diazenyl-.kappa.N]-4-(hydroxy-.kappa.O)benzenesulfonato(3-)][1-[2-[2-(hydroxy-.kappa.O)-5-(2-phenyldiazenyl)phenyl]diazenyl-.kappa.N1]-2-naphthalenolato(2-)-.kappa.O]-, sodium (1:2)",FALSE, ,0, 
+29832,52591-25-0,"9,10-Anthracenedione, 2,2'-(1,3,4-oxadiazole-2,5-diyl)bis[1-amino-",FALSE, ,0, 
+29833,52591-27-2,"2-Propenoic acid, 3,3,4,4,5,5,6,6,6-nonafluorohexyl ester",FALSE, ,0, 
+29837,52613-22-6,"Formaldehyde, polymer with dimethylnaphthalene",FALSE, ,0, 
+29838,52623-95-7,"Poly(oxy-1,2-ethanediyl), .alpha.-[(1,1,3,3-tetramethylbutyl)phenyl]-.omega.-hydroxy-, phosphate",TRUE, CAS,2, Scout
+29839,52624-57-4,"Oxirane, 2-methyl-, polymer with oxirane, ether with 2-ethyl-2-(hydroxymethyl)-1,3-propanediol (3:1)",TRUE, CAS,3, Scout
+29840,52625-13-5,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-hydro-.omega.-hydroxy-, ether with D-glucitol (6:1)",TRUE, CAS,1, Scout
+29842,52627-55-1,"Hexanedioic acid, ester with 2,2-bis(hydroxymethyl)-1,3-propanediol",FALSE, ,0, 
+29843,nan,"2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, phosphate",FALSE, ,0, 
+29844,52628-25-8,Ammonium zinc chloride,FALSE, ,0, 
+29847,52636-67-6,"Sulfamic acid, compd. with morpholine (1:1)",FALSE, ,0, 
+29849,52640-81-0,"2-Propenoic acid, polymer with 2-ethylhexyl 2-propenoate, ethyl 2-propenoate, N-(hydroxymethyl)-2-propenamide and 2-propenenitrile",TRUE, CAS,1, Scout
+29853,nan,Isoeicosanol,FALSE, ,0, 
+29854,52656-15-2,"Hexanedioic acid, polymer with 1,3-diisocyanatomethylbenzene and 2-ethyl-2-(hydroxymethyl)-1,3-propanediol",FALSE, ,0, 
+29856,52663-57-7,"Ethanol, 2-butoxy-, sodium salt (1:1)",FALSE, ,0, 
+29858,52668-84-5,"1,2-Ethanediamine, N1,N2-bis(2-aminoethyl)-, acetate (1:4)",FALSE, ,0, 
+29860,52668-97-0,"Poly(oxy-1,2-ethanediyl), .alpha.-(1-oxooctadecen-1-yl)-.omega.-[(1-oxooctadecen-1-yl)oxy]-",FALSE, ,0, 
+29861,52671-38-2,"9,10-Anthracenedione, 2,2'-[1,4-phenylenebis(1,3,4-oxadiazole-5,2-diyl)]bis[1-amino-",FALSE, ,0, 
+29863,52673-15-1,"Benzimidazo[2,1-b]benzo[lmn][3,8]phenanthroline-1,3,6(2H)-trione, 2-(3-methoxypropyl)-9(or 10)-methyl-",FALSE, ,0, 
+29865,52677-44-8,"Chromate(1-), [4-[2-[4,5-dihydro-3-methyl-5-(oxo-.kappa.O)-1-(3-sulfophenyl)-1H-pyrazol-4-yl]diazenyl-.kappa.N1]-3-(hydroxy-.kappa.O)-1-naphthalenesulfonato(4-)]-, sodium (1:1)",FALSE, ,0, 
+29869,52697-38-8,"Acetamide, N-[2-[2-(2-bromo-4,6-dinitrophenyl)diazenyl]-5-(diethylamino)phenyl]-",TRUE, CAS,1, Scout
+29870,52698-84-7,"1,10-Phenanthroline, 2,9-dimethyl-4,7-diphenylsulfonyl-, disulfo deriv., disodium salt (1:2)",FALSE, ,0, 
+29871,52709-83-8,"[1,1'-Biphenyl]-4-carbonitrile, 4'-butyl-",FALSE, ,0, 
+29872,52709-84-9,"[1,1'-Biphenyl]-4-carbonitrile, 4'-octyl-",TRUE, CAS,1, Scout
+29874,52709-86-1,"[1,1'-Biphenyl]-4-carbonitrile, 4'-propoxy-",TRUE, CAS,3, Scout
+29877,52711-52-1,"2,7-Decadienal, (2E,7Z)-",FALSE, ,0, 
+29878,52715-93-2,"Methionine, methionyl-",FALSE, ,0, 
+29882,52720-34-0,"2,5-Furandione, telomer with ethenylbenzene and (1-methylethyl)benzene, ammonium salt",TRUE, CAS,2, Scout
+29884,52722-38-0,"Methanamine, N-methyl-, polymer with ammonia and 2-(chloromethyl)oxirane",FALSE, ,0, 
+29886,52722-86-8,"1-Piperidineethanol, 4-hydroxy-2,2,6,6-tetramethyl-",FALSE, ,0, 
+29891,52732-72-6,"Sulfuric acid, lead salt, tetrabasic",FALSE, ,0, 
+29894,52734-36-8,"2-Propenoic acid, 2-methyl-, 2-(3-oxazolidinyl)ethyl ester, homopolymer",FALSE, ,0, 
+29896,52738-34-8,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-methyl-2-propenoate, butyl 2-propenoate, ethenylbenzene and 1,2-propanediol mono(2-methyl-2-propenoate)",FALSE, ,0, 
+29898,52739-00-1,"2,5-Furandione, polymer with 1,1'-[(1-methylethylidene)bis(4,1-phenyleneoxy)]bis[2-propanol]",FALSE, ,0, 
+29899,52740-90-6,"2-Anthracenecarboxamide, 1-amino-N-(3-bromo-9,10-dihydro-9,10-dioxo-2-anthracenyl)-9,10-dihydro-9,10-dioxo-",FALSE, ,0, 
+29900,52746-49-3,"1,10-Phenanthrolinedisulfonic acid, 4,7-diphenyl-, sodium salt (1:2)",TRUE, CAS,1, Scout
+29901,52747-01-0,"Propanol, [(1-methyl-1,2-ethanediyl)bis(oxy)]bis-, polymer with 1,1'-methylenebis[4-isocyanatobenzene]",FALSE, ,0, 
+29905,52767-61-0,"Acetic acid, 2-hydroxy-, 1,1'-(1,2-ethanediyl) ester",FALSE, ,0, 
+29906,52769-39-8,"1H-1,2,4-Triazolium, dimethyl-3-[1-[4-[methyl(phenylmethyl)amino]phenyl]diazenyl]-, trichlorozincate(1-) (1:1)",FALSE, ,0, 
+29907,52788-71-3,"2-Oxiranecarboxylic acid, 3-(4-methylphenyl)-, ethyl ester",FALSE, ,0, 
+29911,52793-11-0,"Butanamide, N-(5-chloro-2-methoxyphenyl)-3-oxo-",FALSE, ,0, 
+29914,52794-79-3,"Isooctadecanamide, N,N-bis(2-hydroxyethyl)-",FALSE, ,0, 
+29917,52821-24-6,"1H-Benz[de]isoquinoline-1,3(2H)-dione, 2-(3-hydroxypropyl)-6-[(3-hydroxypropyl)amino]-",FALSE, ,0, 
+29919,52825-57-7,"2-Propenoic acid, 2-methyl-, polymer with butyl 2-propenoate, ethenylbenzene, methyl 2-methyl-2-propenoate and 2-methylpropyl 2-methyl-2-propenoate",FALSE, ,0, 
+29923,nan,"Decanedioic acid, 1,10-bis(2,2,6,6-tetramethyl-4-piperidinyl) ester",FALSE, ,0, 
+29928,nan,"2-Propenoic acid, polymer with ethenylbenzene and (1-methylethenyl)benzene",FALSE, ,0, 
+29929,nan,"Butanedioic acid, 2-methylene-, polymer with 1,3-butadiene, ethenylbenzene and 2-methyl-2-propenoic acid",FALSE, ,0, 
+29936,52846-56-7,"Butanamide, N-(2,3-dihydro-2-oxo-1H-benzimidazol-5-yl)-2-[2-(4-nitrophenyl)diazenyl]-3-oxo-",FALSE, ,0, 
+29944,52871-18-8,"Butanoic acid, 4-(octadecylamino)-4-oxosulfo-, sodium salt (1:2)",FALSE, ,0, 
+29945,52880-57-6,"2-Propenoic acid, homopolymer, compd. with 2,2',2''-nitrilotris[ethanol]",TRUE, CAS,1, Scout
+29947,52892-97-4,"2-Propenoic acid, 2-methyl-, 1,1'-[1,4-cyclohexanediylbis(methylene)] ester",FALSE, ,0, 
+29949,52898-18-7,"1,3-Propanediamine, N1-[3-(dodecyloxy)propyl]-",FALSE, ,0, 
